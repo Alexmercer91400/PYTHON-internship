@@ -1,0 +1,801 @@
+employee_id,employee_name,gender,department,role,store_id,region_id,hire_date,email
+EM00001,Asha Sharma,Female,Billing,Support Agent,SR0176,RG04,31-01-2021,asha.sharma@nexatel.co.in
+EM00002,Kavya Tiwari,Female,Customer Support,Team Lead,SR1221,RG01,23-11-2017,kavya.tiwari@nexatel.co.in
+EM00003,Nisha Shaikh,Female,Store Operations,Field Technician,SR0538,RG04,04-12-2015,nisha.shaikh@nexatel.co.in
+EM00004,Myra Pillai,Female,Store Operations,Network Engineer,SR1604,RG03,01-12-2015,myra.pillai@nexatel.co.in
+EM00005,Gopal Kammela,Male,Network Operations,Retention Specialist,SR0212,RG04,10-05-2013,gopal.kammela@nexatel.co.in
+EM00006,Ishaan Chakraborty,Male,Marketing,Sales Executive,SR0920,RG02,10-04-2018,ishaan.chakraborty@nexatel.co.in
+EM00007,Megha Pathan,Female,Billing,Marketing Associate,SR1640,RG01,01-05-2016,megha.pathan@nexatel.co.in
+EM00008,Manish Naidu,Male,Retention,Field Technician,SR1373,RG02,05-09-2021,manish.naidu@nexatel.co.in
+EM00009,Sneha Das,Female,Network Operations,Retention Specialist,SR0346,RG01,19-12-2025,sneha.das@nexatel.co.in
+EM00010,Nisha Mohanty,Female,Customer Support,Network Engineer,SR0367,RG01,14-11-2024,nisha.mohanty@nexatel.co.in
+EM00011,Rekha Parmar,Female,Customer Support,Network Engineer,SR0905,RG04,03-10-2015,rekha.parmar@nexatel.co.in
+EM00012,Rahul Bhardwaj,Male,Network Operations,Billing Analyst,SR2023,RG01,25-12-2014,rahul.bhardwaj@nexatel.co.in
+EM00013,Anika Bhattacharya,Female,Field Service,Network Engineer,SR1093,RG01,12-12-2024,anika.bhattacharya@nexatel.co.in
+EM00014,Rohan Rao,Male,Network Operations,Retention Specialist,SR1457,RG03,17-03-2020,rohan.rao@nexatel.co.in
+EM00015,Ayesha Sharma,Female,Field Service,Sales Executive,SR1920,RG03,06-04-2013,ayesha.sharma@nexatel.co.in
+EM00016,Varun Khanna,Male,Network Operations,Network Engineer,SR0392,RG03,10-07-2019,varun.khanna@nexatel.co.in
+EM00017,Gopal Dubey,Male,Billing,Team Lead,SR1100,RG01,24-02-2025,gopal.dubey@nexatel.co.in
+EM00018,Navya Pillai,Female,Field Service,Senior Support Agent,SR1350,RG02,09-01-2023,navya.pillai@nexatel.co.in
+EM00019,Vihaan Gowda,Male,Customer Support,Retention Specialist,SR1177,RG01,10-01-2017,vihaan.gowda@nexatel.co.in
+EM00020,Anita Goel,Female,Field Service,Retention Specialist,SR0184,RG01,29-01-2021,anita.goel@nexatel.co.in
+EM00021,Mahesh Gaikwad,Male,Customer Support,Senior Support Agent,SR0764,RG03,02-04-2022,mahesh.gaikwad@nexatel.co.in
+EM00022,Nandini Dubey,Female,Sales,Senior Support Agent,SR0291,RG04,09-08-2015,nandini.dubey@nexatel.co.in
+EM00023,Rahul Kulkarni,Male,Store Operations,Network Engineer,SR0313,RG01,14-01-2025,rahul.kulkarni@nexatel.co.in
+EM00024,Suresh Menon,Male,Field Service,Store Manager,SR1487,RG03,24-01-2015,suresh.menon@nexatel.co.in
+EM00025,Megha Sen,Female,Customer Support,Support Agent,SR0773,RG02,23-04-2015,megha.sen@nexatel.co.in
+EM00026,Kiara Goel,Female,Retention,Support Agent,SR1162,RG03,05-11-2023,kiara.goel@nexatel.co.in
+EM00027,Vihaan Paul,Male,Store Operations,Support Agent,SR1220,RG04,14-06-2018,vihaan.paul@nexatel.co.in
+EM00028,Bhavana Borah,Female,Customer Support,Team Lead,SR0945,RG02,07-03-2018,bhavana.borah@nexatel.co.in
+EM00029,Ankit Trivedi,Male,Marketing,Network Engineer,SR0258,RG03,23-12-2013,ankit.trivedi@nexatel.co.in
+EM00030,Siddharth Rao,Male,Billing,Marketing Associate,SR1729,RG04,17-03-2014,siddharth.rao@nexatel.co.in
+EM00031,Aadhya Subramanian,Female,Network Operations,Senior Support Agent,SR1952,RG03,05-08-2024,aadhya.subramanian@nexatel.co.in
+EM00032,Kabir Rao,Male,Retention,Team Lead,SR1374,RG01,22-10-2021,kabir.rao@nexatel.co.in
+EM00033,Ayaan Shinde,Male,Store Operations,Retention Specialist,SR0765,RG01,29-07-2021,ayaan.shinde@nexatel.co.in
+EM00034,Abhishek Desai,Male,Marketing,Support Agent,SR1608,RG03,06-07-2020,abhishek.desai@nexatel.co.in
+EM00035,Kabir Roy,Male,Store Operations,Retention Specialist,SR1473,RG04,12-02-2013,kabir.roy@nexatel.co.in
+EM00036,Lata Chavan,Female,Sales,Senior Support Agent,SR1342,RG04,15-12-2016,lata.chavan@nexatel.co.in
+EM00037,Diya Sharma,Female,Retention,Senior Support Agent,SR1416,RG01,11-05-2015,diya.sharma@nexatel.co.in
+EM00038,Nikhil Bansal,Male,Network Operations,Senior Support Agent,SR1176,RG04,27-06-2013,nikhil.bansal@nexatel.co.in
+EM00039,Pranav Murthy,Male,Field Service,Billing Analyst,SR0093,RG01,04-05-2021,pranav.murthy@nexatel.co.in
+EM00040,Amit Mahanta,Male,Billing,Billing Analyst,SR0760,RG01,20-12-2019,amit.mahanta@nexatel.co.in
+EM00041,Vihaan Jadhav,Male,Retention,Network Engineer,SR1249,RG04,28-06-2017,vihaan.jadhav@nexatel.co.in
+EM00042,Suresh Shah,Male,Marketing,Network Engineer,SR1686,RG01,03-01-2020,suresh.shah@nexatel.co.in
+EM00043,Ravi Kammela,Male,Marketing,Sales Executive,SR0932,RG02,25-01-2015,ravi.kammela@nexatel.co.in
+EM00044,Aditya Iyer,Male,Store Operations,Field Technician,SR1244,RG01,27-03-2023,aditya.iyer@nexatel.co.in
+EM00045,Imran Reddy,Male,Retention,Network Engineer,SR0482,RG01,04-09-2016,imran.reddy@nexatel.co.in
+EM00046,Vidya Kulkarni,Female,Customer Support,Sales Executive,SR1044,RG04,22-04-2022,vidya.kulkarni@nexatel.co.in
+EM00047,Yash Gaikwad,Male,Field Service,Senior Support Agent,SR0788,RG04,17-10-2018,yash.gaikwad@nexatel.co.in
+EM00048,Vihaan Hegde,Male,Store Operations,Billing Analyst,SR0034,RG03,22-04-2022,vihaan.hegde@nexatel.co.in
+EM00049,Harish Singh,Male,Field Service,Field Technician,SR1311,RG03,07-03-2021,harish.singh@nexatel.co.in
+EM00050,Karthik More,Male,Marketing,Sales Executive,SR1866,RG01,20-11-2014,karthik.more@nexatel.co.in
+EM00051,Sahil Joshi,Male,Sales,Support Agent,SR0990,RG04,26-12-2017,sahil.joshi@nexatel.co.in
+EM00052,Asha Chandran,Female,Field Service,Support Agent,SR2002,RG04,20-08-2016,asha.chandran@nexatel.co.in
+EM00053,Karthik Desai,Male,Sales,Network Engineer,SR1920,RG03,25-12-2016,karthik.desai@nexatel.co.in
+EM00054,Ayaan Malhotra,Male,Billing,Marketing Associate,SR1440,RG02,09-04-2017,ayaan.malhotra@nexatel.co.in
+EM00055,Geeta Roy,Female,Field Service,Retention Specialist,SR1155,RG01,08-02-2014,geeta.roy@nexatel.co.in
+EM00056,Faisal Thakkar,Male,Sales,Network Engineer,SR1108,RG04,23-08-2014,faisal.thakkar@nexatel.co.in
+EM00057,Gopal Goel,Male,Retention,Marketing Associate,SR0403,RG04,20-04-2018,gopal.goel@nexatel.co.in
+EM00058,Pankaj Banerjee,Male,Sales,Field Technician,SR2070,RG04,14-03-2015,pankaj.banerjee@nexatel.co.in
+EM00059,Pooja Das,Female,Field Service,Billing Analyst,SR1656,RG04,20-08-2016,pooja.das@nexatel.co.in
+EM00060,Abhishek Saxena,Male,Field Service,Marketing Associate,SR1979,RG03,04-05-2012,abhishek.saxena@nexatel.co.in
+EM00061,Siddharth Modi,Male,Store Operations,Senior Support Agent,SR0048,RG03,01-12-2025,siddharth.modi@nexatel.co.in
+EM00062,Deepa Sarkar,Female,Marketing,Marketing Associate,SR0785,RG03,06-01-2017,deepa.sarkar@nexatel.co.in
+EM00063,Bhavana Murthy,Female,Billing,Retention Specialist,SR0350,RG01,20-03-2016,bhavana.murthy@nexatel.co.in
+EM00064,Ravi Menon,Male,Billing,Network Engineer,SR2156,RG01,17-01-2013,ravi.menon@nexatel.co.in
+EM00065,Vijay Ahmed,Male,Sales,Marketing Associate,SR0394,RG03,12-05-2016,vijay.ahmed@nexatel.co.in
+EM00066,Sanjay Shaikh,Male,Billing,Network Engineer,SR0845,RG03,26-01-2019,sanjay.shaikh@nexatel.co.in
+EM00067,Krishna Krishnan,Male,Billing,Store Manager,SR1860,RG01,23-09-2022,krishna.krishnan@nexatel.co.in
+EM00068,Aakash Yadav,Male,Retention,Support Agent,SR0623,RG03,18-03-2020,aakash.yadav@nexatel.co.in
+EM00069,Harish Mohanty,Male,Billing,Retention Specialist,SR0655,RG04,16-03-2019,harish.mohanty@nexatel.co.in
+EM00070,Naveen More,Male,Marketing,Support Agent,SR0637,RG01,08-12-2023,naveen.more@nexatel.co.in
+EM00071,Swati Aggarwal,Female,Marketing,Support Agent,SR0277,RG03,11-06-2013,swati.aggarwal@nexatel.co.in
+EM00072,Aanya Mukherjee,Female,Retention,Billing Analyst,SR0310,RG01,18-09-2016,aanya.mukherjee@nexatel.co.in
+EM00073,Aanya More,Female,Store Operations,Store Manager,SR2045,RG04,24-05-2018,aanya.more@nexatel.co.in
+EM00074,Praveen Chauhan,Male,Store Operations,Support Agent,SR1936,RG03,02-04-2012,praveen.chauhan@nexatel.co.in
+EM00075,Akash Jadhav,Male,Network Operations,Senior Support Agent,SR0828,RG03,24-03-2016,akash.jadhav@nexatel.co.in
+EM00076,Rajesh Rao,Male,Field Service,Network Engineer,SR2084,RG01,14-02-2020,rajesh.rao@nexatel.co.in
+EM00077,Pranav Sheikh,Male,Marketing,Network Engineer,SR1841,RG04,04-03-2013,pranav.sheikh@nexatel.co.in
+EM00078,Sahil Pawar,Male,Marketing,Team Lead,SR1836,RG04,22-01-2012,sahil.pawar@nexatel.co.in
+EM00079,Akash Chavan,Male,Sales,Network Engineer,SR1499,RG04,27-11-2022,akash.chavan@nexatel.co.in
+EM00080,Ayaan Aggarwal,Male,Billing,Support Agent,SR1787,RG03,25-09-2017,ayaan.aggarwal@nexatel.co.in
+EM00081,Venkat Hegde,Male,Marketing,Store Manager,SR0974,RG03,25-07-2018,venkat.hegde@nexatel.co.in
+EM00082,Pooja Das,Female,Sales,Sales Executive,SR0040,RG03,13-07-2012,pooja.das@nexatel.co.in
+EM00083,Krishna Bhattacharya,Male,Sales,Team Lead,SR1156,RG01,08-09-2014,krishna.bhattacharya@nexatel.co.in
+EM00084,Karthik Mehta,Male,Marketing,Retention Specialist,SR1933,RG02,06-01-2017,karthik.mehta@nexatel.co.in
+EM00085,Amit Chauhan,Male,Sales,Senior Support Agent,SR0461,RG04,23-06-2015,amit.chauhan@nexatel.co.in
+EM00086,Aakash Mishra,Male,Marketing,Support Agent,SR0567,RG03,29-05-2016,aakash.mishra@nexatel.co.in
+EM00087,Pankaj Thakkar,Male,Marketing,Retention Specialist,SR0679,RG02,01-12-2020,pankaj.thakkar@nexatel.co.in
+EM00088,Sana Rastogi,Female,Network Operations,Network Engineer,SR0374,RG01,24-03-2012,sana.rastogi@nexatel.co.in
+EM00089,Kiara Jadhav,Female,Retention,Retention Specialist,SR0045,RG01,06-03-2024,kiara.jadhav@nexatel.co.in
+EM00090,Faisal Gupta,Male,Field Service,Support Agent,SR0648,RG01,08-10-2020,faisal.gupta@nexatel.co.in
+EM00091,Siddharth Saxena,Male,Field Service,Marketing Associate,SR2027,RG01,18-09-2013,siddharth.saxena@nexatel.co.in
+EM00092,Tanvi Sheikh,Female,Sales,Senior Support Agent,SR0496,RG04,28-10-2019,tanvi.sheikh@nexatel.co.in
+EM00093,Sahil Trivedi,Male,Customer Support,Senior Support Agent,SR0198,RG03,24-12-2024,sahil.trivedi@nexatel.co.in
+EM00094,Srinivas Pawar,Male,Store Operations,Billing Analyst,SR2149,RG03,09-03-2017,srinivas.pawar@nexatel.co.in
+EM00095,Nisha Bose,Female,Marketing,Team Lead,SR1002,RG04,02-08-2021,nisha.bose@nexatel.co.in
+EM00096,Ananya Sheikh,Female,Field Service,Marketing Associate,SR0170,RG03,23-05-2015,ananya.sheikh@nexatel.co.in
+EM00097,Srinivas Krishnan,Male,Marketing,Senior Support Agent,SR0030,RG02,17-12-2022,srinivas.krishnan@nexatel.co.in
+EM00098,Srinivas Rao,Male,Store Operations,Team Lead,SR1857,RG03,28-05-2021,srinivas.rao@nexatel.co.in
+EM00099,Pankaj Ansari,Male,Field Service,Marketing Associate,SR0727,RG02,30-09-2014,pankaj.ansari@nexatel.co.in
+EM00100,Sahil Mehta,Male,Sales,Store Manager,SR1763,RG01,24-08-2024,sahil.mehta@nexatel.co.in
+EM00101,Anil Chatterjee,Male,Customer Support,Billing Analyst,SR0647,RG02,25-10-2023,anil.chatterjee@nexatel.co.in
+EM00102,Swati Kammela,Female,Network Operations,Support Agent,SR1955,RG03,14-10-2018,swati.kammela@nexatel.co.in
+EM00103,Devansh Kulkarni,Male,Network Operations,Senior Support Agent,SR0444,RG04,26-02-2022,devansh.kulkarni@nexatel.co.in
+EM00104,Tarun More,Male,Billing,Retention Specialist,SR0107,RG03,21-08-2025,tarun.more@nexatel.co.in
+EM00105,Lakshmi Iyer,Female,Marketing,Retention Specialist,SR1909,RG02,05-05-2025,lakshmi.iyer@nexatel.co.in
+EM00106,Rekha Parmar,Female,Billing,Sales Executive,SR1374,RG01,03-05-2022,rekha.parmar@nexatel.co.in
+EM00107,Ritika Bhat,Female,Customer Support,Senior Support Agent,SR0487,RG02,28-08-2022,ritika.bhat@nexatel.co.in
+EM00108,Naveen Bhattacharya,Male,Store Operations,Senior Support Agent,SR1259,RG03,06-02-2022,naveen.bhattacharya@nexatel.co.in
+EM00109,Zara Qureshi,Female,Sales,Support Agent,SR0050,RG01,08-11-2015,zara.qureshi@nexatel.co.in
+EM00110,Rajesh Verma,Male,Retention,Marketing Associate,SR1463,RG02,02-08-2022,rajesh.verma@nexatel.co.in
+EM00111,Ishaan Krishnan,Male,Billing,Field Technician,SR1357,RG04,23-08-2021,ishaan.krishnan@nexatel.co.in
+EM00112,Pranav Saha,Male,Sales,Marketing Associate,SR1642,RG03,21-10-2024,pranav.saha@nexatel.co.in
+EM00113,Aakash Rastogi,Male,Marketing,Store Manager,SR1001,RG01,09-03-2015,aakash.rastogi@nexatel.co.in
+EM00114,Gopal Khan,Male,Store Operations,Store Manager,SR0989,RG01,20-07-2022,gopal.khan@nexatel.co.in
+EM00115,Amit Ansari,Male,Field Service,Billing Analyst,SR0183,RG03,28-10-2018,amit.ansari@nexatel.co.in
+EM00116,Deepa Achar,Female,Customer Support,Billing Analyst,SR1712,RG04,07-09-2012,deepa.achar@nexatel.co.in
+EM00117,Pranav Goel,Male,Retention,Store Manager,SR1686,RG01,13-01-2025,pranav.goel@nexatel.co.in
+EM00118,Ravi Malhotra,Male,Billing,Retention Specialist,SR0234,RG04,03-09-2024,ravi.malhotra@nexatel.co.in
+EM00119,Sunita Banerjee,Female,Network Operations,Retention Specialist,SR0470,RG04,02-03-2015,sunita.banerjee@nexatel.co.in
+EM00120,Srinivas Goel,Male,Network Operations,Senior Support Agent,SR0086,RG01,20-02-2015,srinivas.goel@nexatel.co.in
+EM00121,Anita Vyas,Female,Customer Support,Marketing Associate,SR1695,RG01,19-11-2021,anita.vyas@nexatel.co.in
+EM00122,Tarun Chavan,Male,Customer Support,Retention Specialist,SR1849,RG01,13-07-2012,tarun.chavan@nexatel.co.in
+EM00123,Geeta Paul,Female,Marketing,Billing Analyst,SR1844,RG04,26-04-2016,geeta.paul@nexatel.co.in
+EM00124,Riya Krishnan,Female,Customer Support,Network Engineer,SR1208,RG03,25-02-2020,riya.krishnan@nexatel.co.in
+EM00125,Preeti Raju,Female,Customer Support,Billing Analyst,SR1101,RG03,24-03-2023,preeti.raju@nexatel.co.in
+EM00126,Ayaan Ahmed,Male,Field Service,Retention Specialist,SR0933,RG02,31-01-2025,ayaan.ahmed@nexatel.co.in
+EM00127,Abhishek Subramanian,Male,Billing,Team Lead,SR1736,RG02,08-10-2014,abhishek.subramanian@nexatel.co.in
+EM00128,Vidya Sheikh,Female,Network Operations,Marketing Associate,SR2134,RG02,09-01-2016,vidya.sheikh@nexatel.co.in
+EM00129,Aarav Mukherjee,Male,Customer Support,Network Engineer,SR1723,RG02,13-04-2020,aarav.mukherjee@nexatel.co.in
+EM00130,Vijay Mehrotra,Male,Customer Support,Marketing Associate,SR1834,RG01,25-05-2015,vijay.mehrotra@nexatel.co.in
+EM00131,Anil Pawar,Male,Retention,Field Technician,SR1255,RG03,13-06-2017,anil.pawar@nexatel.co.in
+EM00132,Varun Subramanian,Male,Sales,Sales Executive,SR0912,RG02,19-04-2024,varun.subramanian@nexatel.co.in
+EM00133,Sirisha Hussain,Female,Retention,Network Engineer,SR0851,RG03,30-03-2013,sirisha.hussain@nexatel.co.in
+EM00134,Rajesh Solanki,Male,Store Operations,Field Technician,SR0576,RG03,22-11-2014,rajesh.solanki@nexatel.co.in
+EM00135,Nikhil Thakkar,Male,Customer Support,Team Lead,SR1949,RG03,23-06-2021,nikhil.thakkar@nexatel.co.in
+EM00136,Harish Bhat,Male,Retention,Marketing Associate,SR0289,RG02,04-03-2012,harish.bhat@nexatel.co.in
+EM00137,Venkat Borah,Male,Billing,Billing Analyst,SR0162,RG04,13-10-2021,venkat.borah@nexatel.co.in
+EM00138,Suresh Krishnan,Male,Network Operations,Billing Analyst,SR0046,RG02,10-05-2017,suresh.krishnan@nexatel.co.in
+EM00139,Gopal Iyengar,Male,Sales,Sales Executive,SR1961,RG02,26-03-2015,gopal.iyengar@nexatel.co.in
+EM00140,Suresh Paul,Male,Retention,Field Technician,SR1653,RG02,07-01-2020,suresh.paul@nexatel.co.in
+EM00141,Preeti Modi,Female,Customer Support,Team Lead,SR0476,RG03,29-10-2018,preeti.modi@nexatel.co.in
+EM00142,Amit Sarkar,Male,Store Operations,Store Manager,SR2094,RG02,10-07-2013,amit.sarkar@nexatel.co.in
+EM00143,Anika Parmar,Female,Field Service,Billing Analyst,SR0874,RG01,13-05-2021,anika.parmar@nexatel.co.in
+EM00144,Radha Borah,Female,Field Service,Sales Executive,SR0291,RG04,22-02-2022,radha.borah@nexatel.co.in
+EM00145,Pankaj Khanna,Male,Sales,Retention Specialist,SR0915,RG03,05-12-2020,pankaj.khanna@nexatel.co.in
+EM00146,Rahul Desai,Male,Customer Support,Field Technician,SR0266,RG03,18-08-2015,rahul.desai@nexatel.co.in
+EM00147,Sana Shetty,Female,Marketing,Sales Executive,SR1994,RG04,25-01-2025,sana.shetty@nexatel.co.in
+EM00148,Anika Murthy,Female,Customer Support,Billing Analyst,SR0270,RG01,21-01-2021,anika.murthy@nexatel.co.in
+EM00149,Karthik Shetty,Male,Store Operations,Team Lead,SR2050,RG04,12-05-2016,karthik.shetty@nexatel.co.in
+EM00150,Vihaan Nair,Male,Marketing,Billing Analyst,SR1312,RG02,28-04-2020,vihaan.nair@nexatel.co.in
+EM00151,Rajesh Nayak,Male,Network Operations,Billing Analyst,SR0911,RG04,13-09-2025,rajesh.nayak@nexatel.co.in
+EM00152,Sahil Mahanta,Male,Marketing,Team Lead,SR0561,RG03,22-04-2020,sahil.mahanta@nexatel.co.in
+EM00153,Abhishek Borah,Male,Store Operations,Sales Executive,SR1007,RG04,21-07-2025,abhishek.borah@nexatel.co.in
+EM00154,Abhishek Sahoo,Male,Store Operations,Senior Support Agent,SR1186,RG04,17-11-2023,abhishek.sahoo@nexatel.co.in
+EM00155,Lakshmi Kammela,Female,Field Service,Network Engineer,SR2006,RG02,09-03-2020,lakshmi.kammela@nexatel.co.in
+EM00156,Amit Chauhan,Male,Marketing,Senior Support Agent,SR1851,RG04,13-09-2021,amit.chauhan@nexatel.co.in
+EM00157,Varun Jadhav,Male,Network Operations,Retention Specialist,SR2047,RG01,06-05-2012,varun.jadhav@nexatel.co.in
+EM00158,Ayesha Sarkar,Female,Marketing,Field Technician,SR1461,RG04,04-09-2013,ayesha.sarkar@nexatel.co.in
+EM00159,Asha Dubey,Female,Network Operations,Billing Analyst,SR0157,RG03,08-10-2021,asha.dubey@nexatel.co.in
+EM00160,Sridevi Mehrotra,Female,Store Operations,Support Agent,SR1791,RG02,17-08-2012,sridevi.mehrotra@nexatel.co.in
+EM00161,Anika Chopra,Female,Store Operations,Marketing Associate,SR1373,RG02,19-07-2025,anika.chopra@nexatel.co.in
+EM00162,Yash Shetty,Male,Retention,Retention Specialist,SR1665,RG02,03-07-2018,yash.shetty@nexatel.co.in
+EM00163,Ishaan Kammela,Male,Customer Support,Billing Analyst,SR1256,RG01,25-02-2015,ishaan.kammela@nexatel.co.in
+EM00164,Venkat Sen,Male,Marketing,Team Lead,SR0995,RG03,07-03-2014,venkat.sen@nexatel.co.in
+EM00165,Pankaj Reddy,Male,Sales,Retention Specialist,SR0177,RG01,05-04-2021,pankaj.reddy@nexatel.co.in
+EM00166,Bhavana Verma,Female,Customer Support,Billing Analyst,SR1452,RG03,26-07-2018,bhavana.verma@nexatel.co.in
+EM00167,Yash Desai,Male,Customer Support,Team Lead,SR0918,RG02,13-05-2025,yash.desai@nexatel.co.in
+EM00168,Anil Pillai,Male,Billing,Marketing Associate,SR2026,RG01,06-08-2019,anil.pillai@nexatel.co.in
+EM00169,Vijay Dutta,Male,Customer Support,Store Manager,SR0012,RG03,20-08-2013,vijay.dutta@nexatel.co.in
+EM00170,Faisal Banerjee,Male,Network Operations,Field Technician,SR0809,RG01,14-06-2013,faisal.banerjee@nexatel.co.in
+EM00171,Reyansh Pillai,Male,Network Operations,Billing Analyst,SR1573,RG03,19-12-2025,reyansh.pillai@nexatel.co.in
+EM00172,Diya Parmar,Female,Retention,Senior Support Agent,SR0070,RG04,20-01-2014,diya.parmar@nexatel.co.in
+EM00173,Gaurav Ansari,Male,Billing,Store Manager,SR1949,RG03,30-05-2018,gaurav.ansari@nexatel.co.in
+EM00174,Venkat Shah,Male,Store Operations,Network Engineer,SR2098,RG03,14-02-2024,venkat.shah@nexatel.co.in
+EM00175,Deepak Thakkar,Male,Store Operations,Team Lead,SR0367,RG01,30-10-2018,deepak.thakkar@nexatel.co.in
+EM00176,Ayaan Reddy,Male,Store Operations,Network Engineer,SR2033,RG01,14-09-2016,ayaan.reddy@nexatel.co.in
+EM00177,Rohan Syed,Male,Marketing,Sales Executive,SR0648,RG01,24-04-2017,rohan.syed@nexatel.co.in
+EM00178,Faisal Syed,Male,Field Service,Network Engineer,SR2141,RG02,11-07-2017,faisal.syed@nexatel.co.in
+EM00179,Suresh Goel,Male,Billing,Field Technician,SR1520,RG01,04-05-2021,suresh.goel@nexatel.co.in
+EM00180,Suresh Patel,Male,Billing,Marketing Associate,SR1851,RG04,23-03-2024,suresh.patel@nexatel.co.in
+EM00181,Priya Rao,Female,Field Service,Retention Specialist,SR0560,RG03,28-01-2012,priya.rao@nexatel.co.in
+EM00182,Manish Jadhav,Male,Marketing,Network Engineer,SR1663,RG03,10-02-2020,manish.jadhav@nexatel.co.in
+EM00183,Asha Shah,Female,Billing,Team Lead,SR0959,RG04,20-12-2017,asha.shah@nexatel.co.in
+EM00184,Anita Sheikh,Female,Marketing,Support Agent,SR0462,RG03,26-05-2019,anita.sheikh@nexatel.co.in
+EM00185,Faisal Bhat,Male,Customer Support,Team Lead,SR1130,RG01,19-05-2013,faisal.bhat@nexatel.co.in
+EM00186,Anil Bhosale,Male,Field Service,Field Technician,SR1102,RG04,29-12-2023,anil.bhosale@nexatel.co.in
+EM00187,Sunil Mohanty,Male,Sales,Network Engineer,SR1092,RG01,30-05-2023,sunil.mohanty@nexatel.co.in
+EM00188,Anika Gaikwad,Female,Sales,Marketing Associate,SR1928,RG01,30-07-2016,anika.gaikwad@nexatel.co.in
+EM00189,Ananya Pillai,Female,Marketing,Support Agent,SR1441,RG02,29-09-2016,ananya.pillai@nexatel.co.in
+EM00190,Kavitha Jadhav,Female,Store Operations,Retention Specialist,SR0332,RG03,06-04-2016,kavitha.jadhav@nexatel.co.in
+EM00191,Arjun Bose,Male,Network Operations,Billing Analyst,SR0231,RG03,30-04-2015,arjun.bose@nexatel.co.in
+EM00192,Anita Vyas,Female,Network Operations,Marketing Associate,SR0608,RG01,10-10-2012,anita.vyas@nexatel.co.in
+EM00193,Sunil Varma,Male,Field Service,Retention Specialist,SR0764,RG03,01-02-2024,sunil.varma@nexatel.co.in
+EM00194,Krishna Singh,Male,Customer Support,Retention Specialist,SR2127,RG03,09-01-2023,krishna.singh@nexatel.co.in
+EM00195,Ananya Bansal,Female,Marketing,Sales Executive,SR1613,RG03,30-07-2014,ananya.bansal@nexatel.co.in
+EM00196,Siddharth Mirza,Male,Billing,Retention Specialist,SR1659,RG01,07-03-2013,siddharth.mirza@nexatel.co.in
+EM00197,Priya Jadhav,Female,Marketing,Network Engineer,SR2017,RG02,25-04-2014,priya.jadhav@nexatel.co.in
+EM00198,Saanvi Desai,Female,Sales,Marketing Associate,SR0521,RG02,05-03-2013,saanvi.desai@nexatel.co.in
+EM00199,Geeta Solanki,Female,Marketing,Marketing Associate,SR1717,RG02,16-05-2023,geeta.solanki@nexatel.co.in
+EM00200,Akash Deshmukh,Male,Customer Support,Team Lead,SR1631,RG04,03-11-2015,akash.deshmukh@nexatel.co.in
+EM00201,Rahul Desai,Male,Retention,Field Technician,SR1744,RG01,15-02-2017,rahul.desai@nexatel.co.in
+EM00202,Imran Das,Male,Billing,Network Engineer,SR0185,RG03,17-06-2025,imran.das@nexatel.co.in
+EM00203,Ishaan Reddy,Male,Field Service,Marketing Associate,SR1571,RG01,07-09-2022,ishaan.reddy@nexatel.co.in
+EM00204,Suresh Pradhan,Male,Network Operations,Sales Executive,SR1805,RG03,29-09-2022,suresh.pradhan@nexatel.co.in
+EM00205,Praveen Bhardwaj,Male,Sales,Team Lead,SR0261,RG04,05-02-2019,praveen.bhardwaj@nexatel.co.in
+EM00206,Akash Ahmed,Male,Billing,Team Lead,SR0045,RG01,24-03-2015,akash.ahmed@nexatel.co.in
+EM00207,Radha Chauhan,Female,Sales,Store Manager,SR1336,RG04,22-03-2023,radha.chauhan@nexatel.co.in
+EM00208,Saanvi Pradhan,Female,Customer Support,Store Manager,SR1301,RG03,25-11-2017,saanvi.pradhan@nexatel.co.in
+EM00209,Kiara Joshi,Female,Store Operations,Field Technician,SR0812,RG04,02-12-2020,kiara.joshi@nexatel.co.in
+EM00210,Zaid Modi,Male,Retention,Field Technician,SR1971,RG03,14-01-2016,zaid.modi@nexatel.co.in
+EM00211,Praveen Paul,Male,Billing,Marketing Associate,SR2170,RG03,21-05-2024,praveen.paul@nexatel.co.in
+EM00212,Zaid Dubey,Male,Customer Support,Retention Specialist,SR0019,RG02,08-09-2019,zaid.dubey@nexatel.co.in
+EM00213,Aakash Sen,Male,Retention,Field Technician,SR0248,RG04,02-11-2017,aakash.sen@nexatel.co.in
+EM00214,Deepak Bhosale,Male,Field Service,Field Technician,SR0006,RG03,15-01-2018,deepak.bhosale@nexatel.co.in
+EM00215,Siddharth Sen,Male,Retention,Marketing Associate,SR1670,RG01,23-08-2023,siddharth.sen@nexatel.co.in
+EM00216,Kabir Tiwari,Male,Store Operations,Marketing Associate,SR1863,RG01,11-07-2025,kabir.tiwari@nexatel.co.in
+EM00217,Gopal Chopra,Male,Network Operations,Retention Specialist,SR1425,RG03,12-11-2024,gopal.chopra@nexatel.co.in
+EM00218,Zaid Patel,Male,Store Operations,Network Engineer,SR0939,RG04,23-06-2018,zaid.patel@nexatel.co.in
+EM00219,Tarun Rastogi,Male,Store Operations,Billing Analyst,SR1271,RG02,19-03-2020,tarun.rastogi@nexatel.co.in
+EM00220,Sanjay Banerjee,Male,Network Operations,Support Agent,SR0943,RG04,14-11-2013,sanjay.banerjee@nexatel.co.in
+EM00221,Srinivas Tiwari,Male,Field Service,Marketing Associate,SR0239,RG01,18-11-2024,srinivas.tiwari@nexatel.co.in
+EM00222,Akash Joshi,Male,Billing,Store Manager,SR2151,RG01,20-09-2025,akash.joshi@nexatel.co.in
+EM00223,Sunita Reddy,Female,Marketing,Field Technician,SR1742,RG04,23-07-2022,sunita.reddy@nexatel.co.in
+EM00224,Anika Desai,Female,Field Service,Network Engineer,SR1475,RG04,15-04-2018,anika.desai@nexatel.co.in
+EM00225,Suresh Deshmukh,Male,Retention,Billing Analyst,SR0909,RG02,19-11-2019,suresh.deshmukh@nexatel.co.in
+EM00226,Imran Joshi,Male,Store Operations,Retention Specialist,SR1113,RG02,26-12-2019,imran.joshi@nexatel.co.in
+EM00227,Reyansh Hussain,Male,Retention,Team Lead,SR0092,RG01,09-05-2012,reyansh.hussain@nexatel.co.in
+EM00228,Diya Modi,Female,Store Operations,Sales Executive,SR1020,RG02,03-04-2014,diya.modi@nexatel.co.in
+EM00229,Karthik Sharma,Male,Sales,Senior Support Agent,SR0495,RG04,18-12-2020,karthik.sharma@nexatel.co.in
+EM00230,Nisha Mehrotra,Female,Retention,Retention Specialist,SR1405,RG01,30-07-2012,nisha.mehrotra@nexatel.co.in
+EM00231,Kavya Reddy,Female,Retention,Billing Analyst,SR0646,RG01,28-02-2019,kavya.reddy@nexatel.co.in
+EM00232,Aanya Sharma,Female,Customer Support,Marketing Associate,SR0105,RG01,20-12-2013,aanya.sharma@nexatel.co.in
+EM00233,Kabir Qureshi,Male,Store Operations,Network Engineer,SR0606,RG04,15-11-2025,kabir.qureshi@nexatel.co.in
+EM00234,Devansh Kammela,Male,Customer Support,Sales Executive,SR2122,RG02,18-03-2023,devansh.kammela@nexatel.co.in
+EM00235,Isha Hegde,Female,Field Service,Billing Analyst,SR0696,RG04,16-03-2020,isha.hegde@nexatel.co.in
+EM00236,Devansh Chauhan,Male,Sales,Network Engineer,SR1231,RG01,11-12-2015,devansh.chauhan@nexatel.co.in
+EM00237,Saanvi Gupta,Female,Retention,Team Lead,SR0967,RG01,03-06-2017,saanvi.gupta@nexatel.co.in
+EM00238,Shreya Banerjee,Female,Sales,Billing Analyst,SR1215,RG04,30-01-2016,shreya.banerjee@nexatel.co.in
+EM00239,Nikhil Hegde,Male,Network Operations,Support Agent,SR1411,RG02,26-04-2020,nikhil.hegde@nexatel.co.in
+EM00240,Aishwarya Yadav,Female,Network Operations,Team Lead,SR0343,RG04,11-04-2016,aishwarya.yadav@nexatel.co.in
+EM00241,Isha Das,Female,Marketing,Network Engineer,SR1266,RG01,13-12-2016,isha.das@nexatel.co.in
+EM00242,Vihaan Hegde,Male,Store Operations,Sales Executive,SR0815,RG04,08-04-2017,vihaan.hegde@nexatel.co.in
+EM00243,Venkat Chakraborty,Male,Marketing,Field Technician,SR1290,RG02,05-08-2015,venkat.chakraborty@nexatel.co.in
+EM00244,Priya Nayak,Female,Network Operations,Support Agent,SR0917,RG02,15-03-2015,priya.nayak@nexatel.co.in
+EM00245,Sarika Tiwari,Female,Billing,Team Lead,SR1892,RG04,14-05-2024,sarika.tiwari@nexatel.co.in
+EM00246,Anil Hegde,Male,Network Operations,Marketing Associate,SR1942,RG02,27-04-2018,anil.hegde@nexatel.co.in
+EM00247,Nisha Shetty,Female,Store Operations,Marketing Associate,SR0897,RG04,13-12-2023,nisha.shetty@nexatel.co.in
+EM00248,Sunita Saha,Female,Billing,Field Technician,SR0213,RG02,10-10-2024,sunita.saha@nexatel.co.in
+EM00249,Bhavana Chandran,Female,Network Operations,Sales Executive,SR0546,RG04,11-08-2014,bhavana.chandran@nexatel.co.in
+EM00250,Faisal Bhat,Male,Marketing,Store Manager,SR1558,RG04,26-05-2020,faisal.bhat@nexatel.co.in
+EM00251,Kavitha Bose,Female,Store Operations,Senior Support Agent,SR1859,RG01,10-09-2025,kavitha.bose@nexatel.co.in
+EM00252,Vikram Sahoo,Male,Customer Support,Marketing Associate,SR1790,RG03,08-01-2023,vikram.sahoo@nexatel.co.in
+EM00253,Tarun Gowda,Male,Field Service,Senior Support Agent,SR0822,RG01,06-05-2019,tarun.gowda@nexatel.co.in
+EM00254,Aditya Hussain,Male,Billing,Field Technician,SR0406,RG01,29-03-2021,aditya.hussain@nexatel.co.in
+EM00255,Faisal Mirza,Male,Customer Support,Retention Specialist,SR2175,RG03,14-01-2012,faisal.mirza@nexatel.co.in
+EM00256,Praveen Mehrotra,Male,Store Operations,Store Manager,SR1300,RG04,27-12-2016,praveen.mehrotra@nexatel.co.in
+EM00257,Amit Achar,Male,Store Operations,Sales Executive,SR0435,RG02,15-05-2016,amit.achar@nexatel.co.in
+EM00258,Aarav Iyengar,Male,Billing,Senior Support Agent,SR1570,RG01,05-11-2013,aarav.iyengar@nexatel.co.in
+EM00259,Radha Achar,Female,Sales,Team Lead,SR0720,RG02,02-12-2013,radha.achar@nexatel.co.in
+EM00260,Aarav Mehta,Male,Marketing,Network Engineer,SR1995,RG01,20-10-2022,aarav.mehta@nexatel.co.in
+EM00261,Myra Yadav,Female,Billing,Retention Specialist,SR1811,RG01,09-11-2022,myra.yadav@nexatel.co.in
+EM00262,Naveen Gupta,Male,Retention,Field Technician,SR2011,RG02,01-12-2021,naveen.gupta@nexatel.co.in
+EM00263,Akash Pathan,Male,Retention,Support Agent,SR2152,RG04,21-09-2012,akash.pathan@nexatel.co.in
+EM00264,Srinivas Ansari,Male,Sales,Retention Specialist,SR0910,RG01,06-07-2023,srinivas.ansari@nexatel.co.in
+EM00265,Reyansh Pawar,Male,Retention,Support Agent,SR1177,RG01,26-06-2013,reyansh.pawar@nexatel.co.in
+EM00266,Rekha Trivedi,Female,Sales,Support Agent,SR1714,RG01,03-01-2025,rekha.trivedi@nexatel.co.in
+EM00267,Deepak Parmar,Male,Sales,Senior Support Agent,SR1149,RG01,06-07-2017,deepak.parmar@nexatel.co.in
+EM00268,Suresh Parmar,Male,Retention,Team Lead,SR0609,RG01,22-09-2016,suresh.parmar@nexatel.co.in
+EM00269,Ramesh Shinde,Male,Sales,Support Agent,SR0731,RG04,14-06-2019,ramesh.shinde@nexatel.co.in
+EM00270,Sunita Khanna,Female,Billing,Team Lead,SR0338,RG01,11-05-2014,sunita.khanna@nexatel.co.in
+EM00271,Aakash Thakkar,Male,Marketing,Sales Executive,SR1740,RG04,20-11-2018,aakash.thakkar@nexatel.co.in
+EM00272,Zaid Bhat,Male,Field Service,Support Agent,SR2178,RG01,22-08-2017,zaid.bhat@nexatel.co.in
+EM00273,Riya Pathan,Female,Billing,Senior Support Agent,SR1830,RG02,27-10-2016,riya.pathan@nexatel.co.in
+EM00274,Akash Goel,Male,Field Service,Marketing Associate,SR0806,RG02,18-10-2016,akash.goel@nexatel.co.in
+EM00275,Pooja Goel,Female,Retention,Field Technician,SR0951,RG01,15-09-2014,pooja.goel@nexatel.co.in
+EM00276,Ayesha Chauhan,Female,Customer Support,Marketing Associate,SR0497,RG01,11-01-2020,ayesha.chauhan@nexatel.co.in
+EM00277,Pranav Parmar,Male,Customer Support,Billing Analyst,SR0970,RG01,03-08-2016,pranav.parmar@nexatel.co.in
+EM00278,Rohan Chopra,Male,Marketing,Field Technician,SR0724,RG01,20-04-2019,rohan.chopra@nexatel.co.in
+EM00279,Tarun Mirza,Male,Customer Support,Field Technician,SR1787,RG03,02-10-2015,tarun.mirza@nexatel.co.in
+EM00280,Aarav Sarkar,Male,Customer Support,Field Technician,SR1408,RG01,11-03-2012,aarav.sarkar@nexatel.co.in
+EM00281,Padma Desai,Female,Sales,Billing Analyst,SR0945,RG02,29-05-2014,padma.desai@nexatel.co.in
+EM00282,Myra Mohanty,Female,Billing,Network Engineer,SR1483,RG03,22-01-2017,myra.mohanty@nexatel.co.in
+EM00283,Sarika Chatterjee,Female,Marketing,Senior Support Agent,SR0255,RG03,14-05-2018,sarika.chatterjee@nexatel.co.in
+EM00284,Mohit Ghosh,Male,Retention,Store Manager,SR0835,RG02,20-11-2022,mohit.ghosh@nexatel.co.in
+EM00285,Sanjay Bhat,Male,Billing,Retention Specialist,SR0938,RG04,09-10-2018,sanjay.bhat@nexatel.co.in
+EM00286,Sanjay Murthy,Male,Network Operations,Team Lead,SR1718,RG04,07-05-2021,sanjay.murthy@nexatel.co.in
+EM00287,Anil Shah,Male,Sales,Retention Specialist,SR2128,RG01,30-04-2013,anil.shah@nexatel.co.in
+EM00288,Ramesh Kammela,Male,Field Service,Billing Analyst,SR1013,RG04,09-03-2021,ramesh.kammela@nexatel.co.in
+EM00289,Akash Hegde,Male,Field Service,Store Manager,SR1639,RG04,29-01-2017,akash.hegde@nexatel.co.in
+EM00290,Venkat Bhardwaj,Male,Billing,Retention Specialist,SR1066,RG02,25-06-2019,venkat.bhardwaj@nexatel.co.in
+EM00291,Akash Bhattacharya,Male,Retention,Sales Executive,SR0293,RG01,30-08-2018,akash.bhattacharya@nexatel.co.in
+EM00292,Pari Mahanta,Female,Customer Support,Network Engineer,SR0425,RG03,29-12-2014,pari.mahanta@nexatel.co.in
+EM00293,Kiara Patel,Female,Retention,Marketing Associate,SR1379,RG01,10-03-2015,kiara.patel@nexatel.co.in
+EM00294,Saanvi Chauhan,Female,Customer Support,Support Agent,SR1879,RG01,10-11-2015,saanvi.chauhan@nexatel.co.in
+EM00295,Faisal Mohanty,Male,Store Operations,Marketing Associate,SR0710,RG02,10-07-2018,faisal.mohanty@nexatel.co.in
+EM00296,Yash Hussain,Male,Network Operations,Field Technician,SR2108,RG01,07-05-2023,yash.hussain@nexatel.co.in
+EM00297,Arjun Gupta,Male,Retention,Team Lead,SR1360,RG04,05-11-2023,arjun.gupta@nexatel.co.in
+EM00298,Kabir Sahoo,Male,Retention,Sales Executive,SR1111,RG04,11-12-2017,kabir.sahoo@nexatel.co.in
+EM00299,Aryan Singh,Male,Sales,Senior Support Agent,SR2063,RG02,22-03-2019,aryan.singh@nexatel.co.in
+EM00300,Devansh Chauhan,Male,Network Operations,Store Manager,SR0997,RG01,14-02-2012,devansh.chauhan@nexatel.co.in
+EM00301,Ananya Desai,Female,Sales,Marketing Associate,SR0344,RG02,18-08-2024,ananya.desai@nexatel.co.in
+EM00302,Megha Gupta,Female,Field Service,Marketing Associate,SR1606,RG01,29-09-2024,megha.gupta@nexatel.co.in
+EM00303,Vihaan Rastogi,Male,Marketing,Billing Analyst,SR1753,RG04,25-12-2025,vihaan.rastogi@nexatel.co.in
+EM00304,Abhishek Saxena,Male,Network Operations,Network Engineer,SR1563,RG04,05-01-2024,abhishek.saxena@nexatel.co.in
+EM00305,Fatima Qureshi,Female,Retention,Senior Support Agent,SR1526,RG01,29-08-2020,fatima.qureshi@nexatel.co.in
+EM00306,Gopal Mirza,Male,Customer Support,Billing Analyst,SR1315,RG01,11-12-2019,gopal.mirza@nexatel.co.in
+EM00307,Swati Bansal,Female,Marketing,Marketing Associate,SR1834,RG01,14-02-2016,swati.bansal@nexatel.co.in
+EM00308,Abhishek Malhotra,Male,Network Operations,Retention Specialist,SR1827,RG01,20-09-2021,abhishek.malhotra@nexatel.co.in
+EM00309,Yash Mukherjee,Male,Network Operations,Marketing Associate,SR2035,RG04,03-11-2020,yash.mukherjee@nexatel.co.in
+EM00310,Devansh Bhat,Male,Retention,Sales Executive,SR0235,RG03,29-07-2018,devansh.bhat@nexatel.co.in
+EM00311,Priya Sheikh,Female,Field Service,Sales Executive,SR0625,RG03,08-05-2019,priya.sheikh@nexatel.co.in
+EM00312,Naveen Mehta,Male,Marketing,Field Technician,SR0953,RG04,30-09-2020,naveen.mehta@nexatel.co.in
+EM00313,Reyansh Trivedi,Male,Marketing,Team Lead,SR1867,RG01,26-09-2018,reyansh.trivedi@nexatel.co.in
+EM00314,Ravi Chauhan,Male,Store Operations,Network Engineer,SR1886,RG04,23-04-2018,ravi.chauhan@nexatel.co.in
+EM00315,Naveen Bhardwaj,Male,Marketing,Retention Specialist,SR0626,RG01,02-05-2025,naveen.bhardwaj@nexatel.co.in
+EM00316,Padma Varma,Female,Customer Support,Field Technician,SR2008,RG02,18-10-2017,padma.varma@nexatel.co.in
+EM00317,Pankaj Desai,Male,Network Operations,Sales Executive,SR1557,RG01,10-04-2023,pankaj.desai@nexatel.co.in
+EM00318,Vihaan Singh,Male,Customer Support,Billing Analyst,SR1661,RG04,09-10-2016,vihaan.singh@nexatel.co.in
+EM00319,Navya Saha,Female,Billing,Field Technician,SR1502,RG01,13-05-2024,navya.saha@nexatel.co.in
+EM00320,Ravi Solanki,Male,Network Operations,Marketing Associate,SR1568,RG03,07-02-2024,ravi.solanki@nexatel.co.in
+EM00321,Rekha Pawar,Female,Sales,Billing Analyst,SR1586,RG04,16-07-2023,rekha.pawar@nexatel.co.in
+EM00322,Rohan Pandey,Male,Field Service,Billing Analyst,SR0235,RG03,03-04-2016,rohan.pandey@nexatel.co.in
+EM00323,Anita Desai,Female,Store Operations,Retention Specialist,SR0115,RG01,11-11-2023,anita.desai@nexatel.co.in
+EM00324,Tarun Bhat,Male,Network Operations,Marketing Associate,SR1857,RG03,25-05-2019,tarun.bhat@nexatel.co.in
+EM00325,Vijay Parmar,Male,Billing,Marketing Associate,SR0085,RG01,05-04-2019,vijay.parmar@nexatel.co.in
+EM00326,Sridevi Gowda,Female,Field Service,Marketing Associate,SR1104,RG04,14-01-2024,sridevi.gowda@nexatel.co.in
+EM00327,Kabir Kulkarni,Male,Customer Support,Support Agent,SR0402,RG03,03-04-2024,kabir.kulkarni@nexatel.co.in
+EM00328,Devansh Syed,Male,Network Operations,Team Lead,SR2049,RG04,30-12-2024,devansh.syed@nexatel.co.in
+EM00329,Swati Borah,Female,Billing,Billing Analyst,SR1144,RG02,27-11-2018,swati.borah@nexatel.co.in
+EM00330,Ravi Trivedi,Male,Billing,Network Engineer,SR1143,RG02,06-05-2021,ravi.trivedi@nexatel.co.in
+EM00331,Lata Chakraborty,Female,Sales,Field Technician,SR0854,RG02,02-10-2024,lata.chakraborty@nexatel.co.in
+EM00332,Vijay Pradhan,Male,Store Operations,Store Manager,SR0999,RG03,15-09-2012,vijay.pradhan@nexatel.co.in
+EM00333,Kiara Chatterjee,Female,Field Service,Marketing Associate,SR1469,RG03,01-10-2019,kiara.chatterjee@nexatel.co.in
+EM00334,Pari Shaikh,Female,Billing,Network Engineer,SR1501,RG02,24-06-2014,pari.shaikh@nexatel.co.in
+EM00335,Kavya Dutta,Female,Billing,Billing Analyst,SR1401,RG03,18-02-2024,kavya.dutta@nexatel.co.in
+EM00336,Aditya Chandran,Male,Customer Support,Support Agent,SR1036,RG02,05-06-2014,aditya.chandran@nexatel.co.in
+EM00337,Suresh Patel,Male,Sales,Marketing Associate,SR1910,RG03,18-10-2019,suresh.patel@nexatel.co.in
+EM00338,Reyansh Bhosale,Male,Billing,Store Manager,SR0925,RG04,19-01-2016,reyansh.bhosale@nexatel.co.in
+EM00339,Ishaan Shaikh,Male,Retention,Sales Executive,SR1957,RG02,08-12-2016,ishaan.shaikh@nexatel.co.in
+EM00340,Aryan Ahmed,Male,Field Service,Support Agent,SR0835,RG02,25-03-2024,aryan.ahmed@nexatel.co.in
+EM00341,Pooja Chandran,Female,Field Service,Network Engineer,SR0094,RG03,18-04-2023,pooja.chandran@nexatel.co.in
+EM00342,Radha Verma,Female,Field Service,Billing Analyst,SR0311,RG01,29-05-2025,radha.verma@nexatel.co.in
+EM00343,Rajesh Trivedi,Male,Marketing,Marketing Associate,SR0683,RG04,12-03-2021,rajesh.trivedi@nexatel.co.in
+EM00344,Anil Saxena,Male,Field Service,Sales Executive,SR0091,RG01,03-07-2024,anil.saxena@nexatel.co.in
+EM00345,Vihaan Sharma,Male,Marketing,Sales Executive,SR0146,RG03,02-11-2015,vihaan.sharma@nexatel.co.in
+EM00346,Rekha Verma,Female,Sales,Retention Specialist,SR0145,RG04,05-01-2014,rekha.verma@nexatel.co.in
+EM00347,Faisal Mukherjee,Male,Sales,Senior Support Agent,SR1608,RG03,30-04-2014,faisal.mukherjee@nexatel.co.in
+EM00348,Abhishek Yadav,Male,Network Operations,Support Agent,SR1655,RG03,29-06-2025,abhishek.yadav@nexatel.co.in
+EM00349,Gopal Dutta,Male,Marketing,Senior Support Agent,SR1081,RG01,08-06-2018,gopal.dutta@nexatel.co.in
+EM00350,Deepak Bhardwaj,Male,Network Operations,Network Engineer,SR0246,RG03,17-04-2025,deepak.bhardwaj@nexatel.co.in
+EM00351,Diya Khan,Female,Store Operations,Store Manager,SR0175,RG02,11-10-2014,diya.khan@nexatel.co.in
+EM00352,Aanya Banerjee,Female,Marketing,Retention Specialist,SR1092,RG01,04-10-2019,aanya.banerjee@nexatel.co.in
+EM00353,Deepak Syed,Male,Field Service,Sales Executive,SR0797,RG01,28-11-2012,deepak.syed@nexatel.co.in
+EM00354,Neha Iyer,Female,Customer Support,Field Technician,SR1709,RG04,03-05-2014,neha.iyer@nexatel.co.in
+EM00355,Akash Bhosale,Male,Network Operations,Support Agent,SR1056,RG01,22-09-2019,akash.bhosale@nexatel.co.in
+EM00356,Meera Goel,Female,Marketing,Store Manager,SR0635,RG01,31-10-2022,meera.goel@nexatel.co.in
+EM00357,Yash Solanki,Male,Retention,Support Agent,SR0918,RG02,21-10-2015,yash.solanki@nexatel.co.in
+EM00358,Diya Iyengar,Female,Retention,Team Lead,SR1212,RG03,12-04-2015,diya.iyengar@nexatel.co.in
+EM00359,Zaid Saha,Male,Marketing,Field Technician,SR0556,RG02,27-09-2013,zaid.saha@nexatel.co.in
+EM00360,Mahesh Kulkarni,Male,Network Operations,Sales Executive,SR1238,RG04,08-10-2021,mahesh.kulkarni@nexatel.co.in
+EM00361,Sana Saha,Female,Sales,Store Manager,SR1717,RG02,26-03-2024,sana.saha@nexatel.co.in
+EM00362,Sita Paul,Female,Customer Support,Network Engineer,SR2138,RG01,08-11-2025,sita.paul@nexatel.co.in
+EM00363,Varun Raju,Male,Marketing,Field Technician,SR1015,RG04,18-08-2023,varun.raju@nexatel.co.in
+EM00364,Radha Desai,Female,Sales,Field Technician,SR0615,RG01,24-08-2012,radha.desai@nexatel.co.in
+EM00365,Navya Chauhan,Female,Customer Support,Network Engineer,SR2156,RG01,02-06-2023,navya.chauhan@nexatel.co.in
+EM00366,Tarun Rao,Male,Sales,Sales Executive,SR1401,RG03,25-05-2020,tarun.rao@nexatel.co.in
+EM00367,Siddharth Saha,Male,Marketing,Senior Support Agent,SR0166,RG01,07-11-2013,siddharth.saha@nexatel.co.in
+EM00368,Ankit Ghosh,Male,Store Operations,Senior Support Agent,SR1818,RG04,11-09-2019,ankit.ghosh@nexatel.co.in
+EM00369,Sirisha Sahoo,Female,Store Operations,Sales Executive,SR0414,RG03,08-04-2014,sirisha.sahoo@nexatel.co.in
+EM00370,Vihaan Mehrotra,Male,Sales,Store Manager,SR1175,RG03,12-01-2024,vihaan.mehrotra@nexatel.co.in
+EM00371,Riya Khanna,Female,Sales,Team Lead,SR2081,RG04,27-03-2025,riya.khanna@nexatel.co.in
+EM00372,Saanvi Chatterjee,Female,Marketing,Marketing Associate,SR0832,RG01,20-03-2023,saanvi.chatterjee@nexatel.co.in
+EM00373,Divya Gowda,Female,Retention,Retention Specialist,SR1495,RG01,20-01-2020,divya.gowda@nexatel.co.in
+EM00374,Anil Pillai,Male,Retention,Marketing Associate,SR1763,RG01,30-12-2020,anil.pillai@nexatel.co.in
+EM00375,Vijay More,Male,Marketing,Store Manager,SR2059,RG04,06-05-2021,vijay.more@nexatel.co.in
+EM00376,Zaid Gowda,Male,Billing,Network Engineer,SR1575,RG03,01-08-2020,zaid.gowda@nexatel.co.in
+EM00377,Ramesh Mehta,Male,Store Operations,Marketing Associate,SR1384,RG01,13-08-2017,ramesh.mehta@nexatel.co.in
+EM00378,Amit Qureshi,Male,Billing,Senior Support Agent,SR1989,RG03,22-04-2019,amit.qureshi@nexatel.co.in
+EM00379,Siddharth Chakraborty,Male,Network Operations,Network Engineer,SR1944,RG03,27-11-2019,siddharth.chakraborty@nexatel.co.in
+EM00380,Praveen Shah,Male,Retention,Team Lead,SR0083,RG03,26-09-2017,praveen.shah@nexatel.co.in
+EM00381,Nikhil Chatterjee,Male,Network Operations,Team Lead,SR1994,RG04,03-05-2022,nikhil.chatterjee@nexatel.co.in
+EM00382,Myra Pandey,Female,Customer Support,Sales Executive,SR1799,RG02,22-02-2023,myra.pandey@nexatel.co.in
+EM00383,Krishna Ahmed,Male,Retention,Network Engineer,SR0015,RG03,14-07-2017,krishna.ahmed@nexatel.co.in
+EM00384,Deepak Saha,Male,Network Operations,Team Lead,SR1711,RG03,06-08-2014,deepak.saha@nexatel.co.in
+EM00385,Arjun Saha,Male,Retention,Retention Specialist,SR0323,RG02,04-11-2019,arjun.saha@nexatel.co.in
+EM00386,Myra Mirza,Female,Customer Support,Sales Executive,SR1312,RG02,18-02-2018,myra.mirza@nexatel.co.in
+EM00387,Karthik Sahoo,Male,Sales,Marketing Associate,SR1501,RG02,15-05-2023,karthik.sahoo@nexatel.co.in
+EM00388,Aditya Rastogi,Male,Billing,Field Technician,SR0155,RG03,23-11-2012,aditya.rastogi@nexatel.co.in
+EM00389,Aakash Gaikwad,Male,Store Operations,Retention Specialist,SR1811,RG01,09-09-2014,aakash.gaikwad@nexatel.co.in
+EM00390,Navya More,Female,Customer Support,Field Technician,SR0536,RG03,21-01-2022,navya.more@nexatel.co.in
+EM00391,Sridevi Deshmukh,Female,Customer Support,Support Agent,SR1838,RG03,13-02-2019,sridevi.deshmukh@nexatel.co.in
+EM00392,Meera Mehrotra,Female,Field Service,Retention Specialist,SR1985,RG04,04-07-2012,meera.mehrotra@nexatel.co.in
+EM00393,Radha Reddy,Female,Sales,Team Lead,SR1640,RG01,09-11-2013,radha.reddy@nexatel.co.in
+EM00394,Rohan More,Male,Sales,Retention Specialist,SR0827,RG01,18-01-2016,rohan.more@nexatel.co.in
+EM00395,Zaid Syed,Male,Retention,Support Agent,SR1829,RG04,11-12-2014,zaid.syed@nexatel.co.in
+EM00396,Anil Sheikh,Male,Store Operations,Senior Support Agent,SR0555,RG02,27-03-2012,anil.sheikh@nexatel.co.in
+EM00397,Asha Bose,Female,Network Operations,Sales Executive,SR1072,RG01,16-06-2012,asha.bose@nexatel.co.in
+EM00398,Mohit Sahoo,Male,Retention,Field Technician,SR1452,RG03,24-03-2024,mohit.sahoo@nexatel.co.in
+EM00399,Sunil Mishra,Male,Billing,Retention Specialist,SR1621,RG03,26-12-2016,sunil.mishra@nexatel.co.in
+EM00400,Anil Thakkar,Male,Field Service,Senior Support Agent,SR1368,RG01,24-11-2015,anil.thakkar@nexatel.co.in
+EM00401,Reyansh Chakraborty,Male,Network Operations,Network Engineer,SR1844,RG04,19-04-2013,reyansh.chakraborty@nexatel.co.in
+EM00402,Rahul Khanna,Male,Store Operations,Senior Support Agent,SR1231,RG01,23-10-2018,rahul.khanna@nexatel.co.in
+EM00403,Nikhil Sarkar,Male,Billing,Network Engineer,SR0629,RG03,03-07-2024,nikhil.sarkar@nexatel.co.in
+EM00404,Aarav Sahoo,Male,Store Operations,Team Lead,SR1726,RG02,16-11-2012,aarav.sahoo@nexatel.co.in
+EM00405,Rahul Bhardwaj,Male,Billing,Sales Executive,SR0794,RG03,03-11-2019,rahul.bhardwaj@nexatel.co.in
+EM00406,Amit Iyengar,Male,Sales,Billing Analyst,SR0543,RG04,16-02-2017,amit.iyengar@nexatel.co.in
+EM00407,Diya Chavan,Female,Marketing,Senior Support Agent,SR1131,RG01,18-01-2022,diya.chavan@nexatel.co.in
+EM00408,Srinivas Saxena,Male,Customer Support,Senior Support Agent,SR2030,RG04,29-01-2016,srinivas.saxena@nexatel.co.in
+EM00409,Yash Roy,Male,Store Operations,Sales Executive,SR1895,RG01,29-09-2020,yash.roy@nexatel.co.in
+EM00410,Deepa Nair,Female,Customer Support,Retention Specialist,SR0762,RG03,25-08-2014,deepa.nair@nexatel.co.in
+EM00411,Sunil Joshi,Male,Sales,Retention Specialist,SR0249,RG02,19-08-2013,sunil.joshi@nexatel.co.in
+EM00412,Anika Yadav,Female,Marketing,Support Agent,SR0444,RG04,16-03-2019,anika.yadav@nexatel.co.in
+EM00413,Rajesh Banerjee,Male,Field Service,Billing Analyst,SR0156,RG04,09-10-2022,rajesh.banerjee@nexatel.co.in
+EM00414,Riya Vyas,Female,Sales,Retention Specialist,SR0819,RG02,11-06-2014,riya.vyas@nexatel.co.in
+EM00415,Devansh Sheikh,Male,Marketing,Field Technician,SR0403,RG04,07-04-2020,devansh.sheikh@nexatel.co.in
+EM00416,Megha Menon,Female,Field Service,Network Engineer,SR1900,RG01,02-05-2017,megha.menon@nexatel.co.in
+EM00417,Aishwarya Sharma,Female,Customer Support,Retention Specialist,SR0530,RG01,10-05-2013,aishwarya.sharma@nexatel.co.in
+EM00418,Lakshmi Bose,Female,Sales,Marketing Associate,SR0053,RG01,29-11-2015,lakshmi.bose@nexatel.co.in
+EM00419,Gopal Deshmukh,Male,Customer Support,Marketing Associate,SR1541,RG02,19-06-2018,gopal.deshmukh@nexatel.co.in
+EM00420,Aadhya Mukherjee,Female,Sales,Marketing Associate,SR1246,RG03,11-06-2025,aadhya.mukherjee@nexatel.co.in
+EM00421,Nikhil Ghosh,Male,Marketing,Network Engineer,SR0614,RG03,01-09-2016,nikhil.ghosh@nexatel.co.in
+EM00422,Krishna Pawar,Male,Network Operations,Support Agent,SR0767,RG03,25-01-2021,krishna.pawar@nexatel.co.in
+EM00423,Aarav Mukherjee,Male,Marketing,Support Agent,SR0224,RG03,03-05-2025,aarav.mukherjee@nexatel.co.in
+EM00424,Shreya Mirza,Female,Customer Support,Team Lead,SR1595,RG01,01-11-2018,shreya.mirza@nexatel.co.in
+EM00425,Zaid More,Male,Retention,Store Manager,SR0927,RG02,24-03-2015,zaid.more@nexatel.co.in
+EM00426,Pankaj Nayak,Male,Field Service,Network Engineer,SR1273,RG04,07-09-2022,pankaj.nayak@nexatel.co.in
+EM00427,Ramesh Pawar,Male,Retention,Marketing Associate,SR0121,RG04,13-07-2019,ramesh.pawar@nexatel.co.in
+EM00428,Sridevi Chakraborty,Female,Marketing,Sales Executive,SR2128,RG01,06-05-2021,sridevi.chakraborty@nexatel.co.in
+EM00429,Vijay Sharma,Male,Field Service,Sales Executive,SR1469,RG03,12-07-2018,vijay.sharma@nexatel.co.in
+EM00430,Lata Goel,Female,Customer Support,Field Technician,SR2149,RG03,10-06-2013,lata.goel@nexatel.co.in
+EM00431,Sunil Sahoo,Male,Store Operations,Billing Analyst,SR0045,RG01,09-05-2012,sunil.sahoo@nexatel.co.in
+EM00432,Venkat Bhat,Male,Billing,Field Technician,SR1678,RG01,07-07-2023,venkat.bhat@nexatel.co.in
+EM00433,Rajesh Aggarwal,Male,Sales,Billing Analyst,SR2043,RG03,23-09-2024,rajesh.aggarwal@nexatel.co.in
+EM00434,Zara Chakraborty,Female,Billing,Support Agent,SR0481,RG01,01-12-2020,zara.chakraborty@nexatel.co.in
+EM00435,Ayesha Singh,Female,Marketing,Retention Specialist,SR0332,RG03,04-03-2021,ayesha.singh@nexatel.co.in
+EM00436,Anita Mukherjee,Female,Field Service,Sales Executive,SR0236,RG02,21-12-2023,anita.mukherjee@nexatel.co.in
+EM00437,Anita Sharma,Female,Retention,Support Agent,SR1218,RG04,21-08-2025,anita.sharma@nexatel.co.in
+EM00438,Rekha Shetty,Female,Retention,Support Agent,SR0744,RG04,13-08-2021,rekha.shetty@nexatel.co.in
+EM00439,Ankit Iyer,Male,Sales,Team Lead,SR0391,RG03,25-09-2018,ankit.iyer@nexatel.co.in
+EM00440,Devansh Trivedi,Male,Retention,Field Technician,SR0568,RG01,21-09-2014,devansh.trivedi@nexatel.co.in
+EM00441,Karthik Qureshi,Male,Customer Support,Senior Support Agent,SR0991,RG04,19-12-2014,karthik.qureshi@nexatel.co.in
+EM00442,Imran Parmar,Male,Retention,Senior Support Agent,SR0795,RG01,16-04-2025,imran.parmar@nexatel.co.in
+EM00443,Preeti Bansal,Female,Customer Support,Team Lead,SR0823,RG04,22-02-2017,preeti.bansal@nexatel.co.in
+EM00444,Rahul Reddy,Male,Sales,Team Lead,SR0500,RG01,29-08-2021,rahul.reddy@nexatel.co.in
+EM00445,Tarun Chakraborty,Male,Billing,Store Manager,SR1984,RG03,10-12-2014,tarun.chakraborty@nexatel.co.in
+EM00446,Sahil Pathan,Male,Network Operations,Sales Executive,SR1987,RG02,13-07-2014,sahil.pathan@nexatel.co.in
+EM00447,Ankit Krishnan,Male,Network Operations,Store Manager,SR1686,RG01,28-08-2012,ankit.krishnan@nexatel.co.in
+EM00448,Neha Mahanta,Female,Retention,Billing Analyst,SR0237,RG01,10-03-2014,neha.mahanta@nexatel.co.in
+EM00449,Riya Ghosh,Female,Marketing,Store Manager,SR1739,RG02,18-09-2021,riya.ghosh@nexatel.co.in
+EM00450,Rohan Goel,Male,Field Service,Sales Executive,SR0690,RG01,26-10-2021,rohan.goel@nexatel.co.in
+EM00451,Zaid Ahmed,Male,Sales,Team Lead,SR1747,RG01,12-07-2021,zaid.ahmed@nexatel.co.in
+EM00452,Rekha Varma,Female,Retention,Sales Executive,SR0969,RG04,23-11-2018,rekha.varma@nexatel.co.in
+EM00453,Kabir Ghosh,Male,Network Operations,Senior Support Agent,SR1614,RG02,30-07-2022,kabir.ghosh@nexatel.co.in
+EM00454,Aakash Chandran,Male,Field Service,Senior Support Agent,SR2118,RG02,14-05-2013,aakash.chandran@nexatel.co.in
+EM00455,Pooja Gaikwad,Female,Field Service,Sales Executive,SR0407,RG02,22-09-2014,pooja.gaikwad@nexatel.co.in
+EM00456,Geeta Nayak,Female,Sales,Billing Analyst,SR0553,RG04,26-10-2016,geeta.nayak@nexatel.co.in
+EM00457,Nandini Thakkar,Female,Customer Support,Store Manager,SR0942,RG04,06-02-2024,nandini.thakkar@nexatel.co.in
+EM00458,Vihaan Ansari,Male,Field Service,Store Manager,SR2081,RG04,18-01-2015,vihaan.ansari@nexatel.co.in
+EM00459,Aadhya Chatterjee,Female,Marketing,Retention Specialist,SR1205,RG03,12-10-2013,aadhya.chatterjee@nexatel.co.in
+EM00460,Sahil Saxena,Male,Marketing,Senior Support Agent,SR0372,RG01,08-01-2013,sahil.saxena@nexatel.co.in
+EM00461,Sahil Bhat,Male,Field Service,Store Manager,SR0901,RG03,19-08-2014,sahil.bhat@nexatel.co.in
+EM00462,Anil Sheikh,Male,Sales,Senior Support Agent,SR0077,RG02,16-03-2025,anil.sheikh@nexatel.co.in
+EM00463,Swati Ghosh,Female,Billing,Billing Analyst,SR1027,RG01,19-01-2021,swati.ghosh@nexatel.co.in
+EM00464,Sahil Raju,Male,Field Service,Billing Analyst,SR1840,RG01,31-07-2021,sahil.raju@nexatel.co.in
+EM00465,Myra Iyengar,Female,Sales,Support Agent,SR1815,RG04,13-11-2019,myra.iyengar@nexatel.co.in
+EM00466,Imran Sarkar,Male,Marketing,Senior Support Agent,SR0991,RG04,19-07-2023,imran.sarkar@nexatel.co.in
+EM00467,Aanya Patel,Female,Field Service,Network Engineer,SR1879,RG01,12-02-2024,aanya.patel@nexatel.co.in
+EM00468,Swati Shinde,Female,Field Service,Network Engineer,SR0120,RG03,18-06-2022,swati.shinde@nexatel.co.in
+EM00469,Yash Hussain,Male,Field Service,Field Technician,SR0438,RG02,01-10-2022,yash.hussain@nexatel.co.in
+EM00470,Nandini Jadhav,Female,Billing,Sales Executive,SR1077,RG04,12-06-2013,nandini.jadhav@nexatel.co.in
+EM00471,Akash Tiwari,Male,Sales,Network Engineer,SR1161,RG01,11-10-2022,akash.tiwari@nexatel.co.in
+EM00472,Akash Goel,Male,Store Operations,Retention Specialist,SR1868,RG02,22-03-2013,akash.goel@nexatel.co.in
+EM00473,Akash Sharma,Male,Customer Support,Billing Analyst,SR1656,RG04,23-03-2012,akash.sharma@nexatel.co.in
+EM00474,Lata Bhat,Female,Field Service,Sales Executive,SR0324,RG02,05-07-2018,lata.bhat@nexatel.co.in
+EM00475,Bhavana Sharma,Female,Billing,Team Lead,SR0628,RG04,21-05-2022,bhavana.sharma@nexatel.co.in
+EM00476,Suresh Mehrotra,Male,Billing,Network Engineer,SR0840,RG02,24-01-2022,suresh.mehrotra@nexatel.co.in
+EM00477,Rajesh Kulkarni,Male,Sales,Field Technician,SR0625,RG03,07-10-2021,rajesh.kulkarni@nexatel.co.in
+EM00478,Rahul Gowda,Male,Network Operations,Retention Specialist,SR0776,RG01,24-11-2018,rahul.gowda@nexatel.co.in
+EM00479,Aarav More,Male,Customer Support,Field Technician,SR1358,RG03,25-05-2021,aarav.more@nexatel.co.in
+EM00480,Gaurav Ansari,Male,Store Operations,Billing Analyst,SR0765,RG01,21-11-2016,gaurav.ansari@nexatel.co.in
+EM00481,Deepak Gupta,Male,Field Service,Support Agent,SR1384,RG01,17-05-2024,deepak.gupta@nexatel.co.in
+EM00482,Devansh Sharma,Male,Customer Support,Senior Support Agent,SR1669,RG04,08-05-2018,devansh.sharma@nexatel.co.in
+EM00483,Vikram Achar,Male,Store Operations,Team Lead,SR1054,RG01,03-09-2012,vikram.achar@nexatel.co.in
+EM00484,Shreya Rastogi,Female,Retention,Senior Support Agent,SR1254,RG04,04-04-2024,shreya.rastogi@nexatel.co.in
+EM00485,Ankit Qureshi,Male,Customer Support,Network Engineer,SR1892,RG04,22-12-2018,ankit.qureshi@nexatel.co.in
+EM00486,Deepak Yadav,Male,Marketing,Sales Executive,SR1132,RG04,06-10-2015,deepak.yadav@nexatel.co.in
+EM00487,Tanvi Trivedi,Female,Customer Support,Support Agent,SR0240,RG04,29-01-2015,tanvi.trivedi@nexatel.co.in
+EM00488,Aishwarya Pillai,Female,Field Service,Store Manager,SR0219,RG02,02-05-2017,aishwarya.pillai@nexatel.co.in
+EM00489,Suresh Bansal,Male,Billing,Field Technician,SR1758,RG04,05-04-2022,suresh.bansal@nexatel.co.in
+EM00490,Mohit Bhosale,Male,Billing,Sales Executive,SR0150,RG01,05-10-2015,mohit.bhosale@nexatel.co.in
+EM00491,Anika Malhotra,Female,Customer Support,Senior Support Agent,SR1453,RG04,02-04-2018,anika.malhotra@nexatel.co.in
+EM00492,Siddharth Pawar,Male,Sales,Team Lead,SR1401,RG03,03-04-2025,siddharth.pawar@nexatel.co.in
+EM00493,Sanjay Chandran,Male,Billing,Support Agent,SR1483,RG03,13-05-2019,sanjay.chandran@nexatel.co.in
+EM00494,Gaurav Gowda,Male,Customer Support,Marketing Associate,SR1473,RG04,14-11-2025,gaurav.gowda@nexatel.co.in
+EM00495,Anita Bansal,Female,Network Operations,Sales Executive,SR2134,RG02,03-05-2025,anita.bansal@nexatel.co.in
+EM00496,Kiara Shaikh,Female,Billing,Network Engineer,SR0794,RG03,03-12-2024,kiara.shaikh@nexatel.co.in
+EM00497,Ravi Roy,Male,Store Operations,Network Engineer,SR0964,RG03,27-03-2013,ravi.roy@nexatel.co.in
+EM00498,Nikhil Sen,Male,Marketing,Billing Analyst,SR0006,RG03,13-02-2023,nikhil.sen@nexatel.co.in
+EM00499,Ramesh Solanki,Male,Store Operations,Network Engineer,SR1710,RG04,18-01-2016,ramesh.solanki@nexatel.co.in
+EM00500,Karthik Banerjee,Male,Store Operations,Billing Analyst,SR0274,RG02,21-10-2023,karthik.banerjee@nexatel.co.in
+EM00501,Ankit Malhotra,Male,Billing,Sales Executive,SR1867,RG01,15-09-2014,ankit.malhotra@nexatel.co.in
+EM00502,Aanya Sahoo,Female,Sales,Senior Support Agent,SR1688,RG04,30-12-2012,aanya.sahoo@nexatel.co.in
+EM00503,Pooja Chopra,Female,Network Operations,Retention Specialist,SR0707,RG01,28-08-2012,pooja.chopra@nexatel.co.in
+EM00504,Ishaan Kulkarni,Male,Marketing,Support Agent,SR0983,RG01,09-05-2012,ishaan.kulkarni@nexatel.co.in
+EM00505,Sarika Chauhan,Female,Sales,Support Agent,SR0845,RG03,02-11-2020,sarika.chauhan@nexatel.co.in
+EM00506,Rohan Nair,Male,Marketing,Retention Specialist,SR1736,RG02,05-05-2019,rohan.nair@nexatel.co.in
+EM00507,Varun Bhat,Male,Field Service,Field Technician,SR1638,RG04,19-07-2023,varun.bhat@nexatel.co.in
+EM00508,Aakash Ghosh,Male,Network Operations,Sales Executive,SR1608,RG03,26-09-2024,aakash.ghosh@nexatel.co.in
+EM00509,Tarun Modi,Male,Network Operations,Field Technician,SR1213,RG02,14-08-2020,tarun.modi@nexatel.co.in
+EM00510,Devansh Chavan,Male,Marketing,Field Technician,SR0725,RG04,09-03-2019,devansh.chavan@nexatel.co.in
+EM00511,Ayesha Bhattacharya,Female,Marketing,Marketing Associate,SR1844,RG04,16-04-2013,ayesha.bhattacharya@nexatel.co.in
+EM00512,Ayaan Chopra,Male,Retention,Billing Analyst,SR1286,RG02,06-08-2018,ayaan.chopra@nexatel.co.in
+EM00513,Kavya Saha,Female,Marketing,Retention Specialist,SR0592,RG01,08-09-2025,kavya.saha@nexatel.co.in
+EM00514,Siddharth Goel,Male,Field Service,Support Agent,SR0521,RG02,19-05-2016,siddharth.goel@nexatel.co.in
+EM00515,Riya Raju,Female,Customer Support,Sales Executive,SR2114,RG04,13-04-2023,riya.raju@nexatel.co.in
+EM00516,Nikhil Mohanty,Male,Billing,Field Technician,SR0492,RG03,27-08-2013,nikhil.mohanty@nexatel.co.in
+EM00517,Abhishek Deshmukh,Male,Billing,Retention Specialist,SR0078,RG04,12-12-2023,abhishek.deshmukh@nexatel.co.in
+EM00518,Ravi Ansari,Male,Sales,Field Technician,SR0777,RG02,18-05-2023,ravi.ansari@nexatel.co.in
+EM00519,Aanya Kammela,Female,Retention,Support Agent,SR0065,RG01,27-06-2024,aanya.kammela@nexatel.co.in
+EM00520,Devansh More,Male,Field Service,Sales Executive,SR0011,RG04,10-12-2020,devansh.more@nexatel.co.in
+EM00521,Sridevi Chakraborty,Female,Field Service,Senior Support Agent,SR0874,RG01,27-06-2022,sridevi.chakraborty@nexatel.co.in
+EM00522,Navya Chauhan,Female,Field Service,Retention Specialist,SR0032,RG01,18-03-2016,navya.chauhan@nexatel.co.in
+EM00523,Siddharth Parmar,Male,Sales,Marketing Associate,SR0908,RG02,21-07-2022,siddharth.parmar@nexatel.co.in
+EM00524,Tanvi Raju,Female,Customer Support,Billing Analyst,SR0997,RG01,12-12-2020,tanvi.raju@nexatel.co.in
+EM00525,Nikhil Iyengar,Male,Field Service,Network Engineer,SR0067,RG03,26-08-2013,nikhil.iyengar@nexatel.co.in
+EM00526,Pari Dubey,Female,Retention,Support Agent,SR2039,RG01,15-05-2021,pari.dubey@nexatel.co.in
+EM00527,Ishaan Subramanian,Male,Customer Support,Senior Support Agent,SR1146,RG01,12-04-2020,ishaan.subramanian@nexatel.co.in
+EM00528,Reyansh Verma,Male,Sales,Team Lead,SR0483,RG01,05-06-2022,reyansh.verma@nexatel.co.in
+EM00529,Ravi Chakraborty,Male,Sales,Network Engineer,SR0704,RG01,04-07-2022,ravi.chakraborty@nexatel.co.in
+EM00530,Sanjay Nayak,Male,Marketing,Sales Executive,SR1106,RG03,12-12-2025,sanjay.nayak@nexatel.co.in
+EM00531,Siddharth Dutta,Male,Sales,Retention Specialist,SR0134,RG02,23-10-2014,siddharth.dutta@nexatel.co.in
+EM00532,Sneha Chauhan,Female,Field Service,Store Manager,SR1703,RG01,15-08-2019,sneha.chauhan@nexatel.co.in
+EM00533,Zara Trivedi,Female,Marketing,Field Technician,SR1888,RG01,21-07-2019,zara.trivedi@nexatel.co.in
+EM00534,Akash Syed,Male,Billing,Support Agent,SR0051,RG04,05-02-2023,akash.syed@nexatel.co.in
+EM00535,Sahil Varma,Male,Customer Support,Network Engineer,SR1425,RG03,11-09-2012,sahil.varma@nexatel.co.in
+EM00536,Suresh Singh,Male,Billing,Support Agent,SR0881,RG03,02-06-2021,suresh.singh@nexatel.co.in
+EM00537,Ishaan Dubey,Male,Store Operations,Support Agent,SR2173,RG04,20-12-2021,ishaan.dubey@nexatel.co.in
+EM00538,Anjali Pradhan,Female,Customer Support,Marketing Associate,SR2173,RG04,19-10-2016,anjali.pradhan@nexatel.co.in
+EM00539,Akash Chandran,Male,Store Operations,Field Technician,SR2071,RG03,23-07-2014,akash.chandran@nexatel.co.in
+EM00540,Venkat Qureshi,Male,Retention,Billing Analyst,SR0389,RG03,05-09-2018,venkat.qureshi@nexatel.co.in
+EM00541,Rohan Solanki,Male,Store Operations,Retention Specialist,SR1896,RG01,28-01-2019,rohan.solanki@nexatel.co.in
+EM00542,Naveen Tiwari,Male,Marketing,Support Agent,SR1714,RG01,10-04-2016,naveen.tiwari@nexatel.co.in
+EM00543,Amit Borah,Male,Retention,Sales Executive,SR0907,RG01,12-10-2018,amit.borah@nexatel.co.in
+EM00544,Isha Bansal,Female,Network Operations,Senior Support Agent,SR1450,RG01,26-01-2012,isha.bansal@nexatel.co.in
+EM00545,Srinivas Chakraborty,Male,Sales,Field Technician,SR0481,RG01,11-11-2022,srinivas.chakraborty@nexatel.co.in
+EM00546,Mohit Iyer,Male,Retention,Store Manager,SR1400,RG03,17-07-2012,mohit.iyer@nexatel.co.in
+EM00547,Rahul Bose,Male,Retention,Senior Support Agent,SR1324,RG03,05-03-2015,rahul.bose@nexatel.co.in
+EM00548,Sanjay Gupta,Male,Marketing,Store Manager,SR1467,RG03,05-10-2012,sanjay.gupta@nexatel.co.in
+EM00549,Aadhya Hussain,Female,Retention,Retention Specialist,SR0941,RG01,04-02-2015,aadhya.hussain@nexatel.co.in
+EM00550,Siddharth Mohanty,Male,Network Operations,Billing Analyst,SR1466,RG01,16-07-2017,siddharth.mohanty@nexatel.co.in
+EM00551,Kavitha Chauhan,Female,Customer Support,Network Engineer,SR1025,RG03,20-02-2021,kavitha.chauhan@nexatel.co.in
+EM00552,Kabir Deshmukh,Male,Marketing,Team Lead,SR1549,RG03,17-07-2017,kabir.deshmukh@nexatel.co.in
+EM00553,Rajesh Pawar,Male,Billing,Field Technician,SR1070,RG03,29-01-2015,rajesh.pawar@nexatel.co.in
+EM00554,Gopal Mirza,Male,Field Service,Store Manager,SR0278,RG02,15-12-2013,gopal.mirza@nexatel.co.in
+EM00555,Ankit Mohanty,Male,Field Service,Marketing Associate,SR0785,RG03,08-05-2015,ankit.mohanty@nexatel.co.in
+EM00556,Preeti Shinde,Female,Customer Support,Marketing Associate,SR0175,RG02,07-07-2016,preeti.shinde@nexatel.co.in
+EM00557,Aadhya Saxena,Female,Field Service,Senior Support Agent,SR1500,RG01,02-07-2024,aadhya.saxena@nexatel.co.in
+EM00558,Priya Iyengar,Female,Sales,Field Technician,SR0467,RG01,11-06-2019,priya.iyengar@nexatel.co.in
+EM00559,Mahesh Pillai,Male,Store Operations,Store Manager,SR1296,RG01,17-09-2018,mahesh.pillai@nexatel.co.in
+EM00560,Venkat Saxena,Male,Marketing,Sales Executive,SR1387,RG01,04-06-2022,venkat.saxena@nexatel.co.in
+EM00561,Saanvi Menon,Female,Customer Support,Marketing Associate,SR2013,RG03,04-11-2024,saanvi.menon@nexatel.co.in
+EM00562,Ritika Gupta,Female,Store Operations,Senior Support Agent,SR1428,RG03,11-08-2023,ritika.gupta@nexatel.co.in
+EM00563,Divya Mishra,Female,Store Operations,Senior Support Agent,SR1739,RG02,09-04-2024,divya.mishra@nexatel.co.in
+EM00564,Vikram Hussain,Male,Network Operations,Field Technician,SR1014,RG01,11-07-2014,vikram.hussain@nexatel.co.in
+EM00565,Krishna Hussain,Male,Network Operations,Retention Specialist,SR1965,RG04,08-09-2017,krishna.hussain@nexatel.co.in
+EM00566,Shreya Reddy,Female,Sales,Network Engineer,SR0602,RG03,10-09-2012,shreya.reddy@nexatel.co.in
+EM00567,Rahul Sharma,Male,Store Operations,Support Agent,SR1857,RG03,05-01-2013,rahul.sharma@nexatel.co.in
+EM00568,Amit Pathan,Male,Retention,Store Manager,SR0552,RG04,17-12-2022,amit.pathan@nexatel.co.in
+EM00569,Praveen Murthy,Male,Retention,Support Agent,SR1713,RG03,24-05-2019,praveen.murthy@nexatel.co.in
+EM00570,Deepak Dubey,Male,Marketing,Senior Support Agent,SR1659,RG01,17-12-2014,deepak.dubey@nexatel.co.in
+EM00571,Manish Saxena,Male,Network Operations,Field Technician,SR1935,RG02,23-10-2020,manish.saxena@nexatel.co.in
+EM00572,Ravi Chatterjee,Male,Sales,Store Manager,SR1564,RG01,05-12-2024,ravi.chatterjee@nexatel.co.in
+EM00573,Siddharth Gowda,Male,Sales,Network Engineer,SR0436,RG01,16-11-2024,siddharth.gowda@nexatel.co.in
+EM00574,Sarika Dutta,Female,Billing,Store Manager,SR0754,RG01,27-12-2016,sarika.dutta@nexatel.co.in
+EM00575,Anjali Mahanta,Female,Network Operations,Senior Support Agent,SR0697,RG03,26-05-2024,anjali.mahanta@nexatel.co.in
+EM00576,Sneha Gaikwad,Female,Retention,Marketing Associate,SR0642,RG01,28-02-2014,sneha.gaikwad@nexatel.co.in
+EM00577,Geeta Solanki,Female,Marketing,Marketing Associate,SR0243,RG01,15-02-2020,geeta.solanki@nexatel.co.in
+EM00578,Kabir Deshmukh,Male,Marketing,Retention Specialist,SR0330,RG04,01-03-2016,kabir.deshmukh@nexatel.co.in
+EM00579,Devansh Bose,Male,Billing,Field Technician,SR1240,RG03,09-05-2025,devansh.bose@nexatel.co.in
+EM00580,Anil Saxena,Male,Network Operations,Network Engineer,SR1951,RG01,03-05-2020,anil.saxena@nexatel.co.in
+EM00581,Megha Raju,Female,Retention,Marketing Associate,SR0081,RG04,20-03-2013,megha.raju@nexatel.co.in
+EM00582,Saanvi Shetty,Female,Customer Support,Billing Analyst,SR1094,RG01,04-10-2014,saanvi.shetty@nexatel.co.in
+EM00583,Aditya Pillai,Male,Billing,Senior Support Agent,SR1717,RG02,13-03-2019,aditya.pillai@nexatel.co.in
+EM00584,Meera Borah,Female,Store Operations,Marketing Associate,SR0680,RG03,17-07-2022,meera.borah@nexatel.co.in
+EM00585,Pooja Pathan,Female,Marketing,Field Technician,SR1774,RG04,23-08-2020,pooja.pathan@nexatel.co.in
+EM00586,Rajesh Kammela,Male,Billing,Field Technician,SR1474,RG03,17-07-2018,rajesh.kammela@nexatel.co.in
+EM00587,Zara Subramanian,Female,Customer Support,Field Technician,SR0816,RG03,24-08-2014,zara.subramanian@nexatel.co.in
+EM00588,Abhishek Khanna,Male,Network Operations,Network Engineer,SR1664,RG01,30-09-2015,abhishek.khanna@nexatel.co.in
+EM00589,Saanvi Yadav,Female,Sales,Network Engineer,SR1320,RG04,17-11-2015,saanvi.yadav@nexatel.co.in
+EM00590,Sahil Das,Male,Retention,Team Lead,SR0311,RG01,29-01-2024,sahil.das@nexatel.co.in
+EM00591,Lata Pillai,Female,Store Operations,Store Manager,SR1625,RG01,30-09-2018,lata.pillai@nexatel.co.in
+EM00592,Ramesh Saha,Male,Sales,Network Engineer,SR0923,RG03,13-11-2021,ramesh.saha@nexatel.co.in
+EM00593,Nikhil Khanna,Male,Store Operations,Senior Support Agent,SR1953,RG01,21-07-2013,nikhil.khanna@nexatel.co.in
+EM00594,Suresh Iyer,Male,Marketing,Marketing Associate,SR1447,RG03,03-12-2016,suresh.iyer@nexatel.co.in
+EM00595,Swati Syed,Female,Sales,Network Engineer,SR0851,RG03,07-12-2019,swati.syed@nexatel.co.in
+EM00596,Myra Sarkar,Female,Sales,Network Engineer,SR0113,RG03,26-01-2013,myra.sarkar@nexatel.co.in
+EM00597,Ayaan Pradhan,Male,Retention,Team Lead,SR0561,RG03,18-04-2024,ayaan.pradhan@nexatel.co.in
+EM00598,Aditya Naidu,Male,Customer Support,Network Engineer,SR1027,RG01,26-06-2021,aditya.naidu@nexatel.co.in
+EM00599,Devansh Ahmed,Male,Store Operations,Senior Support Agent,SR1000,RG01,02-10-2013,devansh.ahmed@nexatel.co.in
+EM00600,Rahul Das,Male,Field Service,Sales Executive,SR0160,RG02,28-02-2019,rahul.das@nexatel.co.in
+EM00601,Srinivas Iyer,Male,Billing,Field Technician,SR1552,RG04,20-04-2017,srinivas.iyer@nexatel.co.in
+EM00602,Ravi Krishnan,Male,Sales,Sales Executive,SR0686,RG02,20-05-2017,ravi.krishnan@nexatel.co.in
+EM00603,Sridevi Shetty,Female,Billing,Team Lead,SR0903,RG04,16-03-2017,sridevi.shetty@nexatel.co.in
+EM00604,Bhavana Sen,Female,Sales,Sales Executive,SR1530,RG01,30-04-2019,bhavana.sen@nexatel.co.in
+EM00605,Tanvi Goel,Female,Sales,Team Lead,SR1621,RG03,18-09-2022,tanvi.goel@nexatel.co.in
+EM00606,Lakshmi Sahoo,Female,Field Service,Billing Analyst,SR1929,RG01,19-01-2022,lakshmi.sahoo@nexatel.co.in
+EM00607,Deepak Vyas,Male,Billing,Support Agent,SR1480,RG02,12-10-2020,deepak.vyas@nexatel.co.in
+EM00608,Ritika Khan,Female,Store Operations,Marketing Associate,SR1866,RG01,23-05-2022,ritika.khan@nexatel.co.in
+EM00609,Sirisha Paul,Female,Retention,Team Lead,SR1884,RG04,25-12-2015,sirisha.paul@nexatel.co.in
+EM00610,Abhishek Mohanty,Male,Marketing,Retention Specialist,SR1952,RG03,10-03-2022,abhishek.mohanty@nexatel.co.in
+EM00611,Preeti Bansal,Female,Retention,Retention Specialist,SR0423,RG04,03-06-2021,preeti.bansal@nexatel.co.in
+EM00612,Aakash Hegde,Male,Marketing,Billing Analyst,SR1202,RG04,05-08-2024,aakash.hegde@nexatel.co.in
+EM00613,Ishaan Reddy,Male,Customer Support,Senior Support Agent,SR0800,RG04,22-11-2015,ishaan.reddy@nexatel.co.in
+EM00614,Nandini Iyer,Female,Store Operations,Team Lead,SR0792,RG03,17-09-2015,nandini.iyer@nexatel.co.in
+EM00615,Suresh Bansal,Male,Retention,Team Lead,SR1032,RG02,29-09-2016,suresh.bansal@nexatel.co.in
+EM00616,Reyansh Pillai,Male,Sales,Store Manager,SR1281,RG01,11-06-2016,reyansh.pillai@nexatel.co.in
+EM00617,Lata Rastogi,Female,Sales,Field Technician,SR1340,RG03,06-09-2021,lata.rastogi@nexatel.co.in
+EM00618,Kabir Yadav,Male,Network Operations,Billing Analyst,SR1183,RG04,24-06-2017,kabir.yadav@nexatel.co.in
+EM00619,Rohan Rao,Male,Customer Support,Network Engineer,SR0484,RG03,06-10-2015,rohan.rao@nexatel.co.in
+EM00620,Gaurav Bose,Male,Billing,Senior Support Agent,SR0945,RG02,28-12-2024,gaurav.bose@nexatel.co.in
+EM00621,Mohit Raju,Male,Retention,Billing Analyst,SR0405,RG03,23-02-2012,mohit.raju@nexatel.co.in
+EM00622,Anita Hegde,Female,Store Operations,Support Agent,SR1769,RG01,14-02-2020,anita.hegde@nexatel.co.in
+EM00623,Siddharth Hegde,Male,Sales,Network Engineer,SR0199,RG01,12-01-2013,siddharth.hegde@nexatel.co.in
+EM00624,Meera Mirza,Female,Retention,Marketing Associate,SR1905,RG02,19-01-2023,meera.mirza@nexatel.co.in
+EM00625,Sanjay Kammela,Male,Retention,Field Technician,SR1714,RG01,04-05-2023,sanjay.kammela@nexatel.co.in
+EM00626,Reyansh Desai,Male,Marketing,Retention Specialist,SR1271,RG02,05-01-2013,reyansh.desai@nexatel.co.in
+EM00627,Pranav Paul,Male,Marketing,Support Agent,SR1053,RG01,24-06-2020,pranav.paul@nexatel.co.in
+EM00628,Tarun Parmar,Male,Field Service,Sales Executive,SR1925,RG04,23-07-2013,tarun.parmar@nexatel.co.in
+EM00629,Rahul Banerjee,Male,Customer Support,Field Technician,SR1018,RG04,13-06-2025,rahul.banerjee@nexatel.co.in
+EM00630,Pankaj Das,Male,Sales,Retention Specialist,SR0304,RG03,14-10-2012,pankaj.das@nexatel.co.in
+EM00631,Suresh Banerjee,Male,Store Operations,Support Agent,SR0149,RG03,21-02-2012,suresh.banerjee@nexatel.co.in
+EM00632,Srinivas Sharma,Male,Store Operations,Store Manager,SR0983,RG01,02-08-2023,srinivas.sharma@nexatel.co.in
+EM00633,Navya Shetty,Female,Billing,Field Technician,SR1363,RG02,17-02-2024,navya.shetty@nexatel.co.in
+EM00634,Karthik Mahanta,Male,Retention,Field Technician,SR1504,RG04,15-01-2021,karthik.mahanta@nexatel.co.in
+EM00635,Naveen Desai,Male,Billing,Marketing Associate,SR2136,RG04,12-03-2023,naveen.desai@nexatel.co.in
+EM00636,Sridevi Sahoo,Female,Customer Support,Sales Executive,SR1170,RG03,17-08-2025,sridevi.sahoo@nexatel.co.in
+EM00637,Reyansh Nayak,Male,Retention,Network Engineer,SR0136,RG03,17-10-2012,reyansh.nayak@nexatel.co.in
+EM00638,Riya Jadhav,Female,Marketing,Network Engineer,SR1267,RG01,13-07-2020,riya.jadhav@nexatel.co.in
+EM00639,Varun Kammela,Male,Field Service,Field Technician,SR2084,RG01,01-04-2025,varun.kammela@nexatel.co.in
+EM00640,Akash Pradhan,Male,Field Service,Retention Specialist,SR1393,RG01,19-10-2023,akash.pradhan@nexatel.co.in
+EM00641,Divya Pawar,Female,Customer Support,Sales Executive,SR1886,RG04,07-08-2013,divya.pawar@nexatel.co.in
+EM00642,Deepak Malhotra,Male,Retention,Marketing Associate,SR1183,RG04,04-02-2014,deepak.malhotra@nexatel.co.in
+EM00643,Siddharth Mohanty,Male,Sales,Sales Executive,SR1098,RG02,01-12-2024,siddharth.mohanty@nexatel.co.in
+EM00644,Devansh Desai,Male,Customer Support,Team Lead,SR0698,RG03,03-08-2018,devansh.desai@nexatel.co.in
+EM00645,Siddharth Chandran,Male,Store Operations,Senior Support Agent,SR1582,RG04,10-07-2023,siddharth.chandran@nexatel.co.in
+EM00646,Krishna Hegde,Male,Retention,Senior Support Agent,SR1977,RG01,28-08-2025,krishna.hegde@nexatel.co.in
+EM00647,Ramesh Mehrotra,Male,Billing,Retention Specialist,SR0881,RG03,27-02-2025,ramesh.mehrotra@nexatel.co.in
+EM00648,Praveen More,Male,Marketing,Support Agent,SR0138,RG02,22-04-2020,praveen.more@nexatel.co.in
+EM00649,Aanya Rastogi,Female,Customer Support,Retention Specialist,SR0642,RG01,18-01-2019,aanya.rastogi@nexatel.co.in
+EM00650,Rajesh Bansal,Male,Field Service,Field Technician,SR2065,RG03,24-06-2023,rajesh.bansal@nexatel.co.in
+EM00651,Lakshmi Ghosh,Female,Store Operations,Field Technician,SR0656,RG02,21-02-2022,lakshmi.ghosh@nexatel.co.in
+EM00652,Sana Banerjee,Female,Customer Support,Sales Executive,SR0495,RG04,11-11-2025,sana.banerjee@nexatel.co.in
+EM00653,Vihaan Vyas,Male,Retention,Team Lead,SR1060,RG03,27-03-2024,vihaan.vyas@nexatel.co.in
+EM00654,Sridevi Pandey,Female,Sales,Field Technician,SR1044,RG04,19-08-2016,sridevi.pandey@nexatel.co.in
+EM00655,Venkat Gowda,Male,Customer Support,Network Engineer,SR1094,RG01,29-11-2023,venkat.gowda@nexatel.co.in
+EM00656,Radha Sheikh,Female,Customer Support,Billing Analyst,SR1505,RG03,10-05-2025,radha.sheikh@nexatel.co.in
+EM00657,Ravi Malhotra,Male,Store Operations,Team Lead,SR1769,RG01,05-02-2017,ravi.malhotra@nexatel.co.in
+EM00658,Riya Naidu,Female,Network Operations,Retention Specialist,SR1056,RG01,06-08-2015,riya.naidu@nexatel.co.in
+EM00659,Lata Iyengar,Female,Customer Support,Team Lead,SR1751,RG04,01-04-2015,lata.iyengar@nexatel.co.in
+EM00660,Aadhya Sarkar,Female,Field Service,Store Manager,SR0961,RG02,07-02-2016,aadhya.sarkar@nexatel.co.in
+EM00661,Riya Mahanta,Female,Customer Support,Network Engineer,SR1046,RG03,02-12-2020,riya.mahanta@nexatel.co.in
+EM00662,Suresh Trivedi,Male,Field Service,Field Technician,SR1792,RG02,12-07-2012,suresh.trivedi@nexatel.co.in
+EM00663,Ritika Shinde,Female,Field Service,Support Agent,SR2050,RG04,24-02-2023,ritika.shinde@nexatel.co.in
+EM00664,Aadhya Thakkar,Female,Store Operations,Support Agent,SR1619,RG04,18-05-2015,aadhya.thakkar@nexatel.co.in
+EM00665,Vidya Khan,Female,Retention,Field Technician,SR0164,RG01,28-07-2013,vidya.khan@nexatel.co.in
+EM00666,Sahil Mirza,Male,Sales,Sales Executive,SR0139,RG01,15-08-2013,sahil.mirza@nexatel.co.in
+EM00667,Sana Trivedi,Female,Marketing,Field Technician,SR1763,RG01,12-11-2016,sana.trivedi@nexatel.co.in
+EM00668,Imran Ghosh,Male,Customer Support,Marketing Associate,SR0635,RG01,23-08-2019,imran.ghosh@nexatel.co.in
+EM00669,Suresh More,Male,Retention,Retention Specialist,SR1291,RG01,27-11-2017,suresh.more@nexatel.co.in
+EM00670,Gopal Raju,Male,Sales,Sales Executive,SR0826,RG01,14-08-2023,gopal.raju@nexatel.co.in
+EM00671,Zaid Yadav,Male,Retention,Marketing Associate,SR0879,RG02,14-04-2024,zaid.yadav@nexatel.co.in
+EM00672,Swati Mishra,Female,Marketing,Team Lead,SR1935,RG02,16-02-2019,swati.mishra@nexatel.co.in
+EM00673,Arjun Chakraborty,Male,Sales,Senior Support Agent,SR0520,RG01,06-11-2021,arjun.chakraborty@nexatel.co.in
+EM00674,Ankit Mirza,Male,Field Service,Team Lead,SR0320,RG02,17-06-2021,ankit.mirza@nexatel.co.in
+EM00675,Varun Pillai,Male,Billing,Retention Specialist,SR0927,RG02,19-07-2024,varun.pillai@nexatel.co.in
+EM00676,Krishna Shaikh,Male,Marketing,Team Lead,SR0107,RG03,15-01-2014,krishna.shaikh@nexatel.co.in
+EM00677,Reyansh Rao,Male,Field Service,Marketing Associate,SR1881,RG04,25-01-2022,reyansh.rao@nexatel.co.in
+EM00678,Zaid Iyer,Male,Sales,Sales Executive,SR1242,RG04,13-11-2018,zaid.iyer@nexatel.co.in
+EM00679,Meera Achar,Female,Network Operations,Marketing Associate,SR0544,RG03,06-12-2022,meera.achar@nexatel.co.in
+EM00680,Nikhil Khan,Male,Sales,Retention Specialist,SR1834,RG01,03-02-2012,nikhil.khan@nexatel.co.in
+EM00681,Riya Chopra,Female,Sales,Store Manager,SR0875,RG04,20-01-2015,riya.chopra@nexatel.co.in
+EM00682,Pooja Qureshi,Female,Network Operations,Marketing Associate,SR0089,RG02,11-05-2014,pooja.qureshi@nexatel.co.in
+EM00683,Sanjay Sahoo,Male,Customer Support,Senior Support Agent,SR0336,RG03,21-11-2021,sanjay.sahoo@nexatel.co.in
+EM00684,Ritika Subramanian,Female,Customer Support,Store Manager,SR1547,RG04,11-08-2012,ritika.subramanian@nexatel.co.in
+EM00685,Devansh More,Male,Store Operations,Field Technician,SR0476,RG03,10-10-2014,devansh.more@nexatel.co.in
+EM00686,Riya Jadhav,Female,Sales,Network Engineer,SR1837,RG02,07-08-2025,riya.jadhav@nexatel.co.in
+EM00687,Lata Chopra,Female,Billing,Senior Support Agent,SR0050,RG01,02-05-2016,lata.chopra@nexatel.co.in
+EM00688,Naveen Rao,Male,Network Operations,Field Technician,SR1054,RG01,11-03-2024,naveen.rao@nexatel.co.in
+EM00689,Zaid Pillai,Male,Store Operations,Marketing Associate,SR1824,RG02,03-09-2023,zaid.pillai@nexatel.co.in
+EM00690,Sana Chavan,Female,Store Operations,Marketing Associate,SR1279,RG02,25-06-2019,sana.chavan@nexatel.co.in
+EM00691,Pankaj Subramanian,Male,Marketing,Sales Executive,SR1004,RG03,05-02-2014,pankaj.subramanian@nexatel.co.in
+EM00692,Siddharth Bhat,Male,Sales,Sales Executive,SR1649,RG04,08-01-2013,siddharth.bhat@nexatel.co.in
+EM00693,Ananya Khan,Female,Billing,Sales Executive,SR1481,RG04,23-12-2025,ananya.khan@nexatel.co.in
+EM00694,Nandini Ghosh,Female,Sales,Sales Executive,SR1624,RG03,14-03-2016,nandini.ghosh@nexatel.co.in
+EM00695,Manish Desai,Male,Marketing,Network Engineer,SR1317,RG04,10-06-2013,manish.desai@nexatel.co.in
+EM00696,Faisal Nair,Male,Marketing,Marketing Associate,SR0437,RG01,25-02-2024,faisal.nair@nexatel.co.in
+EM00697,Anil Rao,Male,Retention,Team Lead,SR1425,RG03,14-09-2019,anil.rao@nexatel.co.in
+EM00698,Pankaj Bhat,Male,Retention,Sales Executive,SR1835,RG01,21-02-2012,pankaj.bhat@nexatel.co.in
+EM00699,Mahesh Rao,Male,Retention,Support Agent,SR1997,RG04,10-03-2015,mahesh.rao@nexatel.co.in
+EM00700,Rajesh Tiwari,Male,Network Operations,Billing Analyst,SR1005,RG03,13-09-2021,rajesh.tiwari@nexatel.co.in
+EM00701,Aakash Verma,Male,Network Operations,Team Lead,SR0852,RG04,21-07-2021,aakash.verma@nexatel.co.in
+EM00702,Aditya Iyengar,Male,Billing,Team Lead,SR1357,RG04,18-07-2024,aditya.iyengar@nexatel.co.in
+EM00703,Gopal Kammela,Male,Sales,Senior Support Agent,SR0231,RG03,13-11-2013,gopal.kammela@nexatel.co.in
+EM00704,Varun Shetty,Male,Retention,Retention Specialist,SR1485,RG03,27-07-2019,varun.shetty@nexatel.co.in
+EM00705,Isha Chauhan,Female,Retention,Senior Support Agent,SR1462,RG01,29-11-2017,isha.chauhan@nexatel.co.in
+EM00706,Reyansh Ghosh,Male,Customer Support,Sales Executive,SR0419,RG01,02-02-2016,reyansh.ghosh@nexatel.co.in
+EM00707,Sanjay Mehrotra,Male,Billing,Marketing Associate,SR0710,RG02,31-10-2013,sanjay.mehrotra@nexatel.co.in
+EM00708,Preeti Sahoo,Female,Retention,Senior Support Agent,SR2129,RG03,18-11-2025,preeti.sahoo@nexatel.co.in
+EM00709,Aanya Gowda,Female,Billing,Billing Analyst,SR1861,RG01,01-01-2021,aanya.gowda@nexatel.co.in
+EM00710,Ayaan Qureshi,Male,Billing,Support Agent,SR1844,RG04,25-10-2020,ayaan.qureshi@nexatel.co.in
+EM00711,Aditya Qureshi,Male,Field Service,Marketing Associate,SR0709,RG03,13-12-2024,aditya.qureshi@nexatel.co.in
+EM00712,Rohan Chauhan,Male,Retention,Retention Specialist,SR1250,RG04,01-01-2017,rohan.chauhan@nexatel.co.in
+EM00713,Pankaj Pawar,Male,Retention,Senior Support Agent,SR0704,RG01,05-11-2025,pankaj.pawar@nexatel.co.in
+EM00714,Manish Banerjee,Male,Field Service,Retention Specialist,SR0772,RG04,10-01-2021,manish.banerjee@nexatel.co.in
+EM00715,Aryan Vyas,Male,Sales,Senior Support Agent,SR0647,RG02,17-04-2017,aryan.vyas@nexatel.co.in
+EM00716,Kavitha Ghosh,Female,Marketing,Network Engineer,SR0087,RG02,30-07-2021,kavitha.ghosh@nexatel.co.in
+EM00717,Reyansh Iyer,Male,Marketing,Senior Support Agent,SR1502,RG01,13-08-2015,reyansh.iyer@nexatel.co.in
+EM00718,Ankit Dutta,Male,Retention,Retention Specialist,SR1736,RG02,19-02-2014,ankit.dutta@nexatel.co.in
+EM00719,Faisal Desai,Male,Billing,Retention Specialist,SR0590,RG03,12-03-2015,faisal.desai@nexatel.co.in
+EM00720,Pooja Parmar,Female,Network Operations,Network Engineer,SR1974,RG03,24-05-2015,pooja.parmar@nexatel.co.in
+EM00721,Sanjay Singh,Male,Network Operations,Support Agent,SR2151,RG01,14-02-2018,sanjay.singh@nexatel.co.in
+EM00722,Fatima Mukherjee,Female,Billing,Marketing Associate,SR2106,RG04,13-04-2022,fatima.mukherjee@nexatel.co.in
+EM00723,Neha Ahmed,Female,Sales,Field Technician,SR1061,RG04,05-04-2020,neha.ahmed@nexatel.co.in
+EM00724,Ayesha Shetty,Female,Store Operations,Team Lead,SR0212,RG04,15-11-2015,ayesha.shetty@nexatel.co.in
+EM00725,Aarav Verma,Male,Field Service,Support Agent,SR1737,RG04,20-12-2021,aarav.verma@nexatel.co.in
+EM00726,Vihaan Chandran,Male,Retention,Retention Specialist,SR1856,RG01,17-02-2020,vihaan.chandran@nexatel.co.in
+EM00727,Gaurav Syed,Male,Network Operations,Retention Specialist,SR0867,RG03,11-01-2024,gaurav.syed@nexatel.co.in
+EM00728,Gopal Ansari,Male,Field Service,Field Technician,SR1533,RG01,27-12-2024,gopal.ansari@nexatel.co.in
+EM00729,Ayaan Borah,Male,Billing,Retention Specialist,SR1360,RG04,17-10-2015,ayaan.borah@nexatel.co.in
+EM00730,Amit Paul,Male,Marketing,Sales Executive,SR1641,RG01,31-07-2024,amit.paul@nexatel.co.in
+EM00731,Bhavana Subramanian,Female,Network Operations,Field Technician,SR2180,RG02,18-06-2014,bhavana.subramanian@nexatel.co.in
+EM00732,Aditya Syed,Male,Field Service,Support Agent,SR0510,RG01,07-06-2013,aditya.syed@nexatel.co.in
+EM00733,Deepa Bhat,Female,Network Operations,Sales Executive,SR0666,RG01,27-04-2016,deepa.bhat@nexatel.co.in
+EM00734,Rohan Banerjee,Male,Sales,Support Agent,SR0674,RG04,06-03-2025,rohan.banerjee@nexatel.co.in
+EM00735,Mahesh Deshmukh,Male,Field Service,Retention Specialist,SR2154,RG04,04-10-2016,mahesh.deshmukh@nexatel.co.in
+EM00736,Ayesha Sharma,Female,Marketing,Store Manager,SR0108,RG02,12-05-2017,ayesha.sharma@nexatel.co.in
+EM00737,Saanvi Bhardwaj,Female,Store Operations,Retention Specialist,SR1879,RG01,10-03-2019,saanvi.bhardwaj@nexatel.co.in
+EM00738,Kabir Trivedi,Male,Retention,Field Technician,SR1050,RG02,24-04-2017,kabir.trivedi@nexatel.co.in
+EM00739,Sarika Trivedi,Female,Customer Support,Senior Support Agent,SR0810,RG01,07-03-2024,sarika.trivedi@nexatel.co.in
+EM00740,Vikram Sharma,Male,Sales,Team Lead,SR1260,RG01,01-01-2022,vikram.sharma@nexatel.co.in
+EM00741,Praveen Chauhan,Male,Marketing,Store Manager,SR0392,RG03,28-03-2012,praveen.chauhan@nexatel.co.in
+EM00742,Saanvi Qureshi,Female,Billing,Network Engineer,SR1248,RG01,04-01-2022,saanvi.qureshi@nexatel.co.in
+EM00743,Vikram Shetty,Male,Retention,Team Lead,SR0062,RG03,16-11-2015,vikram.shetty@nexatel.co.in
+EM00744,Rohan Chakraborty,Male,Sales,Sales Executive,SR2123,RG03,15-04-2023,rohan.chakraborty@nexatel.co.in
+EM00745,Srinivas Ansari,Male,Customer Support,Store Manager,SR2000,RG04,19-08-2019,srinivas.ansari@nexatel.co.in
+EM00746,Praveen Achar,Male,Sales,Support Agent,SR0571,RG02,19-03-2016,praveen.achar@nexatel.co.in
+EM00747,Tanvi Banerjee,Female,Sales,Marketing Associate,SR1776,RG04,18-01-2012,tanvi.banerjee@nexatel.co.in
+EM00748,Srinivas Rastogi,Male,Billing,Support Agent,SR1568,RG03,13-10-2022,srinivas.rastogi@nexatel.co.in
+EM00749,Srinivas Iyer,Male,Store Operations,Retention Specialist,SR0895,RG02,11-04-2024,srinivas.iyer@nexatel.co.in
+EM00750,Vikram Shaikh,Male,Network Operations,Marketing Associate,SR1690,RG01,05-01-2025,vikram.shaikh@nexatel.co.in
+EM00751,Devansh Gaikwad,Male,Marketing,Retention Specialist,SR0599,RG01,02-12-2014,devansh.gaikwad@nexatel.co.in
+EM00752,Kabir Singh,Male,Sales,Marketing Associate,SR0608,RG01,03-01-2025,kabir.singh@nexatel.co.in
+EM00753,Naveen Bansal,Male,Network Operations,Network Engineer,SR1631,RG04,24-10-2018,naveen.bansal@nexatel.co.in
+EM00754,Ravi Chavan,Male,Retention,Team Lead,SR1720,RG02,20-05-2014,ravi.chavan@nexatel.co.in
+EM00755,Nandini Trivedi,Female,Field Service,Senior Support Agent,SR1693,RG03,08-10-2022,nandini.trivedi@nexatel.co.in
+EM00756,Kavya Nayak,Female,Field Service,Sales Executive,SR0549,RG01,23-01-2015,kavya.nayak@nexatel.co.in
+EM00757,Padma Bose,Female,Network Operations,Sales Executive,SR0272,RG01,10-09-2021,padma.bose@nexatel.co.in
+EM00758,Ankit Sahoo,Male,Retention,Network Engineer,SR1795,RG04,23-12-2021,ankit.sahoo@nexatel.co.in
+EM00759,Lata Mukherjee,Female,Customer Support,Sales Executive,SR0317,RG03,14-05-2020,lata.mukherjee@nexatel.co.in
+EM00760,Isha Banerjee,Female,Network Operations,Store Manager,SR0050,RG01,17-07-2025,isha.banerjee@nexatel.co.in
+EM00761,Tarun Goel,Male,Customer Support,Senior Support Agent,SR1301,RG03,30-09-2017,tarun.goel@nexatel.co.in
+EM00762,Shreya Bose,Female,Sales,Billing Analyst,SR0323,RG02,03-04-2021,shreya.bose@nexatel.co.in
+EM00763,Sunil Verma,Male,Sales,Team Lead,SR0048,RG03,21-11-2013,sunil.verma@nexatel.co.in
+EM00764,Ankit Solanki,Male,Field Service,Sales Executive,SR0521,RG02,29-06-2021,ankit.solanki@nexatel.co.in
+EM00765,Ankit Bhardwaj,Male,Field Service,Retention Specialist,SR0584,RG02,30-06-2024,ankit.bhardwaj@nexatel.co.in
+EM00766,Nikhil Saxena,Male,Retention,Senior Support Agent,SR0535,RG03,24-05-2024,nikhil.saxena@nexatel.co.in
+EM00767,Gaurav Malhotra,Male,Field Service,Support Agent,SR1191,RG02,11-07-2025,gaurav.malhotra@nexatel.co.in
+EM00768,Arjun Chandran,Male,Network Operations,Marketing Associate,SR0782,RG01,03-11-2018,arjun.chandran@nexatel.co.in
+EM00769,Vihaan Mirza,Male,Store Operations,Network Engineer,SR0007,RG01,03-12-2023,vihaan.mirza@nexatel.co.in
+EM00770,Karthik Ahmed,Male,Customer Support,Store Manager,SR0307,RG01,20-04-2015,karthik.ahmed@nexatel.co.in
+EM00771,Ankit Ahmed,Male,Store Operations,Billing Analyst,SR0039,RG02,04-02-2022,ankit.ahmed@nexatel.co.in
+EM00772,Preeti Sarkar,Female,Sales,Network Engineer,SR1913,RG04,31-12-2016,preeti.sarkar@nexatel.co.in
+EM00773,Priya Khanna,Female,Store Operations,Marketing Associate,SR0816,RG03,03-09-2022,priya.khanna@nexatel.co.in
+EM00774,Ravi Chandran,Male,Customer Support,Senior Support Agent,SR0495,RG04,19-11-2020,ravi.chandran@nexatel.co.in
+EM00775,Vihaan Kammela,Male,Retention,Marketing Associate,SR2105,RG01,22-11-2017,vihaan.kammela@nexatel.co.in
+EM00776,Aryan Menon,Male,Sales,Billing Analyst,SR1067,RG01,08-12-2024,aryan.menon@nexatel.co.in
+EM00777,Abhishek Chavan,Male,Sales,Senior Support Agent,SR0332,RG03,17-03-2019,abhishek.chavan@nexatel.co.in
+EM00778,Deepak Patel,Male,Store Operations,Network Engineer,SR1119,RG01,16-11-2013,deepak.patel@nexatel.co.in
+EM00779,Reyansh Verma,Male,Retention,Marketing Associate,SR1216,RG04,19-01-2019,reyansh.verma@nexatel.co.in
+EM00780,Reyansh Qureshi,Male,Marketing,Team Lead,SR0273,RG01,10-05-2023,reyansh.qureshi@nexatel.co.in
+EM00781,Krishna Nair,Male,Billing,Field Technician,SR1918,RG02,15-02-2016,krishna.nair@nexatel.co.in
+EM00782,Zaid Mirza,Male,Sales,Sales Executive,SR2123,RG03,10-05-2020,zaid.mirza@nexatel.co.in
+EM00783,Megha More,Female,Field Service,Senior Support Agent,SR1801,RG01,01-07-2013,megha.more@nexatel.co.in
+EM00784,Karthik Das,Male,Customer Support,Billing Analyst,SR1518,RG03,17-01-2025,karthik.das@nexatel.co.in
+EM00785,Sarika Krishnan,Female,Store Operations,Team Lead,SR0169,RG04,12-03-2024,sarika.krishnan@nexatel.co.in
+EM00786,Naveen Mahanta,Male,Retention,Network Engineer,SR0643,RG02,08-03-2015,naveen.mahanta@nexatel.co.in
+EM00787,Priya Mahanta,Female,Store Operations,Sales Executive,SR2118,RG02,25-03-2015,priya.mahanta@nexatel.co.in
+EM00788,Lakshmi Sheikh,Female,Field Service,Support Agent,SR1095,RG02,02-12-2021,lakshmi.sheikh@nexatel.co.in
+EM00789,Aadhya Das,Female,Billing,Team Lead,SR2121,RG03,27-11-2019,aadhya.das@nexatel.co.in
+EM00790,Akash Achar,Male,Customer Support,Sales Executive,SR0660,RG01,03-09-2021,akash.achar@nexatel.co.in
+EM00791,Reyansh Chatterjee,Male,Network Operations,Retention Specialist,SR1945,RG04,06-11-2015,reyansh.chatterjee@nexatel.co.in
+EM00792,Imran Ansari,Male,Field Service,Network Engineer,SR0172,RG01,03-12-2018,imran.ansari@nexatel.co.in
+EM00793,Imran Yadav,Male,Customer Support,Marketing Associate,SR0957,RG01,25-06-2019,imran.yadav@nexatel.co.in
+EM00794,Sarika Iyer,Female,Customer Support,Support Agent,SR2134,RG02,10-09-2020,sarika.iyer@nexatel.co.in
+EM00795,Tarun Bhat,Male,Field Service,Support Agent,SR0380,RG04,09-06-2024,tarun.bhat@nexatel.co.in
+EM00796,Pranav Achar,Male,Billing,Billing Analyst,SR1186,RG04,13-07-2022,pranav.achar@nexatel.co.in
+EM00797,Neha Gowda,Female,Network Operations,Sales Executive,SR0734,RG04,27-11-2025,neha.gowda@nexatel.co.in
+EM00798,Ramesh Rao,Male,Field Service,Senior Support Agent,SR0651,RG04,03-06-2025,ramesh.rao@nexatel.co.in
+EM00799,Aditya Shetty,Male,Network Operations,Network Engineer,SR0955,RG04,22-05-2025,aditya.shetty@nexatel.co.in
+EM00800,Imran Sen,Male,Sales,Billing Analyst,SR0791,RG01,06-04-2012,imran.sen@nexatel.co.in

@@ -1,0 +1,37 @@
+state_id,state_name,state_code,zone
+ST001,Delhi,DL,North
+ST002,Haryana,HR,North
+ST003,Punjab,PB,North
+ST004,Uttar Pradesh,UP,North
+ST005,Rajasthan,RJ,North
+ST006,Uttarakhand,UK,North
+ST007,Himachal Pradesh,HP,North
+ST008,Jammu and Kashmir,JK,North
+ST009,Chandigarh,CH,North
+ST010,Maharashtra,MH,West
+ST011,Gujarat,GJ,West
+ST012,Madhya Pradesh,MP,West
+ST013,Goa,GA,West
+ST014,Dadra and Nagar Haveli and Daman and Diu,DN,West
+ST015,Karnataka,KA,South
+ST016,Tamil Nadu,TN,South
+ST017,Kerala,KL,South
+ST018,Andhra Pradesh,AP,South
+ST019,Telangana,TG,South
+ST020,Puducherry,PY,South
+ST021,Lakshadweep,LD,South
+ST022,West Bengal,WB,East
+ST023,Odisha,OD,East
+ST024,Bihar,BR,East
+ST025,Jharkhand,JH,East
+ST026,Assam,AS,East
+ST027,Chhattisgarh,CG,East
+ST028,Sikkim,SK,East
+ST029,Arunachal Pradesh,AR,East
+ST030,Nagaland,NL,East
+ST031,Manipur,MN,East
+ST032,Mizoram,MZ,East
+ST033,Tripura,TR,East
+ST034,Meghalaya,ML,East
+ST035,Andaman and Nicobar Islands,AN,East
+ST036,Ladakh,LA,North

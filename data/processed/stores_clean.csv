@@ -1,0 +1,2181 @@
+store_id,store_name,city_id,state_id,region_id,store_type,opened_date
+SR0001,NexaTel Gaya Point,CT0057,ST024,RG04,Experience Centre,19-10-2017
+SR0002,NexaTel Amritsar Store,CT0032,ST003,RG01,Mini Store,20-01-2018
+SR0003,NexaTel New Delhi Centre,CT0001,ST001,RG01,Mini Store,05-07-2016
+SR0004,NexaTel Vijayawada Point,CT0029,ST018,RG03,Owned,14-01-2017
+SR0005,NexaTel Kolkata Hub,CT0005,ST022,RG04,Franchise,04-12-2010
+SR0006,NexaTel Thiruvananthapuram Point,CT0034,ST017,RG03,Mini Store,26-10-2014
+SR0007,NexaTel Udaipur Store,CT0060,ST005,RG01,Mini Store,27-07-2023
+SR0008,NexaTel Ranchi Point,CT0025,ST025,RG04,Franchise,17-11-2015
+SR0009,NexaTel Amritsar Hub,CT0032,ST003,RG01,Owned,18-04-2025
+SR0010,NexaTel Amritsar Hub,CT0032,ST003,RG01,Owned,26-08-2024
+SR0011,NexaTel Siliguri Centre,CT0052,ST022,RG04,Experience Centre,25-06-2020
+SR0012,NexaTel Chennai Hub,CT0004,ST016,RG03,Franchise,26-05-2015
+SR0013,NexaTel Salem Point,CT0044,ST016,RG03,Franchise,11-07-2019
+SR0014,NexaTel Ajmer Express,CT0040,ST005,RG01,Experience Centre,28-03-2024
+SR0015,NexaTel Warangal Point,CT0043,ST019,RG03,Mini Store,14-01-2020
+SR0016,NexaTel Kota Express,CT0050,ST005,RG01,Owned,10-08-2010
+SR0017,NexaTel Kochi Express,CT0017,ST017,RG03,Owned,17-03-2011
+SR0018,NexaTel Gangtok Express,CT0068,ST028,RG04,Mini Store,23-04-2010
+SR0019,NexaTel Mumbai Centre,CT0002,ST010,RG02,Mini Store,15-04-2014
+SR0020,NexaTel Imphal Centre,CT0064,ST031,RG04,Experience Centre,18-11-2021
+SR0021,NexaTel Mumbai Hub,CT0002,ST010,RG02,Franchise,09-10-2019
+SR0022,NexaTel Thiruvananthapuram Express,CT0034,ST017,RG03,Mini Store,15-07-2024
+SR0023,NexaTel Dehradun Express,CT0033,ST006,RG01,Owned,05-01-2016
+SR0024,NexaTel Agartala Express,CT0066,ST033,RG04,Franchise,19-01-2018
+SR0025,NexaTel Durgapur Express,CT0053,ST022,RG04,Franchise,23-01-2017
+SR0026,NexaTel Bhagalpur Centre,CT0056,ST024,RG04,Franchise,27-05-2023
+SR0027,NexaTel Noida Centre,CT0010,ST004,RG01,Franchise,18-02-2018
+SR0028,NexaTel Bhopal Point,CT0014,ST012,RG02,Franchise,14-03-2024
+SR0029,NexaTel Noida Hub,CT0010,ST004,RG01,Owned,04-07-2024
+SR0030,NexaTel Indore Express,CT0013,ST012,RG02,Owned,13-04-2010
+SR0031,NexaTel Indore Store,CT0013,ST012,RG02,Franchise,23-06-2017
+SR0032,NexaTel Jammu Express,CT0062,ST008,RG01,Owned,21-01-2022
+SR0033,NexaTel Mumbai Centre,CT0002,ST010,RG02,Mini Store,19-09-2021
+SR0034,NexaTel Vijayawada Hub,CT0029,ST018,RG03,Franchise,09-04-2025
+SR0035,NexaTel Mumbai Centre,CT0002,ST010,RG02,Experience Centre,05-07-2012
+SR0036,NexaTel Kollam Store,CT0046,ST017,RG03,Franchise,20-10-2022
+SR0037,NexaTel Jamshedpur Hub,CT0058,ST025,RG04,Mini Store,19-03-2021
+SR0038,NexaTel Visakhapatnam Hub,CT0018,ST018,RG03,Franchise,15-05-2016
+SR0039,NexaTel Bhopal Store,CT0014,ST012,RG02,Franchise,15-01-2025
+SR0040,NexaTel Madurai Point,CT0028,ST016,RG03,Experience Centre,15-05-2016
+SR0041,NexaTel Panaji Express,CT0063,ST013,RG02,Owned,13-02-2020
+SR0042,NexaTel Ahmedabad Hub,CT0008,ST011,RG02,Owned,05-06-2014
+SR0043,NexaTel Agra Store,CT0039,ST004,RG01,Franchise,10-06-2021
+SR0044,NexaTel Bhubaneswar Store,CT0022,ST023,RG04,Franchise,25-01-2011
+SR0045,NexaTel Ludhiana Point,CT0031,ST003,RG01,Mini Store,30-07-2017
+SR0046,NexaTel Vadodara Express,CT0020,ST011,RG02,Mini Store,31-07-2016
+SR0047,NexaTel Salem Hub,CT0044,ST016,RG03,Owned,02-02-2011
+SR0048,NexaTel Thiruvananthapuram Centre,CT0034,ST017,RG03,Franchise,10-09-2017
+SR0049,NexaTel Rourkela Point,CT0055,ST023,RG04,Mini Store,17-09-2011
+SR0050,NexaTel Varanasi Express,CT0037,ST004,RG01,Franchise,14-10-2015
+SR0051,NexaTel Raipur Centre,CT0026,ST027,RG04,Franchise,17-08-2022
+SR0052,NexaTel Cuttack Express,CT0054,ST023,RG04,Mini Store,19-01-2019
+SR0053,NexaTel Udaipur Express,CT0060,ST005,RG01,Owned,30-07-2011
+SR0054,NexaTel Durgapur Hub,CT0053,ST022,RG04,Owned,18-09-2022
+SR0055,NexaTel Kollam Point,CT0046,ST017,RG03,Owned,12-04-2019
+SR0056,NexaTel Ludhiana Express,CT0031,ST003,RG01,Franchise,06-08-2020
+SR0057,NexaTel Guwahati Hub,CT0024,ST026,RG04,Franchise,02-04-2020
+SR0058,NexaTel Gwalior Centre,CT0048,ST012,RG02,Owned,19-11-2017
+SR0059,NexaTel Coimbatore Hub,CT0016,ST016,RG03,Franchise,14-05-2024
+SR0060,NexaTel Ajmer Hub,CT0040,ST005,RG01,Mini Store,25-06-2011
+SR0061,NexaTel Pune Point,CT0007,ST010,RG02,Owned,23-10-2013
+SR0062,NexaTel Kollam Store,CT0046,ST017,RG03,Mini Store,25-09-2012
+SR0063,NexaTel Chandigarh Point,CT0023,ST009,RG01,Experience Centre,04-02-2010
+SR0064,NexaTel Shimla Hub,CT0061,ST007,RG01,Owned,26-01-2023
+SR0065,NexaTel Jaipur Express,CT0011,ST005,RG01,Franchise,03-04-2017
+SR0066,NexaTel Amritsar Centre,CT0032,ST003,RG01,Mini Store,24-03-2016
+SR0067,NexaTel Belagavi Centre,CT0041,ST015,RG03,Franchise,15-03-2015
+SR0068,NexaTel Surat Express,CT0019,ST011,RG02,Franchise,02-10-2022
+SR0069,NexaTel Shillong Store,CT0065,ST034,RG04,Franchise,09-06-2025
+SR0070,NexaTel Siliguri Store,CT0052,ST022,RG04,Owned,15-07-2016
+SR0071,NexaTel Rourkela Store,CT0055,ST023,RG04,Mini Store,29-03-2019
+SR0072,NexaTel Warangal Express,CT0043,ST019,RG03,Owned,18-04-2014
+SR0073,NexaTel Mumbai Hub,CT0002,ST010,RG02,Franchise,25-02-2012
+SR0074,NexaTel Madurai Express,CT0028,ST016,RG03,Franchise,18-06-2010
+SR0075,NexaTel Guwahati Centre,CT0024,ST026,RG04,Experience Centre,13-05-2024
+SR0076,NexaTel Kota Point,CT0050,ST005,RG01,Franchise,16-07-2014
+SR0077,NexaTel Mumbai Store,CT0002,ST010,RG02,Franchise,26-07-2017
+SR0078,NexaTel Gaya Express,CT0057,ST024,RG04,Franchise,17-11-2021
+SR0079,NexaTel Jabalpur Hub,CT0049,ST012,RG02,Owned,04-07-2024
+SR0080,NexaTel Udaipur Express,CT0060,ST005,RG01,Franchise,11-10-2020
+SR0081,NexaTel Siliguri Point,CT0052,ST022,RG04,Franchise,01-05-2013
+SR0082,NexaTel Vadodara Centre,CT0020,ST011,RG02,Owned,30-01-2023
+SR0083,NexaTel Kochi Store,CT0017,ST017,RG03,Franchise,16-08-2018
+SR0084,NexaTel Pune Point,CT0007,ST010,RG02,Franchise,01-10-2010
+SR0085,NexaTel Agra Point,CT0039,ST004,RG01,Owned,21-01-2013
+SR0086,NexaTel Dehradun Hub,CT0033,ST006,RG01,Experience Centre,05-05-2015
+SR0087,NexaTel Bhopal Hub,CT0014,ST012,RG02,Franchise,30-08-2014
+SR0088,NexaTel Raipur Hub,CT0026,ST027,RG04,Franchise,28-04-2023
+SR0089,NexaTel Pune Point,CT0007,ST010,RG02,Franchise,28-08-2023
+SR0090,NexaTel Amritsar Express,CT0032,ST003,RG01,Franchise,02-09-2021
+SR0091,NexaTel New Delhi Store,CT0001,ST001,RG01,Experience Centre,08-06-2022
+SR0092,NexaTel Chandigarh Point,CT0023,ST009,RG01,Owned,21-10-2017
+SR0093,NexaTel Kanpur Hub,CT0036,ST004,RG01,Mini Store,19-11-2010
+SR0094,NexaTel Warangal Hub,CT0043,ST019,RG03,Mini Store,17-03-2024
+SR0095,NexaTel Shillong Point,CT0065,ST034,RG04,Franchise,31-03-2016
+SR0096,NexaTel Gaya Centre,CT0057,ST024,RG04,Mini Store,21-02-2024
+SR0097,NexaTel Ahmedabad Centre,CT0008,ST011,RG02,Owned,09-07-2014
+SR0098,NexaTel Jamshedpur Hub,CT0058,ST025,RG04,Owned,16-08-2015
+SR0099,NexaTel Jodhpur Hub,CT0035,ST005,RG01,Franchise,31-08-2015
+SR0100,NexaTel Gangtok Store,CT0068,ST028,RG04,Franchise,26-12-2014
+SR0101,NexaTel Mysuru Centre,CT0027,ST015,RG03,Franchise,13-09-2010
+SR0102,NexaTel Ranchi Centre,CT0025,ST025,RG04,Franchise,23-07-2022
+SR0103,NexaTel Imphal Express,CT0064,ST031,RG04,Owned,06-04-2020
+SR0104,NexaTel Pune Hub,CT0007,ST010,RG02,Franchise,26-03-2010
+SR0105,NexaTel Bikaner Express,CT0051,ST005,RG01,Franchise,17-04-2019
+SR0106,NexaTel Gaya Express,CT0057,ST024,RG04,Experience Centre,01-07-2019
+SR0107,NexaTel Kochi Point,CT0017,ST017,RG03,Experience Centre,17-08-2017
+SR0108,NexaTel Mumbai Store,CT0002,ST010,RG02,Owned,25-07-2019
+SR0109,NexaTel Bhagalpur Express,CT0056,ST024,RG04,Franchise,23-03-2013
+SR0110,NexaTel Kolkata Store,CT0005,ST022,RG04,Franchise,29-06-2025
+SR0111,NexaTel Chennai Centre,CT0004,ST016,RG03,Owned,25-06-2021
+SR0112,NexaTel Ajmer Store,CT0040,ST005,RG01,Experience Centre,26-05-2020
+SR0113,NexaTel Thiruvananthapuram Point,CT0034,ST017,RG03,Franchise,03-03-2018
+SR0114,NexaTel Hubballi Express,CT0047,ST015,RG03,Owned,27-02-2023
+SR0115,NexaTel Gurugram Point,CT0009,ST002,RG01,Owned,18-08-2023
+SR0116,NexaTel Imphal Store,CT0064,ST031,RG04,Franchise,06-08-2011
+SR0117,NexaTel Jabalpur Store,CT0049,ST012,RG02,Franchise,31-07-2015
+SR0118,NexaTel Guwahati Express,CT0024,ST026,RG04,Franchise,27-03-2018
+SR0119,NexaTel Vijayawada Express,CT0029,ST018,RG03,Franchise,04-10-2023
+SR0120,NexaTel Chennai Express,CT0004,ST016,RG03,Franchise,25-01-2023
+SR0121,NexaTel Jamshedpur Store,CT0058,ST025,RG04,Franchise,19-03-2021
+SR0122,NexaTel Mumbai Centre,CT0002,ST010,RG02,Owned,22-02-2022
+SR0123,NexaTel Pune Centre,CT0007,ST010,RG02,Franchise,12-07-2018
+SR0124,NexaTel Bilaspur Store,CT0059,ST027,RG04,Franchise,17-03-2023
+SR0125,NexaTel Udaipur Express,CT0060,ST005,RG01,Franchise,06-10-2013
+SR0126,NexaTel Salem Express,CT0044,ST016,RG03,Mini Store,19-06-2012
+SR0127,NexaTel Vadodara Express,CT0020,ST011,RG02,Franchise,12-10-2016
+SR0128,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Owned,23-05-2024
+SR0129,NexaTel Lucknow Store,CT0012,ST004,RG01,Mini Store,12-12-2018
+SR0130,NexaTel Tirupati Hub,CT0042,ST018,RG03,Franchise,23-06-2018
+SR0131,NexaTel Indore Centre,CT0013,ST012,RG02,Franchise,11-01-2025
+SR0132,NexaTel Dehradun Store,CT0033,ST006,RG01,Owned,30-01-2010
+SR0133,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Owned,10-05-2017
+SR0134,NexaTel Bhopal Hub,CT0014,ST012,RG02,Mini Store,14-09-2023
+SR0135,NexaTel Jabalpur Express,CT0049,ST012,RG02,Owned,03-05-2013
+SR0136,NexaTel Warangal Store,CT0043,ST019,RG03,Experience Centre,27-06-2020
+SR0137,NexaTel Kollam Centre,CT0046,ST017,RG03,Mini Store,22-12-2010
+SR0138,NexaTel Mumbai Centre,CT0002,ST010,RG02,Owned,27-05-2023
+SR0139,NexaTel Jaipur Store,CT0011,ST005,RG01,Franchise,01-06-2024
+SR0140,NexaTel Kanpur Hub,CT0036,ST004,RG01,Owned,20-12-2022
+SR0141,NexaTel Mysuru Centre,CT0027,ST015,RG03,Franchise,21-05-2014
+SR0142,NexaTel Hyderabad Centre,CT0006,ST019,RG03,Owned,03-07-2014
+SR0143,NexaTel Siliguri Express,CT0052,ST022,RG04,Franchise,03-10-2018
+SR0144,NexaTel Aurangabad Store,CT0038,ST010,RG02,Franchise,02-12-2016
+SR0145,NexaTel Bhagalpur Express,CT0056,ST024,RG04,Owned,29-04-2025
+SR0146,NexaTel Chennai Hub,CT0004,ST016,RG03,Franchise,17-11-2022
+SR0147,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,14-08-2014
+SR0148,NexaTel Jaipur Hub,CT0011,ST005,RG01,Owned,08-06-2018
+SR0149,NexaTel Vijayawada Store,CT0029,ST018,RG03,Owned,22-02-2022
+SR0150,NexaTel Shimla Store,CT0061,ST007,RG01,Owned,29-05-2021
+SR0151,NexaTel Noida Point,CT0010,ST004,RG01,Franchise,21-07-2024
+SR0152,NexaTel Gurugram Hub,CT0009,ST002,RG01,Experience Centre,16-12-2019
+SR0153,NexaTel Vijayawada Store,CT0029,ST018,RG03,Owned,29-04-2021
+SR0154,NexaTel Kanpur Express,CT0036,ST004,RG01,Franchise,12-05-2013
+SR0155,NexaTel Thiruvananthapuram Store,CT0034,ST017,RG03,Owned,01-01-2023
+SR0156,NexaTel Shillong Hub,CT0065,ST034,RG04,Franchise,02-05-2014
+SR0157,NexaTel Kollam Hub,CT0046,ST017,RG03,Owned,16-02-2018
+SR0158,NexaTel Visakhapatnam Express,CT0018,ST018,RG03,Franchise,01-12-2021
+SR0159,NexaTel Hyderabad Hub,CT0006,ST019,RG03,Owned,17-01-2012
+SR0160,NexaTel Indore Express,CT0013,ST012,RG02,Franchise,22-08-2016
+SR0161,NexaTel Panaji Hub,CT0063,ST013,RG02,Mini Store,20-10-2014
+SR0162,NexaTel Jamshedpur Hub,CT0058,ST025,RG04,Franchise,04-02-2020
+SR0163,NexaTel Shimla Point,CT0061,ST007,RG01,Mini Store,03-11-2020
+SR0164,NexaTel Dehradun Centre,CT0033,ST006,RG01,Mini Store,19-07-2016
+SR0165,NexaTel Dehradun Point,CT0033,ST006,RG01,Owned,05-12-2022
+SR0166,NexaTel Ajmer Hub,CT0040,ST005,RG01,Franchise,08-04-2024
+SR0167,NexaTel Gangtok Centre,CT0068,ST028,RG04,Franchise,15-08-2024
+SR0168,NexaTel Nagpur Store,CT0015,ST010,RG02,Franchise,31-07-2018
+SR0169,NexaTel Shillong Express,CT0065,ST034,RG04,Mini Store,05-08-2017
+SR0170,NexaTel Tirupati Store,CT0042,ST018,RG03,Mini Store,02-11-2015
+SR0171,NexaTel Kollam Centre,CT0046,ST017,RG03,Mini Store,28-03-2018
+SR0172,NexaTel Gurugram Express,CT0009,ST002,RG01,Owned,16-01-2013
+SR0173,NexaTel Agra Hub,CT0039,ST004,RG01,Mini Store,06-02-2014
+SR0174,NexaTel Bilaspur Express,CT0059,ST027,RG04,Mini Store,15-10-2021
+SR0175,NexaTel Mumbai Point,CT0002,ST010,RG02,Franchise,28-12-2017
+SR0176,NexaTel Imphal Hub,CT0064,ST031,RG04,Franchise,22-03-2012
+SR0177,NexaTel Noida Centre,CT0010,ST004,RG01,Owned,15-03-2020
+SR0178,NexaTel Udaipur Store,CT0060,ST005,RG01,Franchise,25-09-2015
+SR0179,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,26-11-2015
+SR0180,NexaTel Noida Point,CT0010,ST004,RG01,Owned,20-05-2020
+SR0181,NexaTel Gwalior Point,CT0048,ST012,RG02,Franchise,06-02-2017
+SR0182,NexaTel Dehradun Hub,CT0033,ST006,RG01,Owned,06-06-2016
+SR0183,NexaTel Hubballi Centre,CT0047,ST015,RG03,Mini Store,15-11-2016
+SR0184,NexaTel Ajmer Hub,CT0040,ST005,RG01,Owned,17-12-2010
+SR0185,NexaTel Kollam Store,CT0046,ST017,RG03,Franchise,14-11-2010
+SR0186,NexaTel Vijayawada Centre,CT0029,ST018,RG03,Franchise,16-08-2021
+SR0187,NexaTel Indore Hub,CT0013,ST012,RG02,Owned,30-09-2013
+SR0188,NexaTel Varanasi Point,CT0037,ST004,RG01,Owned,12-04-2014
+SR0189,NexaTel Panaji Hub,CT0063,ST013,RG02,Mini Store,30-10-2013
+SR0190,NexaTel Noida Store,CT0010,ST004,RG01,Mini Store,08-01-2016
+SR0191,NexaTel Bhubaneswar Centre,CT0022,ST023,RG04,Owned,02-09-2017
+SR0192,NexaTel Bengaluru Express,CT0003,ST015,RG03,Mini Store,22-05-2014
+SR0193,NexaTel Chandigarh Point,CT0023,ST009,RG01,Franchise,07-01-2022
+SR0194,NexaTel Bikaner Point,CT0051,ST005,RG01,Franchise,06-11-2022
+SR0195,NexaTel Jammu Express,CT0062,ST008,RG01,Owned,26-05-2023
+SR0196,NexaTel Shimla Express,CT0061,ST007,RG01,Mini Store,20-06-2019
+SR0197,NexaTel Jodhpur Store,CT0035,ST005,RG01,Owned,12-10-2018
+SR0198,NexaTel Mysuru Hub,CT0027,ST015,RG03,Mini Store,01-08-2010
+SR0199,NexaTel Lucknow Express,CT0012,ST004,RG01,Experience Centre,12-01-2021
+SR0200,NexaTel Vijayawada Point,CT0029,ST018,RG03,Experience Centre,19-04-2020
+SR0201,NexaTel Kota Centre,CT0050,ST005,RG01,Franchise,21-05-2019
+SR0202,NexaTel Bilaspur Hub,CT0059,ST027,RG04,Mini Store,06-04-2020
+SR0203,NexaTel Udaipur Hub,CT0060,ST005,RG01,Franchise,22-09-2014
+SR0204,NexaTel Kota Centre,CT0050,ST005,RG01,Franchise,18-02-2025
+SR0205,NexaTel Jodhpur Express,CT0035,ST005,RG01,Owned,19-04-2013
+SR0206,NexaTel Tiruchirappalli Hub,CT0045,ST016,RG03,Franchise,06-11-2023
+SR0207,NexaTel Noida Store,CT0010,ST004,RG01,Mini Store,03-04-2019
+SR0208,NexaTel Hyderabad Hub,CT0006,ST019,RG03,Owned,07-12-2013
+SR0209,NexaTel Indore Express,CT0013,ST012,RG02,Owned,18-03-2019
+SR0210,NexaTel Gaya Store,CT0057,ST024,RG04,Franchise,26-07-2022
+SR0211,NexaTel Gaya Centre,CT0057,ST024,RG04,Owned,01-10-2011
+SR0212,NexaTel Bhagalpur Centre,CT0056,ST024,RG04,Franchise,15-07-2017
+SR0213,NexaTel Gwalior Express,CT0048,ST012,RG02,Franchise,18-02-2015
+SR0214,NexaTel Guwahati Hub,CT0024,ST026,RG04,Franchise,23-11-2023
+SR0215,NexaTel Tirupati Store,CT0042,ST018,RG03,Owned,24-05-2019
+SR0216,NexaTel Kolkata Centre,CT0005,ST022,RG04,Franchise,23-11-2021
+SR0217,NexaTel Kochi Point,CT0017,ST017,RG03,Franchise,10-04-2023
+SR0218,NexaTel Ranchi Point,CT0025,ST025,RG04,Franchise,31-12-2018
+SR0219,NexaTel Surat Hub,CT0019,ST011,RG02,Mini Store,05-08-2024
+SR0220,NexaTel Agartala Store,CT0066,ST033,RG04,Experience Centre,29-07-2012
+SR0221,NexaTel Indore Hub,CT0013,ST012,RG02,Franchise,12-07-2022
+SR0222,NexaTel Mumbai Hub,CT0002,ST010,RG02,Franchise,16-09-2010
+SR0223,NexaTel Agra Store,CT0039,ST004,RG01,Franchise,17-04-2016
+SR0224,NexaTel Tiruchirappalli Point,CT0045,ST016,RG03,Owned,17-03-2017
+SR0225,NexaTel Ludhiana Store,CT0031,ST003,RG01,Franchise,16-07-2022
+SR0226,NexaTel Kolkata Store,CT0005,ST022,RG04,Franchise,18-04-2021
+SR0227,NexaTel Amritsar Express,CT0032,ST003,RG01,Franchise,14-11-2021
+SR0228,NexaTel Chennai Hub,CT0004,ST016,RG03,Franchise,19-05-2016
+SR0229,NexaTel Kolkata Express,CT0005,ST022,RG04,Franchise,26-12-2010
+SR0230,NexaTel Agartala Express,CT0066,ST033,RG04,Franchise,24-11-2018
+SR0231,NexaTel Hubballi Centre,CT0047,ST015,RG03,Owned,17-07-2015
+SR0232,NexaTel Gurugram Express,CT0009,ST002,RG01,Franchise,10-05-2025
+SR0233,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Owned,07-01-2012
+SR0234,NexaTel Raipur Hub,CT0026,ST027,RG04,Franchise,03-09-2016
+SR0235,NexaTel Kollam Point,CT0046,ST017,RG03,Franchise,25-01-2021
+SR0236,NexaTel Bhopal Store,CT0014,ST012,RG02,Owned,06-12-2020
+SR0237,NexaTel Kanpur Store,CT0036,ST004,RG01,Franchise,27-10-2024
+SR0238,NexaTel Gangtok Hub,CT0068,ST028,RG04,Franchise,24-10-2013
+SR0239,NexaTel Ludhiana Store,CT0031,ST003,RG01,Mini Store,31-07-2016
+SR0240,NexaTel Bilaspur Express,CT0059,ST027,RG04,Owned,24-03-2022
+SR0241,NexaTel Gangtok Centre,CT0068,ST028,RG04,Owned,30-05-2011
+SR0242,NexaTel Vadodara Express,CT0020,ST011,RG02,Franchise,31-07-2015
+SR0243,NexaTel Kota Point,CT0050,ST005,RG01,Franchise,31-12-2015
+SR0244,NexaTel Jaipur Point,CT0011,ST005,RG01,Franchise,08-07-2023
+SR0245,NexaTel Kollam Express,CT0046,ST017,RG03,Franchise,24-01-2010
+SR0246,NexaTel Chennai Point,CT0004,ST016,RG03,Owned,04-03-2010
+SR0247,NexaTel Gaya Point,CT0057,ST024,RG04,Mini Store,07-12-2015
+SR0248,NexaTel Bhubaneswar Point,CT0022,ST023,RG04,Franchise,09-05-2014
+SR0249,NexaTel Nagpur Point,CT0015,ST010,RG02,Franchise,01-04-2021
+SR0250,NexaTel Bengaluru Store,CT0003,ST015,RG03,Franchise,08-12-2018
+SR0251,NexaTel Coimbatore Centre,CT0016,ST016,RG03,Franchise,19-07-2011
+SR0252,NexaTel Indore Hub,CT0013,ST012,RG02,Mini Store,29-06-2025
+SR0253,NexaTel Surat Centre,CT0019,ST011,RG02,Mini Store,02-01-2021
+SR0254,NexaTel Lucknow Store,CT0012,ST004,RG01,Franchise,09-09-2013
+SR0255,NexaTel Thiruvananthapuram Store,CT0034,ST017,RG03,Owned,17-08-2015
+SR0256,NexaTel Kochi Store,CT0017,ST017,RG03,Owned,14-08-2011
+SR0257,NexaTel Ajmer Centre,CT0040,ST005,RG01,Franchise,13-01-2013
+SR0258,NexaTel Thiruvananthapuram Hub,CT0034,ST017,RG03,Franchise,21-06-2019
+SR0259,NexaTel Amritsar Store,CT0032,ST003,RG01,Owned,08-03-2020
+SR0260,NexaTel Jamshedpur Express,CT0058,ST025,RG04,Franchise,10-07-2021
+SR0261,NexaTel Shillong Express,CT0065,ST034,RG04,Mini Store,07-04-2017
+SR0262,NexaTel Bengaluru Centre,CT0003,ST015,RG03,Franchise,10-06-2017
+SR0263,NexaTel Raipur Hub,CT0026,ST027,RG04,Mini Store,19-08-2024
+SR0264,NexaTel New Delhi Store,CT0001,ST001,RG01,Owned,12-05-2021
+SR0265,NexaTel Kanpur Centre,CT0036,ST004,RG01,Franchise,28-03-2017
+SR0266,NexaTel Vijayawada Point,CT0029,ST018,RG03,Franchise,12-05-2016
+SR0267,NexaTel Ahmedabad Express,CT0008,ST011,RG02,Owned,09-05-2014
+SR0268,NexaTel Kota Point,CT0050,ST005,RG01,Franchise,28-05-2012
+SR0269,NexaTel Gwalior Point,CT0048,ST012,RG02,Owned,14-06-2024
+SR0270,NexaTel Lucknow Express,CT0012,ST004,RG01,Owned,06-12-2012
+SR0271,NexaTel Kochi Hub,CT0017,ST017,RG03,Owned,25-04-2014
+SR0272,NexaTel Amritsar Point,CT0032,ST003,RG01,Owned,18-06-2018
+SR0273,NexaTel Gurugram Store,CT0009,ST002,RG01,Experience Centre,20-04-2013
+SR0274,NexaTel Surat Centre,CT0019,ST011,RG02,Owned,16-09-2021
+SR0275,NexaTel Kota Store,CT0050,ST005,RG01,Owned,01-05-2014
+SR0276,NexaTel Bilaspur Hub,CT0059,ST027,RG04,Mini Store,16-06-2019
+SR0277,NexaTel Kochi Express,CT0017,ST017,RG03,Franchise,23-10-2020
+SR0278,NexaTel Bhopal Centre,CT0014,ST012,RG02,Owned,25-11-2021
+SR0279,NexaTel Durgapur Express,CT0053,ST022,RG04,Franchise,13-05-2019
+SR0280,NexaTel Kota Centre,CT0050,ST005,RG01,Franchise,18-06-2019
+SR0281,NexaTel Siliguri Express,CT0052,ST022,RG04,Owned,10-07-2015
+SR0282,NexaTel Tiruchirappalli Centre,CT0045,ST016,RG03,Experience Centre,09-09-2014
+SR0283,NexaTel Amritsar Express,CT0032,ST003,RG01,Franchise,29-11-2011
+SR0284,NexaTel Ranchi Centre,CT0025,ST025,RG04,Franchise,20-09-2014
+SR0285,NexaTel Coimbatore Centre,CT0016,ST016,RG03,Franchise,20-12-2011
+SR0286,NexaTel Raipur Hub,CT0026,ST027,RG04,Franchise,12-07-2024
+SR0287,NexaTel Siliguri Point,CT0052,ST022,RG04,Franchise,31-03-2013
+SR0288,NexaTel Shimla Express,CT0061,ST007,RG01,Mini Store,06-08-2018
+SR0289,NexaTel Bhopal Hub,CT0014,ST012,RG02,Owned,10-05-2012
+SR0290,NexaTel Guwahati Express,CT0024,ST026,RG04,Mini Store,09-11-2018
+SR0291,NexaTel Patna Express,CT0021,ST024,RG04,Franchise,07-09-2022
+SR0292,NexaTel Kochi Express,CT0017,ST017,RG03,Mini Store,14-04-2022
+SR0293,NexaTel Udaipur Express,CT0060,ST005,RG01,Owned,14-04-2024
+SR0294,NexaTel Mysuru Hub,CT0027,ST015,RG03,Franchise,25-10-2016
+SR0295,NexaTel Gaya Centre,CT0057,ST024,RG04,Experience Centre,23-10-2022
+SR0296,NexaTel Warangal Store,CT0043,ST019,RG03,Franchise,22-01-2025
+SR0297,NexaTel Siliguri Point,CT0052,ST022,RG04,Mini Store,16-09-2021
+SR0298,NexaTel Jodhpur Express,CT0035,ST005,RG01,Mini Store,04-01-2011
+SR0299,NexaTel Ludhiana Express,CT0031,ST003,RG01,Franchise,07-10-2022
+SR0300,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,04-09-2019
+SR0301,NexaTel Tirupati Centre,CT0042,ST018,RG03,Mini Store,07-11-2012
+SR0302,NexaTel Chandigarh Point,CT0023,ST009,RG01,Experience Centre,25-05-2021
+SR0303,NexaTel Cuttack Point,CT0054,ST023,RG04,Mini Store,19-02-2016
+SR0304,NexaTel Hyderabad Express,CT0006,ST019,RG03,Owned,28-06-2013
+SR0305,NexaTel Gurugram Hub,CT0009,ST002,RG01,Owned,03-06-2014
+SR0306,NexaTel Panaji Hub,CT0063,ST013,RG02,Franchise,02-06-2017
+SR0307,NexaTel Bikaner Store,CT0051,ST005,RG01,Franchise,02-12-2012
+SR0308,NexaTel Gurugram Hub,CT0009,ST002,RG01,Franchise,17-06-2011
+SR0309,NexaTel Agra Hub,CT0039,ST004,RG01,Owned,07-11-2021
+SR0310,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Owned,25-03-2022
+SR0311,NexaTel New Delhi Centre,CT0001,ST001,RG01,Mini Store,23-03-2016
+SR0312,NexaTel Tiruchirappalli Centre,CT0045,ST016,RG03,Owned,19-07-2022
+SR0313,NexaTel Bikaner Store,CT0051,ST005,RG01,Franchise,17-05-2015
+SR0314,NexaTel Gangtok Centre,CT0068,ST028,RG04,Owned,02-12-2017
+SR0315,NexaTel Hubballi Store,CT0047,ST015,RG03,Owned,28-04-2022
+SR0316,NexaTel Rourkela Point,CT0055,ST023,RG04,Owned,19-04-2019
+SR0317,NexaTel Mysuru Express,CT0027,ST015,RG03,Franchise,15-11-2010
+SR0318,NexaTel Bhagalpur Express,CT0056,ST024,RG04,Owned,07-02-2012
+SR0319,NexaTel Kota Point,CT0050,ST005,RG01,Owned,12-06-2013
+SR0320,NexaTel Gwalior Express,CT0048,ST012,RG02,Owned,04-12-2015
+SR0321,NexaTel Shimla Store,CT0061,ST007,RG01,Experience Centre,22-11-2018
+SR0322,NexaTel Bhopal Centre,CT0014,ST012,RG02,Experience Centre,22-02-2013
+SR0323,NexaTel Bhopal Point,CT0014,ST012,RG02,Franchise,24-06-2015
+SR0324,NexaTel Vadodara Point,CT0020,ST011,RG02,Franchise,17-08-2023
+SR0325,NexaTel Indore Point,CT0013,ST012,RG02,Franchise,21-01-2012
+SR0326,NexaTel Siliguri Point,CT0052,ST022,RG04,Mini Store,21-08-2019
+SR0327,NexaTel Jammu Centre,CT0062,ST008,RG01,Franchise,20-05-2015
+SR0328,NexaTel Hyderabad Express,CT0006,ST019,RG03,Franchise,30-01-2025
+SR0329,NexaTel Gwalior Point,CT0048,ST012,RG02,Franchise,07-06-2013
+SR0330,NexaTel Bhubaneswar Express,CT0022,ST023,RG04,Owned,05-09-2012
+SR0331,NexaTel Varanasi Centre,CT0037,ST004,RG01,Mini Store,18-05-2019
+SR0332,NexaTel Warangal Point,CT0043,ST019,RG03,Franchise,30-10-2015
+SR0333,NexaTel Udaipur Express,CT0060,ST005,RG01,Franchise,18-09-2020
+SR0334,NexaTel Hyderabad Point,CT0006,ST019,RG03,Owned,02-08-2020
+SR0335,NexaTel Agartala Store,CT0066,ST033,RG04,Franchise,06-01-2011
+SR0336,NexaTel Hyderabad Point,CT0006,ST019,RG03,Franchise,21-04-2014
+SR0337,NexaTel Jodhpur Express,CT0035,ST005,RG01,Mini Store,31-03-2025
+SR0338,NexaTel Bikaner Centre,CT0051,ST005,RG01,Experience Centre,12-11-2024
+SR0339,NexaTel Coimbatore Store,CT0016,ST016,RG03,Franchise,25-02-2015
+SR0340,NexaTel Warangal Express,CT0043,ST019,RG03,Franchise,25-05-2022
+SR0341,NexaTel Varanasi Store,CT0037,ST004,RG01,Experience Centre,13-05-2023
+SR0342,NexaTel Bhopal Point,CT0014,ST012,RG02,Mini Store,28-07-2014
+SR0343,NexaTel Guwahati Hub,CT0024,ST026,RG04,Franchise,23-02-2014
+SR0344,NexaTel Vadodara Point,CT0020,ST011,RG02,Owned,07-08-2013
+SR0345,NexaTel Hubballi Store,CT0047,ST015,RG03,Franchise,16-08-2021
+SR0346,NexaTel Udaipur Centre,CT0060,ST005,RG01,Franchise,22-02-2024
+SR0347,NexaTel Chandigarh Point,CT0023,ST009,RG01,Owned,05-02-2020
+SR0348,NexaTel Kanpur Hub,CT0036,ST004,RG01,Franchise,01-10-2012
+SR0349,NexaTel Coimbatore Express,CT0016,ST016,RG03,Franchise,03-11-2013
+SR0350,NexaTel Jaipur Centre,CT0011,ST005,RG01,Franchise,13-11-2021
+SR0351,NexaTel Tirupati Point,CT0042,ST018,RG03,Franchise,26-06-2022
+SR0352,NexaTel Chandigarh Express,CT0023,ST009,RG01,Franchise,03-05-2014
+SR0353,NexaTel Bhopal Express,CT0014,ST012,RG02,Owned,07-12-2022
+SR0354,NexaTel Jabalpur Centre,CT0049,ST012,RG02,Owned,20-09-2018
+SR0355,NexaTel Bikaner Centre,CT0051,ST005,RG01,Experience Centre,14-11-2020
+SR0356,NexaTel Jodhpur Store,CT0035,ST005,RG01,Mini Store,05-06-2023
+SR0357,NexaTel Hubballi Centre,CT0047,ST015,RG03,Franchise,07-05-2021
+SR0358,NexaTel Hyderabad Centre,CT0006,ST019,RG03,Owned,03-04-2025
+SR0359,NexaTel Bengaluru Express,CT0003,ST015,RG03,Franchise,26-08-2013
+SR0360,NexaTel Varanasi Store,CT0037,ST004,RG01,Owned,16-01-2022
+SR0361,NexaTel Rourkela Point,CT0055,ST023,RG04,Mini Store,04-02-2011
+SR0362,NexaTel Jamshedpur Express,CT0058,ST025,RG04,Mini Store,02-01-2022
+SR0363,NexaTel Agartala Store,CT0066,ST033,RG04,Mini Store,23-08-2011
+SR0364,NexaTel Gangtok Store,CT0068,ST028,RG04,Owned,16-06-2018
+SR0365,NexaTel Indore Point,CT0013,ST012,RG02,Owned,19-08-2022
+SR0366,NexaTel Chennai Express,CT0004,ST016,RG03,Franchise,31-08-2018
+SR0367,NexaTel Gurugram Store,CT0009,ST002,RG01,Franchise,14-12-2023
+SR0368,NexaTel Guwahati Centre,CT0024,ST026,RG04,Owned,28-09-2024
+SR0369,NexaTel Noida Hub,CT0010,ST004,RG01,Owned,20-09-2022
+SR0370,NexaTel Hubballi Point,CT0047,ST015,RG03,Mini Store,28-09-2016
+SR0371,NexaTel Ajmer Hub,CT0040,ST005,RG01,Owned,19-11-2015
+SR0372,NexaTel Varanasi Hub,CT0037,ST004,RG01,Mini Store,25-09-2016
+SR0373,NexaTel Vadodara Hub,CT0020,ST011,RG02,Owned,16-04-2010
+SR0374,NexaTel Gurugram Express,CT0009,ST002,RG01,Franchise,18-07-2024
+SR0375,NexaTel Thiruvananthapuram Point,CT0034,ST017,RG03,Franchise,08-01-2011
+SR0376,NexaTel Lucknow Express,CT0012,ST004,RG01,Franchise,12-02-2013
+SR0377,NexaTel Shillong Centre,CT0065,ST034,RG04,Franchise,31-12-2012
+SR0378,NexaTel Rourkela Point,CT0055,ST023,RG04,Franchise,24-06-2021
+SR0379,NexaTel Warangal Centre,CT0043,ST019,RG03,Franchise,07-09-2011
+SR0380,NexaTel Agartala Point,CT0066,ST033,RG04,Franchise,03-01-2015
+SR0381,NexaTel Aizawl Store,CT0067,ST032,RG04,Franchise,15-10-2012
+SR0382,NexaTel Madurai Store,CT0028,ST016,RG03,Franchise,15-01-2017
+SR0383,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Owned,25-09-2022
+SR0384,NexaTel Bilaspur Express,CT0059,ST027,RG04,Owned,16-07-2017
+SR0385,NexaTel Imphal Store,CT0064,ST031,RG04,Owned,13-05-2019
+SR0386,NexaTel Bengaluru Hub,CT0003,ST015,RG03,Owned,19-08-2014
+SR0387,NexaTel Kolkata Store,CT0005,ST022,RG04,Owned,14-06-2014
+SR0388,NexaTel Coimbatore Centre,CT0016,ST016,RG03,Franchise,05-12-2021
+SR0389,NexaTel Hubballi Express,CT0047,ST015,RG03,Owned,27-03-2023
+SR0390,NexaTel Chennai Express,CT0004,ST016,RG03,Franchise,02-01-2020
+SR0391,NexaTel Visakhapatnam Point,CT0018,ST018,RG03,Mini Store,05-08-2018
+SR0392,NexaTel Tiruchirappalli Point,CT0045,ST016,RG03,Mini Store,24-02-2020
+SR0393,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,22-08-2013
+SR0394,NexaTel Thiruvananthapuram Point,CT0034,ST017,RG03,Franchise,13-02-2022
+SR0395,NexaTel Ranchi Store,CT0025,ST025,RG04,Franchise,19-10-2018
+SR0396,NexaTel Amritsar Store,CT0032,ST003,RG01,Franchise,24-05-2020
+SR0397,NexaTel Pune Hub,CT0007,ST010,RG02,Franchise,01-12-2013
+SR0398,NexaTel Tirupati Store,CT0042,ST018,RG03,Franchise,13-06-2018
+SR0399,NexaTel Thiruvananthapuram Point,CT0034,ST017,RG03,Mini Store,12-07-2016
+SR0400,NexaTel Chennai Centre,CT0004,ST016,RG03,Owned,08-02-2024
+SR0401,NexaTel Agra Express,CT0039,ST004,RG01,Owned,11-12-2024
+SR0402,NexaTel Visakhapatnam Express,CT0018,ST018,RG03,Experience Centre,29-05-2013
+SR0403,NexaTel Gangtok Hub,CT0068,ST028,RG04,Franchise,06-08-2022
+SR0404,NexaTel Vadodara Hub,CT0020,ST011,RG02,Franchise,26-02-2019
+SR0405,NexaTel Mysuru Hub,CT0027,ST015,RG03,Franchise,09-05-2010
+SR0406,NexaTel New Delhi Hub,CT0001,ST001,RG01,Owned,13-08-2023
+SR0407,NexaTel Jabalpur Point,CT0049,ST012,RG02,Mini Store,15-02-2013
+SR0408,NexaTel Varanasi Centre,CT0037,ST004,RG01,Franchise,04-06-2010
+SR0409,NexaTel Pune Store,CT0007,ST010,RG02,Experience Centre,14-10-2011
+SR0410,NexaTel Warangal Centre,CT0043,ST019,RG03,Mini Store,10-02-2010
+SR0411,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Franchise,07-08-2018
+SR0412,NexaTel Hyderabad Centre,CT0006,ST019,RG03,Franchise,03-10-2015
+SR0413,NexaTel Ranchi Point,CT0025,ST025,RG04,Owned,19-01-2023
+SR0414,NexaTel Thiruvananthapuram Point,CT0034,ST017,RG03,Mini Store,31-12-2018
+SR0415,NexaTel Mumbai Express,CT0002,ST010,RG02,Mini Store,15-04-2013
+SR0416,NexaTel Nagpur Point,CT0015,ST010,RG02,Mini Store,21-03-2011
+SR0417,NexaTel Amritsar Hub,CT0032,ST003,RG01,Franchise,08-12-2017
+SR0418,NexaTel Amritsar Express,CT0032,ST003,RG01,Franchise,22-09-2021
+SR0419,NexaTel Shimla Hub,CT0061,ST007,RG01,Owned,20-11-2017
+SR0420,NexaTel Guwahati Store,CT0024,ST026,RG04,Owned,18-12-2024
+SR0421,NexaTel Durgapur Hub,CT0053,ST022,RG04,Owned,20-07-2023
+SR0422,NexaTel Tiruchirappalli Store,CT0045,ST016,RG03,Franchise,16-10-2012
+SR0423,NexaTel Gangtok Centre,CT0068,ST028,RG04,Franchise,07-04-2010
+SR0424,NexaTel Varanasi Centre,CT0037,ST004,RG01,Franchise,26-06-2010
+SR0425,NexaTel Belagavi Express,CT0041,ST015,RG03,Experience Centre,31-12-2010
+SR0426,NexaTel Tirupati Point,CT0042,ST018,RG03,Experience Centre,17-12-2016
+SR0427,NexaTel New Delhi Point,CT0001,ST001,RG01,Experience Centre,27-04-2021
+SR0428,NexaTel Surat Point,CT0019,ST011,RG02,Experience Centre,10-11-2012
+SR0429,NexaTel Ranchi Store,CT0025,ST025,RG04,Franchise,17-03-2012
+SR0430,NexaTel Nashik Centre,CT0030,ST010,RG02,Franchise,12-02-2010
+SR0431,NexaTel Salem Point,CT0044,ST016,RG03,Experience Centre,15-12-2013
+SR0432,NexaTel Bilaspur Hub,CT0059,ST027,RG04,Experience Centre,13-06-2018
+SR0433,NexaTel Tirupati Express,CT0042,ST018,RG03,Mini Store,02-12-2013
+SR0434,NexaTel Bikaner Store,CT0051,ST005,RG01,Franchise,15-05-2020
+SR0435,NexaTel Surat Centre,CT0019,ST011,RG02,Mini Store,04-09-2010
+SR0436,NexaTel Jammu Store,CT0062,ST008,RG01,Owned,03-06-2010
+SR0437,NexaTel Varanasi Express,CT0037,ST004,RG01,Franchise,03-10-2015
+SR0438,NexaTel Aurangabad Store,CT0038,ST010,RG02,Franchise,29-12-2013
+SR0439,NexaTel Gaya Centre,CT0057,ST024,RG04,Franchise,01-09-2018
+SR0440,NexaTel Aizawl Store,CT0067,ST032,RG04,Mini Store,30-01-2025
+SR0441,NexaTel Gwalior Centre,CT0048,ST012,RG02,Owned,02-08-2018
+SR0442,NexaTel Coimbatore Hub,CT0016,ST016,RG03,Mini Store,06-11-2018
+SR0443,NexaTel Aurangabad Express,CT0038,ST010,RG02,Franchise,11-02-2024
+SR0444,NexaTel Raipur Centre,CT0026,ST027,RG04,Franchise,28-01-2016
+SR0445,NexaTel Chandigarh Centre,CT0023,ST009,RG01,Franchise,11-09-2024
+SR0446,NexaTel Bhubaneswar Express,CT0022,ST023,RG04,Owned,22-08-2012
+SR0447,NexaTel Indore Express,CT0013,ST012,RG02,Franchise,04-01-2015
+SR0448,NexaTel Tirupati Point,CT0042,ST018,RG03,Franchise,01-07-2019
+SR0449,NexaTel Agra Hub,CT0039,ST004,RG01,Franchise,23-06-2016
+SR0450,NexaTel Dehradun Store,CT0033,ST006,RG01,Franchise,08-02-2017
+SR0451,NexaTel Gwalior Store,CT0048,ST012,RG02,Owned,06-03-2023
+SR0452,NexaTel Jammu Hub,CT0062,ST008,RG01,Owned,10-05-2014
+SR0453,NexaTel Jabalpur Centre,CT0049,ST012,RG02,Franchise,07-01-2011
+SR0454,NexaTel Udaipur Store,CT0060,ST005,RG01,Franchise,03-04-2019
+SR0455,NexaTel Kota Hub,CT0050,ST005,RG01,Franchise,02-05-2021
+SR0456,NexaTel Ranchi Store,CT0025,ST025,RG04,Mini Store,04-01-2020
+SR0457,NexaTel Aizawl Centre,CT0067,ST032,RG04,Franchise,29-04-2016
+SR0458,NexaTel Udaipur Centre,CT0060,ST005,RG01,Mini Store,20-04-2023
+SR0459,NexaTel Bikaner Hub,CT0051,ST005,RG01,Owned,15-10-2018
+SR0460,NexaTel Kota Point,CT0050,ST005,RG01,Experience Centre,01-07-2021
+SR0461,NexaTel Bilaspur Store,CT0059,ST027,RG04,Franchise,11-02-2015
+SR0462,NexaTel Salem Hub,CT0044,ST016,RG03,Franchise,14-10-2023
+SR0463,NexaTel Mumbai Hub,CT0002,ST010,RG02,Mini Store,16-06-2014
+SR0464,NexaTel Ajmer Hub,CT0040,ST005,RG01,Mini Store,06-03-2011
+SR0465,NexaTel Ajmer Store,CT0040,ST005,RG01,Franchise,17-04-2024
+SR0466,NexaTel Hubballi Express,CT0047,ST015,RG03,Owned,17-07-2017
+SR0467,NexaTel Kota Express,CT0050,ST005,RG01,Franchise,12-05-2018
+SR0468,NexaTel Gangtok Point,CT0068,ST028,RG04,Franchise,09-11-2024
+SR0469,NexaTel Nashik Point,CT0030,ST010,RG02,Franchise,10-01-2015
+SR0470,NexaTel Bilaspur Store,CT0059,ST027,RG04,Owned,06-10-2019
+SR0471,NexaTel Nagpur Express,CT0015,ST010,RG02,Franchise,31-01-2022
+SR0472,NexaTel Gaya Point,CT0057,ST024,RG04,Owned,16-04-2010
+SR0473,NexaTel Tiruchirappalli Point,CT0045,ST016,RG03,Franchise,15-04-2025
+SR0474,NexaTel Mumbai Store,CT0002,ST010,RG02,Franchise,14-03-2024
+SR0475,NexaTel Bhopal Hub,CT0014,ST012,RG02,Owned,11-12-2021
+SR0476,NexaTel Salem Express,CT0044,ST016,RG03,Franchise,09-07-2011
+SR0477,NexaTel Lucknow Hub,CT0012,ST004,RG01,Franchise,15-11-2016
+SR0478,NexaTel Ludhiana Express,CT0031,ST003,RG01,Experience Centre,21-09-2013
+SR0479,NexaTel Bikaner Express,CT0051,ST005,RG01,Mini Store,17-01-2012
+SR0480,NexaTel Panaji Point,CT0063,ST013,RG02,Owned,22-05-2023
+SR0481,NexaTel Varanasi Hub,CT0037,ST004,RG01,Owned,18-01-2018
+SR0482,NexaTel Chandigarh Centre,CT0023,ST009,RG01,Franchise,12-05-2017
+SR0483,NexaTel Jodhpur Point,CT0035,ST005,RG01,Franchise,05-03-2023
+SR0484,NexaTel Chennai Hub,CT0004,ST016,RG03,Owned,14-05-2023
+SR0485,NexaTel Guwahati Centre,CT0024,ST026,RG04,Owned,08-11-2017
+SR0486,NexaTel Shillong Hub,CT0065,ST034,RG04,Franchise,15-02-2014
+SR0487,NexaTel Surat Point,CT0019,ST011,RG02,Owned,05-03-2022
+SR0488,NexaTel Agartala Point,CT0066,ST033,RG04,Franchise,13-04-2021
+SR0489,NexaTel Tirupati Hub,CT0042,ST018,RG03,Owned,30-05-2017
+SR0490,NexaTel Patna Point,CT0021,ST024,RG04,Mini Store,04-01-2018
+SR0491,NexaTel Gaya Hub,CT0057,ST024,RG04,Franchise,18-03-2024
+SR0492,NexaTel Belagavi Hub,CT0041,ST015,RG03,Franchise,24-06-2016
+SR0493,NexaTel Jaipur Point,CT0011,ST005,RG01,Franchise,23-01-2016
+SR0494,NexaTel Bhagalpur Store,CT0056,ST024,RG04,Mini Store,25-09-2020
+SR0495,NexaTel Gangtok Hub,CT0068,ST028,RG04,Franchise,07-10-2015
+SR0496,NexaTel Imphal Express,CT0064,ST031,RG04,Franchise,01-04-2010
+SR0497,NexaTel Lucknow Centre,CT0012,ST004,RG01,Owned,12-02-2014
+SR0498,NexaTel Shimla Express,CT0061,ST007,RG01,Franchise,28-07-2023
+SR0499,NexaTel Udaipur Point,CT0060,ST005,RG01,Franchise,06-09-2016
+SR0500,NexaTel Amritsar Store,CT0032,ST003,RG01,Owned,21-09-2014
+SR0501,NexaTel Kochi Store,CT0017,ST017,RG03,Franchise,09-06-2013
+SR0502,NexaTel Bhopal Hub,CT0014,ST012,RG02,Owned,24-10-2016
+SR0503,NexaTel Bhopal Point,CT0014,ST012,RG02,Franchise,17-05-2022
+SR0504,NexaTel Salem Express,CT0044,ST016,RG03,Franchise,26-01-2024
+SR0505,NexaTel Gurugram Centre,CT0009,ST002,RG01,Owned,13-03-2012
+SR0506,NexaTel Visakhapatnam Point,CT0018,ST018,RG03,Franchise,11-09-2019
+SR0507,NexaTel Aizawl Centre,CT0067,ST032,RG04,Owned,22-02-2011
+SR0508,NexaTel Rourkela Hub,CT0055,ST023,RG04,Franchise,08-06-2013
+SR0509,NexaTel Gaya Store,CT0057,ST024,RG04,Owned,11-03-2020
+SR0510,NexaTel Gurugram Centre,CT0009,ST002,RG01,Franchise,22-03-2013
+SR0511,NexaTel Tirupati Hub,CT0042,ST018,RG03,Owned,11-11-2023
+SR0512,NexaTel Ludhiana Hub,CT0031,ST003,RG01,Franchise,21-05-2011
+SR0513,NexaTel Mumbai Express,CT0002,ST010,RG02,Franchise,10-12-2019
+SR0514,NexaTel Visakhapatnam Centre,CT0018,ST018,RG03,Franchise,17-05-2012
+SR0515,NexaTel Thiruvananthapuram Express,CT0034,ST017,RG03,Franchise,20-09-2022
+SR0516,NexaTel Bhagalpur Express,CT0056,ST024,RG04,Mini Store,12-11-2016
+SR0517,NexaTel Bhagalpur Centre,CT0056,ST024,RG04,Franchise,21-03-2012
+SR0518,NexaTel Bikaner Hub,CT0051,ST005,RG01,Mini Store,05-02-2019
+SR0519,NexaTel Salem Centre,CT0044,ST016,RG03,Franchise,02-07-2018
+SR0520,NexaTel Udaipur Store,CT0060,ST005,RG01,Franchise,04-03-2011
+SR0521,NexaTel Nagpur Centre,CT0015,ST010,RG02,Owned,13-02-2018
+SR0522,NexaTel Bikaner Point,CT0051,ST005,RG01,Owned,22-10-2014
+SR0523,NexaTel Madurai Point,CT0028,ST016,RG03,Mini Store,23-12-2014
+SR0524,NexaTel Warangal Point,CT0043,ST019,RG03,Owned,04-02-2022
+SR0525,NexaTel Ajmer Hub,CT0040,ST005,RG01,Owned,05-01-2013
+SR0526,NexaTel Siliguri Hub,CT0052,ST022,RG04,Owned,24-09-2022
+SR0527,NexaTel Jammu Express,CT0062,ST008,RG01,Franchise,09-06-2010
+SR0528,NexaTel Imphal Point,CT0064,ST031,RG04,Owned,23-11-2022
+SR0529,NexaTel Bhagalpur Centre,CT0056,ST024,RG04,Franchise,19-05-2022
+SR0530,NexaTel Jaipur Express,CT0011,ST005,RG01,Owned,14-01-2024
+SR0531,NexaTel Gaya Hub,CT0057,ST024,RG04,Experience Centre,10-11-2016
+SR0532,NexaTel Visakhapatnam Express,CT0018,ST018,RG03,Franchise,19-12-2010
+SR0533,NexaTel Gwalior Express,CT0048,ST012,RG02,Franchise,06-08-2023
+SR0534,NexaTel Nashik Centre,CT0030,ST010,RG02,Franchise,01-09-2022
+SR0535,NexaTel Tiruchirappalli Point,CT0045,ST016,RG03,Franchise,31-07-2014
+SR0536,NexaTel Chennai Hub,CT0004,ST016,RG03,Owned,09-04-2025
+SR0537,NexaTel Tirupati Hub,CT0042,ST018,RG03,Franchise,22-09-2016
+SR0538,NexaTel Imphal Express,CT0064,ST031,RG04,Owned,23-05-2022
+SR0539,NexaTel Thiruvananthapuram Store,CT0034,ST017,RG03,Mini Store,29-12-2023
+SR0540,NexaTel Chennai Store,CT0004,ST016,RG03,Experience Centre,31-10-2022
+SR0541,NexaTel Cuttack Centre,CT0054,ST023,RG04,Owned,14-12-2010
+SR0542,NexaTel Raipur Point,CT0026,ST027,RG04,Franchise,29-08-2019
+SR0543,NexaTel Cuttack Hub,CT0054,ST023,RG04,Franchise,11-04-2012
+SR0544,NexaTel Tirupati Point,CT0042,ST018,RG03,Owned,19-03-2019
+SR0545,NexaTel Bilaspur Centre,CT0059,ST027,RG04,Owned,03-08-2023
+SR0546,NexaTel Aizawl Hub,CT0067,ST032,RG04,Franchise,02-09-2012
+SR0547,NexaTel Gaya Store,CT0057,ST024,RG04,Franchise,02-05-2013
+SR0548,NexaTel Ranchi Store,CT0025,ST025,RG04,Franchise,18-08-2023
+SR0549,NexaTel Varanasi Point,CT0037,ST004,RG01,Mini Store,01-12-2010
+SR0550,NexaTel Hyderabad Store,CT0006,ST019,RG03,Mini Store,04-10-2017
+SR0551,NexaTel Agartala Store,CT0066,ST033,RG04,Mini Store,18-06-2016
+SR0552,NexaTel Raipur Store,CT0026,ST027,RG04,Owned,21-07-2013
+SR0553,NexaTel Guwahati Centre,CT0024,ST026,RG04,Owned,01-12-2010
+SR0554,NexaTel Ajmer Express,CT0040,ST005,RG01,Mini Store,21-05-2023
+SR0555,NexaTel Nagpur Hub,CT0015,ST010,RG02,Owned,12-03-2025
+SR0556,NexaTel Surat Express,CT0019,ST011,RG02,Owned,02-01-2025
+SR0557,NexaTel Siliguri Hub,CT0052,ST022,RG04,Mini Store,13-01-2022
+SR0558,NexaTel Imphal Centre,CT0064,ST031,RG04,Mini Store,14-10-2020
+SR0559,NexaTel Madurai Express,CT0028,ST016,RG03,Mini Store,29-12-2012
+SR0560,NexaTel Bengaluru Hub,CT0003,ST015,RG03,Experience Centre,20-07-2015
+SR0561,NexaTel Tirupati Point,CT0042,ST018,RG03,Mini Store,23-09-2010
+SR0562,NexaTel Kochi Centre,CT0017,ST017,RG03,Owned,22-09-2018
+SR0563,NexaTel Warangal Point,CT0043,ST019,RG03,Owned,05-05-2017
+SR0564,NexaTel Tirupati Centre,CT0042,ST018,RG03,Owned,14-09-2018
+SR0565,NexaTel Tiruchirappalli Hub,CT0045,ST016,RG03,Owned,11-03-2020
+SR0566,NexaTel Jammu Express,CT0062,ST008,RG01,Franchise,12-11-2024
+SR0567,NexaTel Hyderabad Hub,CT0006,ST019,RG03,Mini Store,03-03-2013
+SR0568,NexaTel Amritsar Centre,CT0032,ST003,RG01,Owned,05-03-2016
+SR0569,NexaTel Amritsar Centre,CT0032,ST003,RG01,Experience Centre,30-04-2023
+SR0570,NexaTel Panaji Centre,CT0063,ST013,RG02,Franchise,02-11-2024
+SR0571,NexaTel Aurangabad Store,CT0038,ST010,RG02,Franchise,27-08-2021
+SR0572,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Franchise,28-10-2021
+SR0573,NexaTel Bhagalpur Hub,CT0056,ST024,RG04,Owned,27-04-2022
+SR0574,NexaTel Siliguri Store,CT0052,ST022,RG04,Franchise,16-10-2013
+SR0575,NexaTel Gaya Express,CT0057,ST024,RG04,Franchise,15-07-2013
+SR0576,NexaTel Hubballi Hub,CT0047,ST015,RG03,Franchise,25-01-2012
+SR0577,NexaTel Jammu Hub,CT0062,ST008,RG01,Mini Store,09-06-2017
+SR0578,NexaTel Imphal Point,CT0064,ST031,RG04,Franchise,28-02-2022
+SR0579,NexaTel Udaipur Store,CT0060,ST005,RG01,Franchise,22-03-2016
+SR0580,NexaTel Gaya Point,CT0057,ST024,RG04,Franchise,04-02-2010
+SR0581,NexaTel Kanpur Hub,CT0036,ST004,RG01,Owned,14-07-2011
+SR0582,NexaTel Chennai Point,CT0004,ST016,RG03,Mini Store,05-03-2021
+SR0583,NexaTel Imphal Express,CT0064,ST031,RG04,Franchise,14-12-2012
+SR0584,NexaTel Mumbai Express,CT0002,ST010,RG02,Franchise,12-01-2011
+SR0585,NexaTel Gangtok Hub,CT0068,ST028,RG04,Franchise,12-12-2019
+SR0586,NexaTel Thiruvananthapuram Point,CT0034,ST017,RG03,Franchise,21-06-2011
+SR0587,NexaTel Nagpur Point,CT0015,ST010,RG02,Franchise,21-06-2010
+SR0588,NexaTel Tiruchirappalli Point,CT0045,ST016,RG03,Owned,10-04-2025
+SR0589,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Mini Store,12-01-2012
+SR0590,NexaTel Tirupati Centre,CT0042,ST018,RG03,Mini Store,05-06-2018
+SR0591,NexaTel Jaipur Hub,CT0011,ST005,RG01,Franchise,01-05-2024
+SR0592,NexaTel Chandigarh Centre,CT0023,ST009,RG01,Owned,01-12-2014
+SR0593,NexaTel Salem Centre,CT0044,ST016,RG03,Mini Store,14-09-2014
+SR0594,NexaTel Bhagalpur Centre,CT0056,ST024,RG04,Mini Store,23-05-2016
+SR0595,NexaTel Raipur Store,CT0026,ST027,RG04,Franchise,31-10-2021
+SR0596,NexaTel Siliguri Express,CT0052,ST022,RG04,Mini Store,21-12-2024
+SR0597,NexaTel Chennai Hub,CT0004,ST016,RG03,Franchise,27-05-2010
+SR0598,NexaTel Hyderabad Hub,CT0006,ST019,RG03,Franchise,02-01-2013
+SR0599,NexaTel New Delhi Express,CT0001,ST001,RG01,Franchise,11-12-2024
+SR0600,NexaTel Visakhapatnam Express,CT0018,ST018,RG03,Experience Centre,12-10-2021
+SR0601,NexaTel Rourkela Hub,CT0055,ST023,RG04,Mini Store,19-11-2010
+SR0602,NexaTel Kochi Express,CT0017,ST017,RG03,Owned,16-02-2017
+SR0603,NexaTel Jaipur Centre,CT0011,ST005,RG01,Mini Store,08-02-2012
+SR0604,NexaTel Kolkata Centre,CT0005,ST022,RG04,Owned,15-11-2021
+SR0605,NexaTel Noida Hub,CT0010,ST004,RG01,Franchise,10-08-2020
+SR0606,NexaTel Durgapur Point,CT0053,ST022,RG04,Franchise,26-11-2018
+SR0607,NexaTel Surat Store,CT0019,ST011,RG02,Mini Store,20-10-2023
+SR0608,NexaTel Ajmer Hub,CT0040,ST005,RG01,Mini Store,27-02-2013
+SR0609,NexaTel Kota Store,CT0050,ST005,RG01,Franchise,04-11-2012
+SR0610,NexaTel Ludhiana Express,CT0031,ST003,RG01,Franchise,22-08-2015
+SR0611,NexaTel Ranchi Hub,CT0025,ST025,RG04,Franchise,10-02-2015
+SR0612,NexaTel Vadodara Express,CT0020,ST011,RG02,Owned,17-11-2015
+SR0613,NexaTel Ranchi Hub,CT0025,ST025,RG04,Owned,16-10-2017
+SR0614,NexaTel Visakhapatnam Point,CT0018,ST018,RG03,Mini Store,02-04-2024
+SR0615,NexaTel Ajmer Centre,CT0040,ST005,RG01,Mini Store,20-08-2017
+SR0616,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Mini Store,10-11-2019
+SR0617,NexaTel Bilaspur Hub,CT0059,ST027,RG04,Owned,25-11-2015
+SR0618,NexaTel Kanpur Centre,CT0036,ST004,RG01,Franchise,03-06-2021
+SR0619,NexaTel Agartala Express,CT0066,ST033,RG04,Mini Store,27-12-2011
+SR0620,NexaTel Warangal Store,CT0043,ST019,RG03,Franchise,02-08-2024
+SR0621,NexaTel Nagpur Centre,CT0015,ST010,RG02,Mini Store,11-04-2015
+SR0622,NexaTel Kanpur Store,CT0036,ST004,RG01,Franchise,05-10-2011
+SR0623,NexaTel Coimbatore Express,CT0016,ST016,RG03,Owned,26-08-2015
+SR0624,NexaTel Dehradun Hub,CT0033,ST006,RG01,Owned,10-10-2011
+SR0625,NexaTel Kollam Hub,CT0046,ST017,RG03,Mini Store,08-01-2013
+SR0626,NexaTel Jammu Hub,CT0062,ST008,RG01,Owned,16-02-2016
+SR0627,NexaTel Pune Express,CT0007,ST010,RG02,Mini Store,05-12-2016
+SR0628,NexaTel Shillong Store,CT0065,ST034,RG04,Franchise,11-11-2012
+SR0629,NexaTel Belagavi Centre,CT0041,ST015,RG03,Franchise,30-07-2011
+SR0630,NexaTel Warangal Centre,CT0043,ST019,RG03,Franchise,16-08-2020
+SR0631,NexaTel Raipur Point,CT0026,ST027,RG04,Owned,28-03-2021
+SR0632,NexaTel Vijayawada Point,CT0029,ST018,RG03,Owned,22-08-2023
+SR0633,NexaTel Vadodara Express,CT0020,ST011,RG02,Franchise,25-11-2018
+SR0634,NexaTel Warangal Store,CT0043,ST019,RG03,Franchise,17-10-2012
+SR0635,NexaTel Gurugram Centre,CT0009,ST002,RG01,Franchise,08-05-2018
+SR0636,NexaTel Jodhpur Store,CT0035,ST005,RG01,Franchise,06-10-2023
+SR0637,NexaTel Agra Express,CT0039,ST004,RG01,Franchise,16-01-2022
+SR0638,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,20-06-2023
+SR0639,NexaTel Chennai Store,CT0004,ST016,RG03,Owned,05-06-2015
+SR0640,NexaTel Nagpur Hub,CT0015,ST010,RG02,Franchise,14-09-2014
+SR0641,NexaTel Bhubaneswar Point,CT0022,ST023,RG04,Franchise,29-06-2022
+SR0642,NexaTel New Delhi Point,CT0001,ST001,RG01,Franchise,27-11-2016
+SR0643,NexaTel Surat Hub,CT0019,ST011,RG02,Franchise,18-02-2022
+SR0644,NexaTel Gurugram Point,CT0009,ST002,RG01,Mini Store,07-11-2023
+SR0645,NexaTel Bhagalpur Hub,CT0056,ST024,RG04,Owned,23-02-2012
+SR0646,NexaTel Ajmer Store,CT0040,ST005,RG01,Franchise,12-09-2020
+SR0647,NexaTel Vadodara Centre,CT0020,ST011,RG02,Mini Store,05-03-2013
+SR0648,NexaTel Ludhiana Centre,CT0031,ST003,RG01,Mini Store,23-11-2014
+SR0649,NexaTel Rourkela Centre,CT0055,ST023,RG04,Franchise,10-08-2018
+SR0650,NexaTel Kollam Store,CT0046,ST017,RG03,Owned,03-11-2019
+SR0651,NexaTel Aizawl Express,CT0067,ST032,RG04,Mini Store,01-12-2020
+SR0652,NexaTel Gwalior Store,CT0048,ST012,RG02,Owned,27-06-2021
+SR0653,NexaTel Chennai Store,CT0004,ST016,RG03,Experience Centre,17-08-2019
+SR0654,NexaTel Vadodara Hub,CT0020,ST011,RG02,Franchise,10-06-2022
+SR0655,NexaTel Durgapur Centre,CT0053,ST022,RG04,Franchise,15-05-2013
+SR0656,NexaTel Gwalior Centre,CT0048,ST012,RG02,Franchise,26-05-2013
+SR0657,NexaTel Noida Centre,CT0010,ST004,RG01,Franchise,20-03-2020
+SR0658,NexaTel Aurangabad Centre,CT0038,ST010,RG02,Owned,18-07-2014
+SR0659,NexaTel New Delhi Centre,CT0001,ST001,RG01,Mini Store,28-04-2019
+SR0660,NexaTel Agra Hub,CT0039,ST004,RG01,Mini Store,05-04-2020
+SR0661,NexaTel Mysuru Hub,CT0027,ST015,RG03,Owned,20-09-2013
+SR0662,NexaTel Belagavi Express,CT0041,ST015,RG03,Mini Store,25-04-2021
+SR0663,NexaTel Dehradun Point,CT0033,ST006,RG01,Franchise,05-10-2013
+SR0664,NexaTel Gangtok Centre,CT0068,ST028,RG04,Mini Store,01-11-2013
+SR0665,NexaTel Bhopal Express,CT0014,ST012,RG02,Experience Centre,28-02-2017
+SR0666,NexaTel Jammu Point,CT0062,ST008,RG01,Owned,12-08-2012
+SR0667,NexaTel Raipur Centre,CT0026,ST027,RG04,Franchise,27-05-2010
+SR0668,NexaTel Agra Hub,CT0039,ST004,RG01,Owned,08-02-2010
+SR0669,NexaTel Nagpur Express,CT0015,ST010,RG02,Franchise,03-04-2013
+SR0670,NexaTel Siliguri Hub,CT0052,ST022,RG04,Owned,01-02-2014
+SR0671,NexaTel Vadodara Point,CT0020,ST011,RG02,Franchise,07-12-2022
+SR0672,NexaTel Jaipur Hub,CT0011,ST005,RG01,Owned,02-08-2022
+SR0673,NexaTel Surat Point,CT0019,ST011,RG02,Owned,16-06-2023
+SR0674,NexaTel Cuttack Point,CT0054,ST023,RG04,Experience Centre,13-12-2014
+SR0675,NexaTel Mumbai Store,CT0002,ST010,RG02,Owned,16-09-2016
+SR0676,NexaTel Kollam Centre,CT0046,ST017,RG03,Franchise,04-12-2016
+SR0677,NexaTel Bikaner Centre,CT0051,ST005,RG01,Mini Store,29-12-2014
+SR0678,NexaTel Madurai Point,CT0028,ST016,RG03,Owned,29-01-2016
+SR0679,NexaTel Ahmedabad Centre,CT0008,ST011,RG02,Franchise,27-08-2021
+SR0680,NexaTel Tirupati Point,CT0042,ST018,RG03,Franchise,16-09-2021
+SR0681,NexaTel New Delhi Hub,CT0001,ST001,RG01,Mini Store,14-09-2020
+SR0682,NexaTel Agartala Hub,CT0066,ST033,RG04,Owned,24-02-2022
+SR0683,NexaTel Cuttack Hub,CT0054,ST023,RG04,Franchise,21-08-2010
+SR0684,NexaTel Noida Store,CT0010,ST004,RG01,Owned,28-02-2014
+SR0685,NexaTel Bhopal Express,CT0014,ST012,RG02,Franchise,25-01-2012
+SR0686,NexaTel Nashik Store,CT0030,ST010,RG02,Franchise,26-11-2020
+SR0687,NexaTel Jabalpur Centre,CT0049,ST012,RG02,Franchise,18-06-2020
+SR0688,NexaTel Mumbai Store,CT0002,ST010,RG02,Franchise,31-08-2012
+SR0689,NexaTel Warangal Centre,CT0043,ST019,RG03,Owned,29-11-2021
+SR0690,NexaTel Bikaner Point,CT0051,ST005,RG01,Franchise,12-03-2025
+SR0691,NexaTel Bikaner Point,CT0051,ST005,RG01,Owned,20-10-2012
+SR0692,NexaTel Bilaspur Centre,CT0059,ST027,RG04,Franchise,27-02-2019
+SR0693,NexaTel Surat Centre,CT0019,ST011,RG02,Owned,18-08-2013
+SR0694,NexaTel Vijayawada Hub,CT0029,ST018,RG03,Experience Centre,16-11-2013
+SR0695,NexaTel Jodhpur Point,CT0035,ST005,RG01,Owned,09-03-2020
+SR0696,NexaTel Agartala Store,CT0066,ST033,RG04,Mini Store,19-07-2015
+SR0697,NexaTel Coimbatore Store,CT0016,ST016,RG03,Franchise,15-05-2016
+SR0698,NexaTel Kollam Centre,CT0046,ST017,RG03,Franchise,28-02-2013
+SR0699,NexaTel Gwalior Hub,CT0048,ST012,RG02,Franchise,10-11-2012
+SR0700,NexaTel Visakhapatnam Point,CT0018,ST018,RG03,Franchise,23-04-2019
+SR0701,NexaTel Durgapur Express,CT0053,ST022,RG04,Franchise,20-04-2022
+SR0702,NexaTel Gurugram Hub,CT0009,ST002,RG01,Owned,02-10-2011
+SR0703,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Franchise,22-07-2024
+SR0704,NexaTel Agra Express,CT0039,ST004,RG01,Owned,01-05-2020
+SR0705,NexaTel Gangtok Centre,CT0068,ST028,RG04,Experience Centre,12-12-2012
+SR0706,NexaTel Nashik Point,CT0030,ST010,RG02,Franchise,26-04-2024
+SR0707,NexaTel New Delhi Hub,CT0001,ST001,RG01,Owned,17-11-2015
+SR0708,NexaTel Chennai Express,CT0004,ST016,RG03,Franchise,18-08-2016
+SR0709,NexaTel Mysuru Hub,CT0027,ST015,RG03,Franchise,10-07-2012
+SR0710,NexaTel Panaji Point,CT0063,ST013,RG02,Franchise,03-02-2025
+SR0711,NexaTel Ludhiana Store,CT0031,ST003,RG01,Owned,08-08-2017
+SR0712,NexaTel Bengaluru Point,CT0003,ST015,RG03,Franchise,21-01-2018
+SR0713,NexaTel Cuttack Point,CT0054,ST023,RG04,Franchise,28-05-2016
+SR0714,NexaTel Noida Store,CT0010,ST004,RG01,Franchise,29-10-2023
+SR0715,NexaTel Kanpur Point,CT0036,ST004,RG01,Franchise,07-04-2020
+SR0716,NexaTel Bhagalpur Centre,CT0056,ST024,RG04,Mini Store,16-11-2014
+SR0717,NexaTel Ranchi Centre,CT0025,ST025,RG04,Franchise,17-09-2014
+SR0718,NexaTel New Delhi Point,CT0001,ST001,RG01,Franchise,21-11-2020
+SR0719,NexaTel Gangtok Centre,CT0068,ST028,RG04,Franchise,03-02-2014
+SR0720,NexaTel Gwalior Express,CT0048,ST012,RG02,Owned,28-02-2011
+SR0721,NexaTel Chandigarh Centre,CT0023,ST009,RG01,Franchise,09-03-2012
+SR0722,NexaTel Kollam Store,CT0046,ST017,RG03,Mini Store,28-02-2024
+SR0723,NexaTel Madurai Point,CT0028,ST016,RG03,Mini Store,15-03-2013
+SR0724,NexaTel Shimla Store,CT0061,ST007,RG01,Mini Store,21-01-2022
+SR0725,NexaTel Aizawl Express,CT0067,ST032,RG04,Mini Store,07-12-2011
+SR0726,NexaTel Guwahati Store,CT0024,ST026,RG04,Owned,09-04-2015
+SR0727,NexaTel Pune Store,CT0007,ST010,RG02,Owned,20-07-2020
+SR0728,NexaTel Jodhpur Express,CT0035,ST005,RG01,Franchise,15-11-2018
+SR0729,NexaTel Salem Express,CT0044,ST016,RG03,Franchise,31-01-2013
+SR0730,NexaTel Aizawl Store,CT0067,ST032,RG04,Experience Centre,09-10-2024
+SR0731,NexaTel Patna Express,CT0021,ST024,RG04,Mini Store,09-06-2016
+SR0732,NexaTel Guwahati Hub,CT0024,ST026,RG04,Franchise,03-01-2013
+SR0733,NexaTel Jabalpur Store,CT0049,ST012,RG02,Franchise,30-08-2013
+SR0734,NexaTel Shillong Express,CT0065,ST034,RG04,Franchise,19-06-2012
+SR0735,NexaTel Raipur Centre,CT0026,ST027,RG04,Mini Store,24-08-2023
+SR0736,NexaTel Bikaner Store,CT0051,ST005,RG01,Franchise,17-07-2022
+SR0737,NexaTel Varanasi Centre,CT0037,ST004,RG01,Owned,12-07-2019
+SR0738,NexaTel Kota Express,CT0050,ST005,RG01,Owned,07-07-2013
+SR0739,NexaTel Lucknow Hub,CT0012,ST004,RG01,Franchise,29-03-2010
+SR0740,NexaTel Chennai Store,CT0004,ST016,RG03,Owned,03-08-2015
+SR0741,NexaTel Jodhpur Store,CT0035,ST005,RG01,Owned,08-08-2019
+SR0742,NexaTel Kolkata Express,CT0005,ST022,RG04,Franchise,24-12-2017
+SR0743,NexaTel Madurai Point,CT0028,ST016,RG03,Franchise,13-05-2011
+SR0744,NexaTel Kolkata Store,CT0005,ST022,RG04,Franchise,25-08-2013
+SR0745,NexaTel Mumbai Centre,CT0002,ST010,RG02,Franchise,24-10-2022
+SR0746,NexaTel Bhopal Point,CT0014,ST012,RG02,Franchise,03-06-2017
+SR0747,NexaTel Chennai Store,CT0004,ST016,RG03,Owned,10-10-2010
+SR0748,NexaTel Agartala Hub,CT0066,ST033,RG04,Franchise,24-05-2021
+SR0749,NexaTel Vijayawada Store,CT0029,ST018,RG03,Franchise,16-09-2023
+SR0750,NexaTel Belagavi Store,CT0041,ST015,RG03,Owned,25-10-2012
+SR0751,NexaTel Durgapur Store,CT0053,ST022,RG04,Mini Store,04-01-2025
+SR0752,NexaTel Visakhapatnam Point,CT0018,ST018,RG03,Mini Store,18-03-2019
+SR0753,NexaTel Panaji Centre,CT0063,ST013,RG02,Franchise,24-09-2023
+SR0754,NexaTel Shimla Point,CT0061,ST007,RG01,Mini Store,29-06-2020
+SR0755,NexaTel Jodhpur Store,CT0035,ST005,RG01,Franchise,22-12-2018
+SR0756,NexaTel Vadodara Express,CT0020,ST011,RG02,Owned,28-10-2016
+SR0757,NexaTel Guwahati Store,CT0024,ST026,RG04,Franchise,10-07-2010
+SR0758,NexaTel Aizawl Store,CT0067,ST032,RG04,Franchise,21-08-2019
+SR0759,NexaTel Guwahati Store,CT0024,ST026,RG04,Experience Centre,07-07-2023
+SR0760,NexaTel Gurugram Point,CT0009,ST002,RG01,Experience Centre,16-11-2016
+SR0761,NexaTel Jaipur Express,CT0011,ST005,RG01,Franchise,12-03-2020
+SR0762,NexaTel Visakhapatnam Centre,CT0018,ST018,RG03,Owned,23-02-2022
+SR0763,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,30-11-2020
+SR0764,NexaTel Visakhapatnam Centre,CT0018,ST018,RG03,Owned,27-01-2013
+SR0765,NexaTel Jaipur Point,CT0011,ST005,RG01,Mini Store,22-09-2018
+SR0766,NexaTel Gaya Express,CT0057,ST024,RG04,Franchise,22-05-2014
+SR0767,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Mini Store,26-05-2014
+SR0768,NexaTel Kota Store,CT0050,ST005,RG01,Franchise,30-01-2015
+SR0769,NexaTel Madurai Point,CT0028,ST016,RG03,Experience Centre,18-11-2014
+SR0770,NexaTel Coimbatore Hub,CT0016,ST016,RG03,Franchise,05-02-2014
+SR0771,NexaTel Ahmedabad Centre,CT0008,ST011,RG02,Owned,25-07-2018
+SR0772,NexaTel Jamshedpur Point,CT0058,ST025,RG04,Mini Store,09-11-2023
+SR0773,NexaTel Bhopal Point,CT0014,ST012,RG02,Franchise,17-11-2020
+SR0774,NexaTel Panaji Point,CT0063,ST013,RG02,Experience Centre,17-01-2018
+SR0775,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Owned,08-03-2014
+SR0776,NexaTel Noida Point,CT0010,ST004,RG01,Owned,06-06-2015
+SR0777,NexaTel Vadodara Express,CT0020,ST011,RG02,Mini Store,23-03-2019
+SR0778,NexaTel Ajmer Express,CT0040,ST005,RG01,Franchise,08-09-2016
+SR0779,NexaTel Chandigarh Point,CT0023,ST009,RG01,Owned,06-02-2020
+SR0780,NexaTel Belagavi Point,CT0041,ST015,RG03,Franchise,06-02-2018
+SR0781,NexaTel Gangtok Hub,CT0068,ST028,RG04,Franchise,08-09-2010
+SR0782,NexaTel Kota Store,CT0050,ST005,RG01,Owned,25-08-2012
+SR0783,NexaTel Thiruvananthapuram Centre,CT0034,ST017,RG03,Experience Centre,19-08-2023
+SR0784,NexaTel Imphal Point,CT0064,ST031,RG04,Owned,21-06-2018
+SR0785,NexaTel Chennai Store,CT0004,ST016,RG03,Owned,20-02-2013
+SR0786,NexaTel Panaji Hub,CT0063,ST013,RG02,Franchise,29-02-2024
+SR0787,NexaTel Bhubaneswar Hub,CT0022,ST023,RG04,Mini Store,29-10-2015
+SR0788,NexaTel Bilaspur Express,CT0059,ST027,RG04,Owned,16-08-2011
+SR0789,NexaTel Udaipur Express,CT0060,ST005,RG01,Franchise,03-03-2011
+SR0790,NexaTel Tiruchirappalli Point,CT0045,ST016,RG03,Mini Store,28-06-2024
+SR0791,NexaTel Noida Express,CT0010,ST004,RG01,Franchise,19-07-2017
+SR0792,NexaTel Hubballi Express,CT0047,ST015,RG03,Mini Store,22-12-2021
+SR0793,NexaTel Hyderabad Hub,CT0006,ST019,RG03,Franchise,07-04-2021
+SR0794,NexaTel Bengaluru Hub,CT0003,ST015,RG03,Owned,26-12-2018
+SR0795,NexaTel Noida Express,CT0010,ST004,RG01,Franchise,21-04-2019
+SR0796,NexaTel Kolkata Point,CT0005,ST022,RG04,Franchise,19-12-2016
+SR0797,NexaTel Agra Hub,CT0039,ST004,RG01,Franchise,17-05-2010
+SR0798,NexaTel Ahmedabad Express,CT0008,ST011,RG02,Mini Store,27-12-2011
+SR0799,NexaTel Siliguri Hub,CT0052,ST022,RG04,Mini Store,25-06-2022
+SR0800,NexaTel Durgapur Store,CT0053,ST022,RG04,Franchise,10-01-2013
+SR0801,NexaTel Kollam Express,CT0046,ST017,RG03,Franchise,09-12-2015
+SR0802,NexaTel Belagavi Hub,CT0041,ST015,RG03,Owned,15-10-2016
+SR0803,NexaTel New Delhi Store,CT0001,ST001,RG01,Franchise,15-08-2011
+SR0804,NexaTel Madurai Hub,CT0028,ST016,RG03,Franchise,08-07-2021
+SR0805,NexaTel Kollam Point,CT0046,ST017,RG03,Owned,23-08-2013
+SR0806,NexaTel Jabalpur Store,CT0049,ST012,RG02,Mini Store,03-09-2018
+SR0807,NexaTel Belagavi Point,CT0041,ST015,RG03,Franchise,10-12-2015
+SR0808,NexaTel Dehradun Store,CT0033,ST006,RG01,Mini Store,02-05-2024
+SR0809,NexaTel Lucknow Store,CT0012,ST004,RG01,Owned,02-04-2016
+SR0810,NexaTel Bikaner Centre,CT0051,ST005,RG01,Franchise,26-02-2011
+SR0811,NexaTel Aizawl Centre,CT0067,ST032,RG04,Owned,30-07-2014
+SR0812,NexaTel Agartala Express,CT0066,ST033,RG04,Mini Store,29-01-2018
+SR0813,NexaTel Shillong Centre,CT0065,ST034,RG04,Mini Store,28-09-2020
+SR0814,NexaTel Jammu Centre,CT0062,ST008,RG01,Franchise,22-04-2012
+SR0815,NexaTel Bhubaneswar Store,CT0022,ST023,RG04,Mini Store,24-11-2012
+SR0816,NexaTel Kollam Hub,CT0046,ST017,RG03,Owned,13-07-2010
+SR0817,NexaTel Gurugram Centre,CT0009,ST002,RG01,Owned,15-10-2015
+SR0818,NexaTel Gaya Hub,CT0057,ST024,RG04,Owned,14-12-2023
+SR0819,NexaTel Pune Express,CT0007,ST010,RG02,Mini Store,25-08-2016
+SR0820,NexaTel Mumbai Store,CT0002,ST010,RG02,Franchise,16-08-2010
+SR0821,NexaTel Visakhapatnam Centre,CT0018,ST018,RG03,Mini Store,16-11-2018
+SR0822,NexaTel Kota Hub,CT0050,ST005,RG01,Experience Centre,24-03-2017
+SR0823,NexaTel Guwahati Hub,CT0024,ST026,RG04,Franchise,18-05-2016
+SR0824,NexaTel Noida Point,CT0010,ST004,RG01,Owned,02-06-2016
+SR0825,NexaTel Gwalior Centre,CT0048,ST012,RG02,Franchise,16-01-2015
+SR0826,NexaTel Kota Store,CT0050,ST005,RG01,Franchise,19-05-2015
+SR0827,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Experience Centre,07-09-2021
+SR0828,NexaTel Kollam Hub,CT0046,ST017,RG03,Mini Store,26-11-2019
+SR0829,NexaTel Lucknow Point,CT0012,ST004,RG01,Owned,06-08-2018
+SR0830,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Franchise,16-01-2023
+SR0831,NexaTel Vijayawada Centre,CT0029,ST018,RG03,Mini Store,21-09-2014
+SR0832,NexaTel Ludhiana Store,CT0031,ST003,RG01,Franchise,13-05-2011
+SR0833,NexaTel Amritsar Store,CT0032,ST003,RG01,Franchise,16-07-2012
+SR0834,NexaTel Bhopal Hub,CT0014,ST012,RG02,Owned,22-02-2021
+SR0835,NexaTel Bhopal Centre,CT0014,ST012,RG02,Franchise,29-07-2024
+SR0836,NexaTel Durgapur Store,CT0053,ST022,RG04,Franchise,10-11-2013
+SR0837,NexaTel Tirupati Hub,CT0042,ST018,RG03,Owned,01-09-2019
+SR0838,NexaTel Kochi Point,CT0017,ST017,RG03,Franchise,29-05-2022
+SR0839,NexaTel Mysuru Express,CT0027,ST015,RG03,Experience Centre,10-07-2021
+SR0840,NexaTel Pune Store,CT0007,ST010,RG02,Franchise,05-11-2013
+SR0841,NexaTel Kolkata Centre,CT0005,ST022,RG04,Mini Store,26-07-2023
+SR0842,NexaTel Bhubaneswar Store,CT0022,ST023,RG04,Experience Centre,19-05-2019
+SR0843,NexaTel Kollam Store,CT0046,ST017,RG03,Owned,23-03-2019
+SR0844,NexaTel Kanpur Centre,CT0036,ST004,RG01,Mini Store,29-09-2015
+SR0845,NexaTel Madurai Centre,CT0028,ST016,RG03,Owned,10-12-2013
+SR0846,NexaTel Vadodara Centre,CT0020,ST011,RG02,Mini Store,28-06-2017
+SR0847,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,06-08-2014
+SR0848,NexaTel Ajmer Hub,CT0040,ST005,RG01,Owned,19-01-2022
+SR0849,NexaTel Jabalpur Store,CT0049,ST012,RG02,Mini Store,30-07-2021
+SR0850,NexaTel Nashik Point,CT0030,ST010,RG02,Owned,15-03-2023
+SR0851,NexaTel Salem Point,CT0044,ST016,RG03,Mini Store,08-11-2020
+SR0852,NexaTel Gangtok Point,CT0068,ST028,RG04,Franchise,05-03-2010
+SR0853,NexaTel Mysuru Point,CT0027,ST015,RG03,Owned,03-04-2016
+SR0854,NexaTel Ahmedabad Point,CT0008,ST011,RG02,Franchise,05-01-2023
+SR0855,NexaTel Ahmedabad Hub,CT0008,ST011,RG02,Franchise,07-01-2020
+SR0856,NexaTel Ranchi Store,CT0025,ST025,RG04,Franchise,25-05-2021
+SR0857,NexaTel Aizawl Hub,CT0067,ST032,RG04,Mini Store,19-05-2022
+SR0858,NexaTel Siliguri Store,CT0052,ST022,RG04,Franchise,03-09-2010
+SR0859,NexaTel Jammu Store,CT0062,ST008,RG01,Owned,11-12-2022
+SR0860,NexaTel Kochi Point,CT0017,ST017,RG03,Franchise,07-09-2021
+SR0861,NexaTel Aurangabad Point,CT0038,ST010,RG02,Owned,15-04-2024
+SR0862,NexaTel Rourkela Express,CT0055,ST023,RG04,Owned,08-06-2012
+SR0863,NexaTel Warangal Hub,CT0043,ST019,RG03,Owned,21-10-2012
+SR0864,NexaTel Kanpur Centre,CT0036,ST004,RG01,Franchise,16-02-2015
+SR0865,NexaTel Kolkata Point,CT0005,ST022,RG04,Franchise,06-02-2016
+SR0866,NexaTel Hubballi Point,CT0047,ST015,RG03,Owned,17-06-2017
+SR0867,NexaTel Tirupati Store,CT0042,ST018,RG03,Franchise,24-06-2012
+SR0868,NexaTel Udaipur Centre,CT0060,ST005,RG01,Franchise,23-05-2024
+SR0869,NexaTel Raipur Centre,CT0026,ST027,RG04,Franchise,21-06-2010
+SR0870,NexaTel Coimbatore Store,CT0016,ST016,RG03,Franchise,28-08-2024
+SR0871,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Franchise,02-05-2018
+SR0872,NexaTel Belagavi Hub,CT0041,ST015,RG03,Franchise,03-08-2010
+SR0873,NexaTel Mysuru Centre,CT0027,ST015,RG03,Owned,01-07-2015
+SR0874,NexaTel New Delhi Point,CT0001,ST001,RG01,Franchise,01-12-2013
+SR0875,NexaTel Raipur Point,CT0026,ST027,RG04,Owned,02-03-2016
+SR0876,NexaTel Salem Express,CT0044,ST016,RG03,Owned,11-12-2020
+SR0877,NexaTel Vijayawada Express,CT0029,ST018,RG03,Franchise,20-12-2021
+SR0878,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Owned,18-09-2013
+SR0879,NexaTel Ahmedabad Store,CT0008,ST011,RG02,Owned,06-09-2023
+SR0880,NexaTel Mumbai Hub,CT0002,ST010,RG02,Franchise,03-05-2013
+SR0881,NexaTel Bengaluru Express,CT0003,ST015,RG03,Owned,28-09-2013
+SR0882,NexaTel Salem Hub,CT0044,ST016,RG03,Mini Store,17-04-2025
+SR0883,NexaTel Gwalior Store,CT0048,ST012,RG02,Experience Centre,31-08-2019
+SR0884,NexaTel Patna Hub,CT0021,ST024,RG04,Mini Store,09-11-2015
+SR0885,NexaTel Surat Express,CT0019,ST011,RG02,Franchise,26-11-2021
+SR0886,NexaTel Jamshedpur Point,CT0058,ST025,RG04,Franchise,18-08-2010
+SR0887,NexaTel Jaipur Point,CT0011,ST005,RG01,Franchise,19-06-2014
+SR0888,NexaTel Lucknow Centre,CT0012,ST004,RG01,Franchise,05-07-2019
+SR0889,NexaTel Guwahati Centre,CT0024,ST026,RG04,Experience Centre,05-08-2019
+SR0890,NexaTel Thiruvananthapuram Centre,CT0034,ST017,RG03,Franchise,14-10-2023
+SR0891,NexaTel Ajmer Centre,CT0040,ST005,RG01,Owned,29-07-2023
+SR0892,NexaTel Mumbai Centre,CT0002,ST010,RG02,Mini Store,03-11-2018
+SR0893,NexaTel Lucknow Hub,CT0012,ST004,RG01,Mini Store,27-06-2011
+SR0894,NexaTel Jaipur Store,CT0011,ST005,RG01,Owned,04-08-2014
+SR0895,NexaTel Nagpur Express,CT0015,ST010,RG02,Mini Store,07-05-2018
+SR0896,NexaTel Tirupati Point,CT0042,ST018,RG03,Franchise,04-11-2019
+SR0897,NexaTel Guwahati Express,CT0024,ST026,RG04,Franchise,12-11-2023
+SR0898,NexaTel Mysuru Store,CT0027,ST015,RG03,Franchise,18-12-2013
+SR0899,NexaTel Bhopal Store,CT0014,ST012,RG02,Franchise,17-10-2014
+SR0900,NexaTel Cuttack Express,CT0054,ST023,RG04,Franchise,13-05-2012
+SR0901,NexaTel Hubballi Point,CT0047,ST015,RG03,Owned,07-02-2016
+SR0902,NexaTel Durgapur Express,CT0053,ST022,RG04,Mini Store,13-06-2015
+SR0903,NexaTel Cuttack Point,CT0054,ST023,RG04,Mini Store,17-09-2020
+SR0904,NexaTel Kolkata Hub,CT0005,ST022,RG04,Franchise,19-06-2025
+SR0905,NexaTel Bilaspur Point,CT0059,ST027,RG04,Mini Store,07-12-2013
+SR0906,NexaTel Warangal Express,CT0043,ST019,RG03,Owned,24-02-2018
+SR0907,NexaTel Varanasi Hub,CT0037,ST004,RG01,Franchise,26-08-2022
+SR0908,NexaTel Ahmedabad Store,CT0008,ST011,RG02,Franchise,28-12-2011
+SR0909,NexaTel Panaji Store,CT0063,ST013,RG02,Owned,25-11-2010
+SR0910,NexaTel Kanpur Express,CT0036,ST004,RG01,Franchise,05-10-2016
+SR0911,NexaTel Shillong Store,CT0065,ST034,RG04,Franchise,04-05-2011
+SR0912,NexaTel Aurangabad Store,CT0038,ST010,RG02,Experience Centre,15-07-2021
+SR0913,NexaTel Shimla Hub,CT0061,ST007,RG01,Franchise,21-04-2017
+SR0914,NexaTel Indore Point,CT0013,ST012,RG02,Franchise,12-10-2020
+SR0915,NexaTel Warangal Express,CT0043,ST019,RG03,Mini Store,15-05-2019
+SR0916,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,19-09-2014
+SR0917,NexaTel Jabalpur Express,CT0049,ST012,RG02,Franchise,21-01-2010
+SR0918,NexaTel Panaji Store,CT0063,ST013,RG02,Mini Store,15-07-2020
+SR0919,NexaTel New Delhi Express,CT0001,ST001,RG01,Franchise,18-07-2014
+SR0920,NexaTel Gwalior Store,CT0048,ST012,RG02,Owned,13-04-2024
+SR0921,NexaTel Madurai Hub,CT0028,ST016,RG03,Mini Store,03-09-2011
+SR0922,NexaTel Udaipur Centre,CT0060,ST005,RG01,Owned,01-03-2017
+SR0923,NexaTel Tirupati Hub,CT0042,ST018,RG03,Experience Centre,11-04-2022
+SR0924,NexaTel Chennai Store,CT0004,ST016,RG03,Mini Store,12-04-2012
+SR0925,NexaTel Rourkela Centre,CT0055,ST023,RG04,Franchise,16-04-2018
+SR0926,NexaTel Thiruvananthapuram Store,CT0034,ST017,RG03,Owned,23-08-2020
+SR0927,NexaTel Ahmedabad Express,CT0008,ST011,RG02,Franchise,02-04-2015
+SR0928,NexaTel Guwahati Store,CT0024,ST026,RG04,Owned,16-01-2019
+SR0929,NexaTel Bhagalpur Store,CT0056,ST024,RG04,Owned,29-09-2024
+SR0930,NexaTel Patna Point,CT0021,ST024,RG04,Mini Store,30-01-2024
+SR0931,NexaTel Coimbatore Express,CT0016,ST016,RG03,Franchise,02-11-2023
+SR0932,NexaTel Aurangabad Point,CT0038,ST010,RG02,Mini Store,22-01-2015
+SR0933,NexaTel Pune Point,CT0007,ST010,RG02,Franchise,08-04-2014
+SR0934,NexaTel Indore Point,CT0013,ST012,RG02,Franchise,16-02-2011
+SR0935,NexaTel Warangal Express,CT0043,ST019,RG03,Mini Store,04-02-2011
+SR0936,NexaTel Shimla Centre,CT0061,ST007,RG01,Owned,09-03-2022
+SR0937,NexaTel Noida Hub,CT0010,ST004,RG01,Franchise,17-04-2020
+SR0938,NexaTel Shillong Hub,CT0065,ST034,RG04,Franchise,23-02-2014
+SR0939,NexaTel Durgapur Store,CT0053,ST022,RG04,Mini Store,17-02-2016
+SR0940,NexaTel Gwalior Hub,CT0048,ST012,RG02,Mini Store,05-01-2015
+SR0941,NexaTel Agra Hub,CT0039,ST004,RG01,Owned,04-01-2021
+SR0942,NexaTel Ranchi Point,CT0025,ST025,RG04,Franchise,16-12-2021
+SR0943,NexaTel Bhagalpur Express,CT0056,ST024,RG04,Mini Store,01-01-2011
+SR0944,NexaTel Bengaluru Express,CT0003,ST015,RG03,Owned,07-03-2017
+SR0945,NexaTel Nashik Centre,CT0030,ST010,RG02,Mini Store,06-09-2018
+SR0946,NexaTel Shillong Store,CT0065,ST034,RG04,Franchise,18-07-2012
+SR0947,NexaTel Kollam Centre,CT0046,ST017,RG03,Mini Store,28-03-2016
+SR0948,NexaTel Kochi Point,CT0017,ST017,RG03,Owned,05-05-2021
+SR0949,NexaTel Patna Hub,CT0021,ST024,RG04,Experience Centre,23-05-2016
+SR0950,NexaTel Gwalior Store,CT0048,ST012,RG02,Owned,15-07-2024
+SR0951,NexaTel Kanpur Store,CT0036,ST004,RG01,Mini Store,26-03-2010
+SR0952,NexaTel Vadodara Hub,CT0020,ST011,RG02,Owned,31-08-2019
+SR0953,NexaTel Kolkata Hub,CT0005,ST022,RG04,Mini Store,29-04-2022
+SR0954,NexaTel Agra Store,CT0039,ST004,RG01,Franchise,08-03-2022
+SR0955,NexaTel Bhubaneswar Point,CT0022,ST023,RG04,Franchise,25-04-2014
+SR0956,NexaTel Bhagalpur Store,CT0056,ST024,RG04,Franchise,15-07-2011
+SR0957,NexaTel Shimla Express,CT0061,ST007,RG01,Franchise,19-10-2020
+SR0958,NexaTel New Delhi Hub,CT0001,ST001,RG01,Owned,05-02-2021
+SR0959,NexaTel Bhubaneswar Hub,CT0022,ST023,RG04,Franchise,26-09-2022
+SR0960,NexaTel Thiruvananthapuram Express,CT0034,ST017,RG03,Mini Store,06-04-2012
+SR0961,NexaTel Surat Point,CT0019,ST011,RG02,Owned,06-10-2019
+SR0962,NexaTel Durgapur Store,CT0053,ST022,RG04,Franchise,03-06-2021
+SR0963,NexaTel Kota Hub,CT0050,ST005,RG01,Franchise,15-11-2023
+SR0964,NexaTel Tiruchirappalli Store,CT0045,ST016,RG03,Owned,02-04-2010
+SR0965,NexaTel Jabalpur Hub,CT0049,ST012,RG02,Mini Store,19-07-2017
+SR0966,NexaTel Vadodara Express,CT0020,ST011,RG02,Franchise,20-10-2013
+SR0967,NexaTel Gurugram Express,CT0009,ST002,RG01,Owned,18-04-2017
+SR0968,NexaTel Kolkata Store,CT0005,ST022,RG04,Owned,19-11-2014
+SR0969,NexaTel Gaya Express,CT0057,ST024,RG04,Mini Store,13-11-2015
+SR0970,NexaTel Ajmer Point,CT0040,ST005,RG01,Franchise,30-10-2022
+SR0971,NexaTel Udaipur Point,CT0060,ST005,RG01,Owned,11-08-2024
+SR0972,NexaTel Jamshedpur Store,CT0058,ST025,RG04,Franchise,25-11-2016
+SR0973,NexaTel Coimbatore Centre,CT0016,ST016,RG03,Franchise,24-08-2014
+SR0974,NexaTel Mysuru Hub,CT0027,ST015,RG03,Franchise,07-12-2018
+SR0975,NexaTel Bhopal Store,CT0014,ST012,RG02,Owned,28-05-2022
+SR0976,NexaTel Tirupati Express,CT0042,ST018,RG03,Mini Store,08-08-2012
+SR0977,NexaTel Panaji Centre,CT0063,ST013,RG02,Owned,07-06-2020
+SR0978,NexaTel Kollam Hub,CT0046,ST017,RG03,Owned,25-07-2011
+SR0979,NexaTel Lucknow Centre,CT0012,ST004,RG01,Franchise,22-02-2022
+SR0980,NexaTel Jammu Centre,CT0062,ST008,RG01,Franchise,25-03-2020
+SR0981,NexaTel Kochi Store,CT0017,ST017,RG03,Experience Centre,14-11-2016
+SR0982,NexaTel Varanasi Point,CT0037,ST004,RG01,Mini Store,12-03-2025
+SR0983,NexaTel Bikaner Store,CT0051,ST005,RG01,Owned,05-03-2018
+SR0984,NexaTel Pune Point,CT0007,ST010,RG02,Owned,25-06-2010
+SR0985,NexaTel Agra Store,CT0039,ST004,RG01,Experience Centre,09-08-2014
+SR0986,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Experience Centre,03-03-2015
+SR0987,NexaTel Aurangabad Hub,CT0038,ST010,RG02,Franchise,15-05-2016
+SR0988,NexaTel Shimla Store,CT0061,ST007,RG01,Franchise,21-10-2017
+SR0989,NexaTel Chandigarh Express,CT0023,ST009,RG01,Franchise,01-12-2023
+SR0990,NexaTel Imphal Express,CT0064,ST031,RG04,Franchise,02-02-2016
+SR0991,NexaTel Raipur Hub,CT0026,ST027,RG04,Franchise,26-03-2014
+SR0992,NexaTel Mumbai Express,CT0002,ST010,RG02,Mini Store,06-02-2016
+SR0993,NexaTel Ajmer Point,CT0040,ST005,RG01,Mini Store,06-11-2010
+SR0994,NexaTel Thiruvananthapuram Hub,CT0034,ST017,RG03,Franchise,24-05-2013
+SR0995,NexaTel Belagavi Point,CT0041,ST015,RG03,Franchise,06-02-2013
+SR0996,NexaTel Kota Store,CT0050,ST005,RG01,Mini Store,25-05-2016
+SR0997,NexaTel Agra Point,CT0039,ST004,RG01,Owned,19-03-2023
+SR0998,NexaTel Siliguri Express,CT0052,ST022,RG04,Experience Centre,13-03-2025
+SR0999,NexaTel Kochi Point,CT0017,ST017,RG03,Owned,07-11-2019
+SR1000,NexaTel Dehradun Centre,CT0033,ST006,RG01,Franchise,13-10-2011
+SR1001,NexaTel Varanasi Store,CT0037,ST004,RG01,Owned,11-12-2021
+SR1002,NexaTel Imphal Point,CT0064,ST031,RG04,Owned,26-11-2019
+SR1003,NexaTel Jammu Express,CT0062,ST008,RG01,Franchise,09-09-2016
+SR1004,NexaTel Vijayawada Point,CT0029,ST018,RG03,Franchise,10-02-2016
+SR1005,NexaTel Madurai Store,CT0028,ST016,RG03,Owned,25-07-2020
+SR1006,NexaTel Nashik Express,CT0030,ST010,RG02,Owned,29-09-2019
+SR1007,NexaTel Jamshedpur Hub,CT0058,ST025,RG04,Owned,06-12-2016
+SR1008,NexaTel Thiruvananthapuram Point,CT0034,ST017,RG03,Franchise,24-11-2010
+SR1009,NexaTel Varanasi Centre,CT0037,ST004,RG01,Owned,04-01-2021
+SR1010,NexaTel Bengaluru Store,CT0003,ST015,RG03,Mini Store,12-06-2011
+SR1011,NexaTel Kanpur Centre,CT0036,ST004,RG01,Mini Store,05-09-2011
+SR1012,NexaTel Ludhiana Point,CT0031,ST003,RG01,Franchise,29-11-2015
+SR1013,NexaTel Raipur Point,CT0026,ST027,RG04,Owned,10-02-2010
+SR1014,NexaTel Jodhpur Hub,CT0035,ST005,RG01,Owned,02-05-2023
+SR1015,NexaTel Imphal Store,CT0064,ST031,RG04,Mini Store,10-10-2014
+SR1016,NexaTel Ranchi Hub,CT0025,ST025,RG04,Experience Centre,22-11-2024
+SR1017,NexaTel Jabalpur Express,CT0049,ST012,RG02,Mini Store,20-05-2010
+SR1018,NexaTel Shillong Store,CT0065,ST034,RG04,Franchise,10-04-2017
+SR1019,NexaTel Ludhiana Centre,CT0031,ST003,RG01,Owned,01-02-2018
+SR1020,NexaTel Indore Store,CT0013,ST012,RG02,Franchise,16-11-2024
+SR1021,NexaTel Bhagalpur Hub,CT0056,ST024,RG04,Franchise,13-09-2024
+SR1022,NexaTel Gurugram Centre,CT0009,ST002,RG01,Mini Store,04-01-2017
+SR1023,NexaTel Guwahati Hub,CT0024,ST026,RG04,Mini Store,05-09-2014
+SR1024,NexaTel Jabalpur Store,CT0049,ST012,RG02,Franchise,25-10-2016
+SR1025,NexaTel Coimbatore Point,CT0016,ST016,RG03,Mini Store,06-01-2021
+SR1026,NexaTel Jodhpur Point,CT0035,ST005,RG01,Franchise,31-01-2023
+SR1027,NexaTel Agra Centre,CT0039,ST004,RG01,Owned,12-11-2019
+SR1028,NexaTel Ranchi Express,CT0025,ST025,RG04,Owned,09-11-2017
+SR1029,NexaTel Jodhpur Hub,CT0035,ST005,RG01,Mini Store,23-11-2020
+SR1030,NexaTel Ranchi Hub,CT0025,ST025,RG04,Owned,20-10-2020
+SR1031,NexaTel Noida Centre,CT0010,ST004,RG01,Mini Store,10-06-2022
+SR1032,NexaTel Gwalior Store,CT0048,ST012,RG02,Franchise,03-08-2010
+SR1033,NexaTel Hyderabad Hub,CT0006,ST019,RG03,Franchise,30-05-2014
+SR1034,NexaTel Gaya Point,CT0057,ST024,RG04,Franchise,25-06-2014
+SR1035,NexaTel Panaji Hub,CT0063,ST013,RG02,Franchise,16-01-2022
+SR1036,NexaTel Panaji Express,CT0063,ST013,RG02,Mini Store,07-02-2013
+SR1037,NexaTel Mysuru Express,CT0027,ST015,RG03,Franchise,25-01-2011
+SR1038,NexaTel Bhubaneswar Centre,CT0022,ST023,RG04,Mini Store,07-09-2024
+SR1039,NexaTel Kollam Express,CT0046,ST017,RG03,Owned,19-12-2022
+SR1040,NexaTel Agra Store,CT0039,ST004,RG01,Mini Store,10-05-2018
+SR1041,NexaTel Bhubaneswar Point,CT0022,ST023,RG04,Franchise,10-08-2012
+SR1042,NexaTel Mysuru Centre,CT0027,ST015,RG03,Franchise,13-10-2018
+SR1043,NexaTel Gaya Hub,CT0057,ST024,RG04,Franchise,05-09-2024
+SR1044,NexaTel Aizawl Hub,CT0067,ST032,RG04,Mini Store,07-03-2022
+SR1045,NexaTel Salem Point,CT0044,ST016,RG03,Franchise,14-06-2015
+SR1046,NexaTel Madurai Express,CT0028,ST016,RG03,Experience Centre,10-12-2018
+SR1047,NexaTel Jodhpur Point,CT0035,ST005,RG01,Franchise,11-06-2024
+SR1048,NexaTel Aurangabad Centre,CT0038,ST010,RG02,Owned,26-06-2023
+SR1049,NexaTel Madurai Express,CT0028,ST016,RG03,Owned,12-09-2012
+SR1050,NexaTel Nashik Point,CT0030,ST010,RG02,Experience Centre,01-03-2015
+SR1051,NexaTel Jamshedpur Express,CT0058,ST025,RG04,Franchise,16-04-2016
+SR1052,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,26-10-2024
+SR1053,NexaTel Jaipur Point,CT0011,ST005,RG01,Mini Store,04-09-2013
+SR1054,NexaTel Jammu Point,CT0062,ST008,RG01,Owned,15-08-2017
+SR1055,NexaTel Dehradun Hub,CT0033,ST006,RG01,Mini Store,04-09-2021
+SR1056,NexaTel Kanpur Point,CT0036,ST004,RG01,Franchise,08-01-2010
+SR1057,NexaTel Imphal Express,CT0064,ST031,RG04,Owned,31-08-2016
+SR1058,NexaTel Vadodara Point,CT0020,ST011,RG02,Franchise,22-02-2016
+SR1059,NexaTel Belagavi Express,CT0041,ST015,RG03,Mini Store,06-12-2020
+SR1060,NexaTel Bengaluru Express,CT0003,ST015,RG03,Franchise,26-11-2016
+SR1061,NexaTel Bhubaneswar Store,CT0022,ST023,RG04,Mini Store,06-07-2013
+SR1062,NexaTel Aizawl Express,CT0067,ST032,RG04,Experience Centre,02-03-2022
+SR1063,NexaTel Raipur Express,CT0026,ST027,RG04,Franchise,27-09-2021
+SR1064,NexaTel Jaipur Point,CT0011,ST005,RG01,Franchise,08-12-2024
+SR1065,NexaTel Nashik Express,CT0030,ST010,RG02,Franchise,26-12-2017
+SR1066,NexaTel Bhopal Express,CT0014,ST012,RG02,Owned,15-10-2017
+SR1067,NexaTel Ajmer Express,CT0040,ST005,RG01,Owned,27-05-2021
+SR1068,NexaTel New Delhi Centre,CT0001,ST001,RG01,Mini Store,23-08-2013
+SR1069,NexaTel Ludhiana Point,CT0031,ST003,RG01,Owned,18-08-2019
+SR1070,NexaTel Warangal Express,CT0043,ST019,RG03,Owned,16-05-2025
+SR1071,NexaTel Kota Point,CT0050,ST005,RG01,Franchise,30-11-2013
+SR1072,NexaTel Bikaner Hub,CT0051,ST005,RG01,Experience Centre,06-12-2015
+SR1073,NexaTel Guwahati Store,CT0024,ST026,RG04,Franchise,06-05-2023
+SR1074,NexaTel Jaipur Express,CT0011,ST005,RG01,Mini Store,07-10-2014
+SR1075,NexaTel Aurangabad Point,CT0038,ST010,RG02,Franchise,26-06-2012
+SR1076,NexaTel Madurai Express,CT0028,ST016,RG03,Owned,12-04-2013
+SR1077,NexaTel Cuttack Centre,CT0054,ST023,RG04,Franchise,18-02-2024
+SR1078,NexaTel Bhopal Express,CT0014,ST012,RG02,Franchise,18-06-2012
+SR1079,NexaTel Hyderabad Express,CT0006,ST019,RG03,Mini Store,03-09-2015
+SR1080,NexaTel Agartala Point,CT0066,ST033,RG04,Franchise,21-01-2018
+SR1081,NexaTel Varanasi Hub,CT0037,ST004,RG01,Mini Store,18-05-2020
+SR1082,NexaTel Hyderabad Store,CT0006,ST019,RG03,Franchise,12-07-2018
+SR1083,NexaTel Agartala Centre,CT0066,ST033,RG04,Mini Store,05-08-2013
+SR1084,NexaTel Tiruchirappalli Point,CT0045,ST016,RG03,Owned,06-08-2014
+SR1085,NexaTel Kota Centre,CT0050,ST005,RG01,Franchise,12-09-2014
+SR1086,NexaTel Siliguri Centre,CT0052,ST022,RG04,Franchise,24-07-2014
+SR1087,NexaTel Raipur Point,CT0026,ST027,RG04,Owned,17-08-2014
+SR1088,NexaTel Jabalpur Hub,CT0049,ST012,RG02,Mini Store,18-03-2015
+SR1089,NexaTel Coimbatore Point,CT0016,ST016,RG03,Franchise,12-01-2017
+SR1090,NexaTel Siliguri Point,CT0052,ST022,RG04,Owned,30-05-2016
+SR1091,NexaTel Durgapur Express,CT0053,ST022,RG04,Owned,25-12-2013
+SR1092,NexaTel Chandigarh Store,CT0023,ST009,RG01,Experience Centre,12-08-2014
+SR1093,NexaTel Ajmer Centre,CT0040,ST005,RG01,Owned,06-07-2017
+SR1094,NexaTel Kota Centre,CT0050,ST005,RG01,Owned,23-12-2015
+SR1095,NexaTel Panaji Point,CT0063,ST013,RG02,Franchise,23-05-2017
+SR1096,NexaTel Vijayawada Centre,CT0029,ST018,RG03,Experience Centre,27-12-2014
+SR1097,NexaTel Ludhiana Point,CT0031,ST003,RG01,Experience Centre,22-09-2014
+SR1098,NexaTel Mumbai Point,CT0002,ST010,RG02,Franchise,10-07-2021
+SR1099,NexaTel Vijayawada Store,CT0029,ST018,RG03,Franchise,31-05-2014
+SR1100,NexaTel Noida Hub,CT0010,ST004,RG01,Franchise,09-04-2024
+SR1101,NexaTel Tiruchirappalli Centre,CT0045,ST016,RG03,Franchise,13-01-2020
+SR1102,NexaTel Agartala Centre,CT0066,ST033,RG04,Franchise,02-03-2017
+SR1103,NexaTel New Delhi Point,CT0001,ST001,RG01,Owned,17-05-2012
+SR1104,NexaTel Imphal Point,CT0064,ST031,RG04,Franchise,10-08-2012
+SR1105,NexaTel Hyderabad Hub,CT0006,ST019,RG03,Owned,01-08-2023
+SR1106,NexaTel Belagavi Hub,CT0041,ST015,RG03,Franchise,25-06-2010
+SR1107,NexaTel Coimbatore Store,CT0016,ST016,RG03,Owned,18-04-2018
+SR1108,NexaTel Imphal Hub,CT0064,ST031,RG04,Owned,10-02-2010
+SR1109,NexaTel Durgapur Centre,CT0053,ST022,RG04,Owned,02-09-2021
+SR1110,NexaTel Udaipur Express,CT0060,ST005,RG01,Franchise,26-04-2024
+SR1111,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Franchise,23-12-2023
+SR1112,NexaTel Noida Point,CT0010,ST004,RG01,Franchise,19-05-2020
+SR1113,NexaTel Vadodara Express,CT0020,ST011,RG02,Franchise,02-03-2020
+SR1114,NexaTel Shimla Express,CT0061,ST007,RG01,Owned,06-07-2023
+SR1115,NexaTel Bilaspur Centre,CT0059,ST027,RG04,Owned,25-03-2016
+SR1116,NexaTel Jodhpur Express,CT0035,ST005,RG01,Franchise,18-06-2015
+SR1117,NexaTel Ludhiana Point,CT0031,ST003,RG01,Franchise,21-11-2015
+SR1118,NexaTel Bilaspur Hub,CT0059,ST027,RG04,Franchise,23-01-2014
+SR1119,NexaTel Jammu Hub,CT0062,ST008,RG01,Mini Store,17-07-2017
+SR1120,NexaTel Salem Centre,CT0044,ST016,RG03,Franchise,30-01-2020
+SR1121,NexaTel Ranchi Store,CT0025,ST025,RG04,Owned,11-02-2010
+SR1122,NexaTel Rourkela Point,CT0055,ST023,RG04,Franchise,10-06-2020
+SR1123,NexaTel Patna Store,CT0021,ST024,RG04,Franchise,31-10-2011
+SR1124,NexaTel Nagpur Store,CT0015,ST010,RG02,Mini Store,13-08-2020
+SR1125,NexaTel Amritsar Express,CT0032,ST003,RG01,Owned,03-06-2016
+SR1126,NexaTel Bikaner Hub,CT0051,ST005,RG01,Franchise,06-09-2011
+SR1127,NexaTel Gangtok Centre,CT0068,ST028,RG04,Franchise,25-10-2017
+SR1128,NexaTel Ajmer Centre,CT0040,ST005,RG01,Mini Store,27-08-2019
+SR1129,NexaTel Jamshedpur Hub,CT0058,ST025,RG04,Franchise,02-12-2013
+SR1130,NexaTel Shimla Hub,CT0061,ST007,RG01,Mini Store,26-02-2011
+SR1131,NexaTel Jaipur Centre,CT0011,ST005,RG01,Owned,01-05-2019
+SR1132,NexaTel Siliguri Point,CT0052,ST022,RG04,Owned,07-04-2023
+SR1133,NexaTel Imphal Centre,CT0064,ST031,RG04,Owned,30-04-2021
+SR1134,NexaTel Ajmer Store,CT0040,ST005,RG01,Franchise,14-08-2020
+SR1135,NexaTel Tirupati Express,CT0042,ST018,RG03,Owned,29-03-2015
+SR1136,NexaTel Vijayawada Express,CT0029,ST018,RG03,Franchise,14-03-2025
+SR1137,NexaTel Kochi Point,CT0017,ST017,RG03,Franchise,17-12-2019
+SR1138,NexaTel Belagavi Store,CT0041,ST015,RG03,Franchise,01-03-2018
+SR1139,NexaTel Visakhapatnam Hub,CT0018,ST018,RG03,Owned,15-01-2020
+SR1140,NexaTel Ranchi Centre,CT0025,ST025,RG04,Franchise,23-09-2011
+SR1141,NexaTel Aizawl Express,CT0067,ST032,RG04,Mini Store,31-08-2024
+SR1142,NexaTel Gangtok Store,CT0068,ST028,RG04,Franchise,04-08-2018
+SR1143,NexaTel Indore Centre,CT0013,ST012,RG02,Experience Centre,16-02-2015
+SR1144,NexaTel Aurangabad Hub,CT0038,ST010,RG02,Mini Store,27-07-2010
+SR1145,NexaTel Udaipur Store,CT0060,ST005,RG01,Franchise,18-11-2023
+SR1146,NexaTel Gurugram Hub,CT0009,ST002,RG01,Owned,07-07-2015
+SR1147,NexaTel Jammu Express,CT0062,ST008,RG01,Owned,05-01-2021
+SR1148,NexaTel Jabalpur Point,CT0049,ST012,RG02,Mini Store,07-03-2018
+SR1149,NexaTel Ludhiana Express,CT0031,ST003,RG01,Mini Store,02-12-2020
+SR1150,NexaTel Hyderabad Hub,CT0006,ST019,RG03,Owned,09-04-2020
+SR1151,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Franchise,23-02-2018
+SR1152,NexaTel Panaji Hub,CT0063,ST013,RG02,Franchise,27-01-2023
+SR1153,NexaTel Bilaspur Hub,CT0059,ST027,RG04,Franchise,01-08-2023
+SR1154,NexaTel Jodhpur Point,CT0035,ST005,RG01,Franchise,28-12-2023
+SR1155,NexaTel Noida Store,CT0010,ST004,RG01,Mini Store,17-07-2024
+SR1156,NexaTel Varanasi Centre,CT0037,ST004,RG01,Franchise,27-06-2012
+SR1157,NexaTel Nashik Point,CT0030,ST010,RG02,Experience Centre,26-01-2023
+SR1158,NexaTel Bengaluru Express,CT0003,ST015,RG03,Owned,04-08-2024
+SR1159,NexaTel Hyderabad Express,CT0006,ST019,RG03,Owned,11-01-2015
+SR1160,NexaTel Pune Hub,CT0007,ST010,RG02,Mini Store,15-01-2010
+SR1161,NexaTel Ludhiana Point,CT0031,ST003,RG01,Mini Store,06-07-2021
+SR1162,NexaTel Chennai Store,CT0004,ST016,RG03,Owned,08-05-2016
+SR1163,NexaTel Bilaspur Centre,CT0059,ST027,RG04,Owned,15-08-2010
+SR1164,NexaTel Shimla Centre,CT0061,ST007,RG01,Franchise,27-08-2017
+SR1165,NexaTel Warangal Hub,CT0043,ST019,RG03,Owned,18-08-2013
+SR1166,NexaTel Bilaspur Hub,CT0059,ST027,RG04,Mini Store,10-11-2019
+SR1167,NexaTel Jamshedpur Point,CT0058,ST025,RG04,Franchise,27-08-2023
+SR1168,NexaTel Kochi Express,CT0017,ST017,RG03,Owned,22-07-2019
+SR1169,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Mini Store,09-05-2014
+SR1170,NexaTel Coimbatore Store,CT0016,ST016,RG03,Owned,16-04-2010
+SR1171,NexaTel Ludhiana Hub,CT0031,ST003,RG01,Franchise,14-03-2021
+SR1172,NexaTel Nagpur Store,CT0015,ST010,RG02,Franchise,07-10-2010
+SR1173,NexaTel Jabalpur Express,CT0049,ST012,RG02,Franchise,30-09-2018
+SR1174,NexaTel Madurai Express,CT0028,ST016,RG03,Mini Store,18-07-2013
+SR1175,NexaTel Coimbatore Hub,CT0016,ST016,RG03,Franchise,01-11-2011
+SR1176,NexaTel Gaya Centre,CT0057,ST024,RG04,Franchise,01-08-2024
+SR1177,NexaTel Jodhpur Hub,CT0035,ST005,RG01,Mini Store,10-03-2024
+SR1178,NexaTel Aizawl Store,CT0067,ST032,RG04,Mini Store,17-03-2010
+SR1179,NexaTel Gangtok Express,CT0068,ST028,RG04,Owned,25-04-2015
+SR1180,NexaTel Coimbatore Centre,CT0016,ST016,RG03,Franchise,09-09-2023
+SR1181,NexaTel Bhopal Express,CT0014,ST012,RG02,Franchise,30-03-2012
+SR1182,NexaTel Thiruvananthapuram Centre,CT0034,ST017,RG03,Experience Centre,23-11-2015
+SR1183,NexaTel Imphal Point,CT0064,ST031,RG04,Franchise,20-02-2015
+SR1184,NexaTel Kanpur Store,CT0036,ST004,RG01,Franchise,27-03-2012
+SR1185,NexaTel Vadodara Hub,CT0020,ST011,RG02,Owned,12-11-2013
+SR1186,NexaTel Agartala Express,CT0066,ST033,RG04,Franchise,07-05-2010
+SR1187,NexaTel Madurai Centre,CT0028,ST016,RG03,Owned,15-07-2022
+SR1188,NexaTel Bengaluru Store,CT0003,ST015,RG03,Experience Centre,31-05-2012
+SR1189,NexaTel New Delhi Hub,CT0001,ST001,RG01,Mini Store,25-01-2016
+SR1190,NexaTel Bengaluru Centre,CT0003,ST015,RG03,Franchise,25-11-2015
+SR1191,NexaTel Jabalpur Point,CT0049,ST012,RG02,Franchise,14-02-2022
+SR1192,NexaTel Kanpur Express,CT0036,ST004,RG01,Owned,28-05-2021
+SR1193,NexaTel Hubballi Hub,CT0047,ST015,RG03,Franchise,06-07-2023
+SR1194,NexaTel Salem Express,CT0044,ST016,RG03,Franchise,26-11-2011
+SR1195,NexaTel Dehradun Hub,CT0033,ST006,RG01,Franchise,18-03-2023
+SR1196,NexaTel Dehradun Centre,CT0033,ST006,RG01,Owned,27-03-2021
+SR1197,NexaTel Belagavi Point,CT0041,ST015,RG03,Mini Store,14-03-2018
+SR1198,NexaTel Jodhpur Express,CT0035,ST005,RG01,Owned,03-05-2013
+SR1199,NexaTel Ajmer Point,CT0040,ST005,RG01,Mini Store,18-10-2014
+SR1200,NexaTel Dehradun Point,CT0033,ST006,RG01,Franchise,18-08-2019
+SR1201,NexaTel Madurai Store,CT0028,ST016,RG03,Owned,28-06-2021
+SR1202,NexaTel Shillong Hub,CT0065,ST034,RG04,Experience Centre,28-06-2011
+SR1203,NexaTel Udaipur Express,CT0060,ST005,RG01,Franchise,12-03-2015
+SR1204,NexaTel Chandigarh Express,CT0023,ST009,RG01,Franchise,18-04-2015
+SR1205,NexaTel Salem Express,CT0044,ST016,RG03,Franchise,11-01-2022
+SR1206,NexaTel Raipur Express,CT0026,ST027,RG04,Franchise,08-04-2019
+SR1207,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,03-04-2012
+SR1208,NexaTel Kollam Hub,CT0046,ST017,RG03,Owned,28-12-2024
+SR1209,NexaTel Belagavi Hub,CT0041,ST015,RG03,Franchise,09-07-2010
+SR1210,NexaTel Mysuru Express,CT0027,ST015,RG03,Franchise,14-09-2024
+SR1211,NexaTel Vijayawada Store,CT0029,ST018,RG03,Franchise,25-12-2010
+SR1212,NexaTel Tirupati Point,CT0042,ST018,RG03,Franchise,23-01-2017
+SR1213,NexaTel Mumbai Point,CT0002,ST010,RG02,Mini Store,25-01-2010
+SR1214,NexaTel Ajmer Point,CT0040,ST005,RG01,Owned,12-03-2012
+SR1215,NexaTel Jamshedpur Hub,CT0058,ST025,RG04,Franchise,27-10-2018
+SR1216,NexaTel Bhagalpur Store,CT0056,ST024,RG04,Owned,25-07-2020
+SR1217,NexaTel Panaji Store,CT0063,ST013,RG02,Experience Centre,28-12-2018
+SR1218,NexaTel Patna Centre,CT0021,ST024,RG04,Owned,14-06-2021
+SR1219,NexaTel Kolkata Point,CT0005,ST022,RG04,Franchise,09-02-2011
+SR1220,NexaTel Gaya Express,CT0057,ST024,RG04,Franchise,05-05-2025
+SR1221,NexaTel Noida Hub,CT0010,ST004,RG01,Franchise,21-12-2010
+SR1222,NexaTel Chandigarh Store,CT0023,ST009,RG01,Experience Centre,01-08-2010
+SR1223,NexaTel Madurai Store,CT0028,ST016,RG03,Owned,22-05-2022
+SR1224,NexaTel Bikaner Point,CT0051,ST005,RG01,Franchise,11-04-2023
+SR1225,NexaTel Madurai Centre,CT0028,ST016,RG03,Owned,11-01-2011
+SR1226,NexaTel Kota Centre,CT0050,ST005,RG01,Franchise,20-03-2013
+SR1227,NexaTel Shillong Store,CT0065,ST034,RG04,Mini Store,16-04-2020
+SR1228,NexaTel Ludhiana Hub,CT0031,ST003,RG01,Franchise,19-06-2025
+SR1229,NexaTel Indore Store,CT0013,ST012,RG02,Franchise,03-06-2018
+SR1230,NexaTel Madurai Centre,CT0028,ST016,RG03,Owned,13-05-2016
+SR1231,NexaTel Varanasi Hub,CT0037,ST004,RG01,Franchise,03-04-2014
+SR1232,NexaTel Mysuru Centre,CT0027,ST015,RG03,Franchise,01-01-2015
+SR1233,NexaTel Aizawl Express,CT0067,ST032,RG04,Owned,19-01-2025
+SR1234,NexaTel Dehradun Store,CT0033,ST006,RG01,Owned,03-02-2022
+SR1235,NexaTel Visakhapatnam Centre,CT0018,ST018,RG03,Owned,19-07-2021
+SR1236,NexaTel Shimla Hub,CT0061,ST007,RG01,Owned,14-09-2019
+SR1237,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Franchise,07-07-2024
+SR1238,NexaTel Patna Express,CT0021,ST024,RG04,Franchise,13-11-2010
+SR1239,NexaTel New Delhi Centre,CT0001,ST001,RG01,Mini Store,07-02-2016
+SR1240,NexaTel Bengaluru Point,CT0003,ST015,RG03,Mini Store,13-08-2019
+SR1241,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,13-07-2011
+SR1242,NexaTel Siliguri Centre,CT0052,ST022,RG04,Mini Store,01-05-2010
+SR1243,NexaTel Shillong Store,CT0065,ST034,RG04,Franchise,26-10-2018
+SR1244,NexaTel Dehradun Store,CT0033,ST006,RG01,Franchise,22-09-2020
+SR1245,NexaTel Ludhiana Centre,CT0031,ST003,RG01,Franchise,16-05-2017
+SR1246,NexaTel Kollam Point,CT0046,ST017,RG03,Franchise,11-10-2012
+SR1247,NexaTel Ludhiana Express,CT0031,ST003,RG01,Experience Centre,17-02-2022
+SR1248,NexaTel Agra Hub,CT0039,ST004,RG01,Franchise,18-12-2018
+SR1249,NexaTel Shillong Centre,CT0065,ST034,RG04,Owned,15-01-2024
+SR1250,NexaTel Cuttack Express,CT0054,ST023,RG04,Mini Store,21-01-2010
+SR1251,NexaTel Warangal Point,CT0043,ST019,RG03,Franchise,02-12-2010
+SR1252,NexaTel Patna Store,CT0021,ST024,RG04,Franchise,05-12-2012
+SR1253,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Experience Centre,16-10-2011
+SR1254,NexaTel Aizawl Express,CT0067,ST032,RG04,Franchise,22-04-2013
+SR1255,NexaTel Chennai Express,CT0004,ST016,RG03,Mini Store,24-03-2013
+SR1256,NexaTel Amritsar Hub,CT0032,ST003,RG01,Mini Store,20-11-2014
+SR1257,NexaTel Gangtok Point,CT0068,ST028,RG04,Franchise,09-07-2018
+SR1258,NexaTel Hubballi Express,CT0047,ST015,RG03,Franchise,30-04-2024
+SR1259,NexaTel Thiruvananthapuram Store,CT0034,ST017,RG03,Franchise,16-03-2016
+SR1260,NexaTel Ludhiana Point,CT0031,ST003,RG01,Owned,04-09-2024
+SR1261,NexaTel Kochi Hub,CT0017,ST017,RG03,Franchise,11-09-2013
+SR1262,NexaTel Rourkela Express,CT0055,ST023,RG04,Owned,26-08-2012
+SR1263,NexaTel Imphal Hub,CT0064,ST031,RG04,Franchise,09-04-2016
+SR1264,NexaTel Bhagalpur Hub,CT0056,ST024,RG04,Owned,14-11-2021
+SR1265,NexaTel Jaipur Store,CT0011,ST005,RG01,Experience Centre,11-07-2018
+SR1266,NexaTel Ajmer Hub,CT0040,ST005,RG01,Experience Centre,07-03-2014
+SR1267,NexaTel Gurugram Hub,CT0009,ST002,RG01,Franchise,07-07-2011
+SR1268,NexaTel Noida Express,CT0010,ST004,RG01,Franchise,12-02-2025
+SR1269,NexaTel Jaipur Express,CT0011,ST005,RG01,Owned,29-03-2024
+SR1270,NexaTel Ajmer Express,CT0040,ST005,RG01,Owned,05-05-2010
+SR1271,NexaTel Vadodara Store,CT0020,ST011,RG02,Mini Store,25-03-2017
+SR1272,NexaTel Bengaluru Express,CT0003,ST015,RG03,Franchise,29-09-2021
+SR1273,NexaTel Guwahati Hub,CT0024,ST026,RG04,Mini Store,12-12-2023
+SR1274,NexaTel Agartala Express,CT0066,ST033,RG04,Mini Store,07-08-2012
+SR1275,NexaTel Gangtok Hub,CT0068,ST028,RG04,Franchise,25-07-2020
+SR1276,NexaTel Bhopal Point,CT0014,ST012,RG02,Franchise,11-05-2023
+SR1277,NexaTel Kochi Hub,CT0017,ST017,RG03,Franchise,23-02-2016
+SR1278,NexaTel Bengaluru Point,CT0003,ST015,RG03,Owned,03-05-2021
+SR1279,NexaTel Ahmedabad Hub,CT0008,ST011,RG02,Franchise,19-02-2014
+SR1280,NexaTel Mumbai Point,CT0002,ST010,RG02,Owned,12-11-2020
+SR1281,NexaTel Chandigarh Hub,CT0023,ST009,RG01,Franchise,06-08-2019
+SR1282,NexaTel Bikaner Store,CT0051,ST005,RG01,Franchise,27-09-2014
+SR1283,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Mini Store,29-01-2010
+SR1284,NexaTel New Delhi Hub,CT0001,ST001,RG01,Franchise,06-01-2025
+SR1285,NexaTel Madurai Express,CT0028,ST016,RG03,Owned,07-08-2020
+SR1286,NexaTel Nashik Store,CT0030,ST010,RG02,Experience Centre,29-05-2013
+SR1287,NexaTel Aizawl Point,CT0067,ST032,RG04,Experience Centre,03-11-2022
+SR1288,NexaTel Cuttack Point,CT0054,ST023,RG04,Franchise,21-07-2023
+SR1289,NexaTel Nagpur Hub,CT0015,ST010,RG02,Experience Centre,28-06-2025
+SR1290,NexaTel Jabalpur Express,CT0049,ST012,RG02,Owned,06-12-2020
+SR1291,NexaTel Kanpur Store,CT0036,ST004,RG01,Franchise,11-10-2023
+SR1292,NexaTel Udaipur Express,CT0060,ST005,RG01,Owned,02-09-2017
+SR1293,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,16-10-2019
+SR1294,NexaTel Madurai Centre,CT0028,ST016,RG03,Franchise,26-08-2018
+SR1295,NexaTel Shillong Express,CT0065,ST034,RG04,Owned,06-12-2018
+SR1296,NexaTel Bikaner Express,CT0051,ST005,RG01,Experience Centre,28-12-2011
+SR1297,NexaTel Salem Hub,CT0044,ST016,RG03,Franchise,18-02-2018
+SR1298,NexaTel Ahmedabad Point,CT0008,ST011,RG02,Franchise,08-12-2021
+SR1299,NexaTel Jammu Express,CT0062,ST008,RG01,Franchise,04-08-2014
+SR1300,NexaTel Imphal Hub,CT0064,ST031,RG04,Franchise,11-01-2024
+SR1301,NexaTel Coimbatore Hub,CT0016,ST016,RG03,Owned,17-01-2016
+SR1302,NexaTel Varanasi Hub,CT0037,ST004,RG01,Franchise,01-11-2014
+SR1303,NexaTel Jammu Express,CT0062,ST008,RG01,Franchise,16-06-2025
+SR1304,NexaTel Jabalpur Point,CT0049,ST012,RG02,Franchise,22-07-2016
+SR1305,NexaTel Guwahati Store,CT0024,ST026,RG04,Franchise,23-01-2012
+SR1306,NexaTel Tiruchirappalli Store,CT0045,ST016,RG03,Owned,08-10-2012
+SR1307,NexaTel Shimla Express,CT0061,ST007,RG01,Experience Centre,02-12-2022
+SR1308,NexaTel Aurangabad Store,CT0038,ST010,RG02,Mini Store,21-11-2013
+SR1309,NexaTel Siliguri Point,CT0052,ST022,RG04,Mini Store,22-04-2012
+SR1310,NexaTel Raipur Point,CT0026,ST027,RG04,Mini Store,08-05-2018
+SR1311,NexaTel Bengaluru Point,CT0003,ST015,RG03,Mini Store,11-12-2023
+SR1312,NexaTel Surat Express,CT0019,ST011,RG02,Experience Centre,23-10-2012
+SR1313,NexaTel Vijayawada Hub,CT0029,ST018,RG03,Mini Store,06-03-2020
+SR1314,NexaTel Cuttack Store,CT0054,ST023,RG04,Mini Store,26-05-2013
+SR1315,NexaTel Udaipur Store,CT0060,ST005,RG01,Franchise,20-10-2016
+SR1316,NexaTel Gaya Store,CT0057,ST024,RG04,Owned,18-04-2010
+SR1317,NexaTel Rourkela Hub,CT0055,ST023,RG04,Mini Store,14-08-2017
+SR1318,NexaTel Guwahati Store,CT0024,ST026,RG04,Owned,08-07-2022
+SR1319,NexaTel Gurugram Express,CT0009,ST002,RG01,Owned,21-12-2015
+SR1320,NexaTel Raipur Point,CT0026,ST027,RG04,Owned,29-05-2011
+SR1321,NexaTel Imphal Store,CT0064,ST031,RG04,Owned,01-03-2017
+SR1322,NexaTel Jaipur Express,CT0011,ST005,RG01,Owned,03-11-2014
+SR1323,NexaTel Ranchi Centre,CT0025,ST025,RG04,Owned,29-07-2021
+SR1324,NexaTel Kochi Point,CT0017,ST017,RG03,Franchise,10-10-2023
+SR1325,NexaTel Amritsar Store,CT0032,ST003,RG01,Mini Store,07-12-2018
+SR1326,NexaTel Agra Point,CT0039,ST004,RG01,Owned,09-08-2015
+SR1327,NexaTel Bikaner Centre,CT0051,ST005,RG01,Mini Store,30-11-2021
+SR1328,NexaTel Pune Point,CT0007,ST010,RG02,Owned,03-02-2020
+SR1329,NexaTel Bhubaneswar Store,CT0022,ST023,RG04,Franchise,06-03-2015
+SR1330,NexaTel Imphal Centre,CT0064,ST031,RG04,Experience Centre,16-10-2022
+SR1331,NexaTel Aurangabad Hub,CT0038,ST010,RG02,Owned,06-12-2011
+SR1332,NexaTel Bikaner Express,CT0051,ST005,RG01,Franchise,27-05-2021
+SR1333,NexaTel Warangal Point,CT0043,ST019,RG03,Franchise,14-10-2014
+SR1334,NexaTel Rourkela Centre,CT0055,ST023,RG04,Owned,11-10-2020
+SR1335,NexaTel Guwahati Point,CT0024,ST026,RG04,Franchise,15-11-2022
+SR1336,NexaTel Bhubaneswar Hub,CT0022,ST023,RG04,Franchise,20-09-2024
+SR1337,NexaTel Mysuru Point,CT0027,ST015,RG03,Franchise,15-09-2013
+SR1338,NexaTel Surat Express,CT0019,ST011,RG02,Franchise,29-07-2018
+SR1339,NexaTel Gaya Hub,CT0057,ST024,RG04,Mini Store,01-10-2011
+SR1340,NexaTel Coimbatore Centre,CT0016,ST016,RG03,Owned,10-10-2015
+SR1341,NexaTel Jodhpur Hub,CT0035,ST005,RG01,Mini Store,19-05-2019
+SR1342,NexaTel Imphal Hub,CT0064,ST031,RG04,Franchise,29-09-2021
+SR1343,NexaTel Kollam Hub,CT0046,ST017,RG03,Owned,04-07-2021
+SR1344,NexaTel Nashik Store,CT0030,ST010,RG02,Mini Store,30-08-2018
+SR1345,NexaTel Tirupati Centre,CT0042,ST018,RG03,Mini Store,26-03-2017
+SR1346,NexaTel Jaipur Express,CT0011,ST005,RG01,Experience Centre,08-10-2023
+SR1347,NexaTel Pune Point,CT0007,ST010,RG02,Franchise,04-11-2019
+SR1348,NexaTel Varanasi Express,CT0037,ST004,RG01,Owned,01-07-2012
+SR1349,NexaTel Noida Point,CT0010,ST004,RG01,Franchise,23-01-2015
+SR1350,NexaTel Surat Centre,CT0019,ST011,RG02,Franchise,17-01-2016
+SR1351,NexaTel Jammu Store,CT0062,ST008,RG01,Franchise,22-08-2023
+SR1352,NexaTel Tirupati Centre,CT0042,ST018,RG03,Owned,10-03-2022
+SR1353,NexaTel Surat Store,CT0019,ST011,RG02,Owned,12-06-2016
+SR1354,NexaTel Kollam Centre,CT0046,ST017,RG03,Franchise,12-12-2011
+SR1355,NexaTel Noida Point,CT0010,ST004,RG01,Franchise,10-07-2024
+SR1356,NexaTel Ajmer Express,CT0040,ST005,RG01,Owned,19-04-2016
+SR1357,NexaTel Bhagalpur Express,CT0056,ST024,RG04,Franchise,09-12-2020
+SR1358,NexaTel Hubballi Store,CT0047,ST015,RG03,Franchise,27-11-2014
+SR1359,NexaTel Pune Hub,CT0007,ST010,RG02,Franchise,09-03-2024
+SR1360,NexaTel Shillong Express,CT0065,ST034,RG04,Experience Centre,23-03-2015
+SR1361,NexaTel Indore Express,CT0013,ST012,RG02,Franchise,26-10-2020
+SR1362,NexaTel Nashik Centre,CT0030,ST010,RG02,Owned,10-12-2016
+SR1363,NexaTel Vadodara Point,CT0020,ST011,RG02,Franchise,30-08-2017
+SR1364,NexaTel Belagavi Hub,CT0041,ST015,RG03,Mini Store,07-01-2016
+SR1365,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Franchise,14-09-2023
+SR1366,NexaTel Siliguri Hub,CT0052,ST022,RG04,Mini Store,28-01-2023
+SR1367,NexaTel Vadodara Express,CT0020,ST011,RG02,Owned,23-11-2011
+SR1368,NexaTel Noida Express,CT0010,ST004,RG01,Owned,07-04-2015
+SR1369,NexaTel Visakhapatnam Centre,CT0018,ST018,RG03,Owned,22-08-2013
+SR1370,NexaTel Kollam Store,CT0046,ST017,RG03,Franchise,27-12-2011
+SR1371,NexaTel Amritsar Express,CT0032,ST003,RG01,Owned,02-12-2014
+SR1372,NexaTel Gwalior Hub,CT0048,ST012,RG02,Mini Store,28-04-2019
+SR1373,NexaTel Panaji Express,CT0063,ST013,RG02,Franchise,27-04-2023
+SR1374,NexaTel Kanpur Centre,CT0036,ST004,RG01,Franchise,30-08-2023
+SR1375,NexaTel Siliguri Point,CT0052,ST022,RG04,Owned,07-09-2022
+SR1376,NexaTel Hubballi Store,CT0047,ST015,RG03,Owned,01-07-2015
+SR1377,NexaTel Mysuru Store,CT0027,ST015,RG03,Mini Store,29-08-2018
+SR1378,NexaTel Vadodara Express,CT0020,ST011,RG02,Franchise,19-02-2012
+SR1379,NexaTel Udaipur Store,CT0060,ST005,RG01,Mini Store,12-06-2016
+SR1380,NexaTel Raipur Express,CT0026,ST027,RG04,Owned,20-09-2012
+SR1381,NexaTel Pune Centre,CT0007,ST010,RG02,Owned,19-12-2019
+SR1382,NexaTel Kochi Point,CT0017,ST017,RG03,Owned,19-03-2012
+SR1383,NexaTel Gwalior Centre,CT0048,ST012,RG02,Mini Store,17-09-2017
+SR1384,NexaTel Jammu Store,CT0062,ST008,RG01,Mini Store,18-12-2019
+SR1385,NexaTel Amritsar Centre,CT0032,ST003,RG01,Owned,04-11-2018
+SR1386,NexaTel Warangal Store,CT0043,ST019,RG03,Franchise,02-09-2019
+SR1387,NexaTel Udaipur Centre,CT0060,ST005,RG01,Owned,28-05-2018
+SR1388,NexaTel Chandigarh Store,CT0023,ST009,RG01,Franchise,24-02-2013
+SR1389,NexaTel Panaji Point,CT0063,ST013,RG02,Franchise,17-10-2010
+SR1390,NexaTel Jaipur Point,CT0011,ST005,RG01,Mini Store,07-05-2023
+SR1391,NexaTel Kota Hub,CT0050,ST005,RG01,Franchise,26-10-2015
+SR1392,NexaTel Tirupati Hub,CT0042,ST018,RG03,Franchise,20-04-2014
+SR1393,NexaTel Kota Hub,CT0050,ST005,RG01,Owned,22-03-2025
+SR1394,NexaTel Bengaluru Point,CT0003,ST015,RG03,Experience Centre,14-10-2024
+SR1395,NexaTel Udaipur Store,CT0060,ST005,RG01,Franchise,30-01-2025
+SR1396,NexaTel Ranchi Store,CT0025,ST025,RG04,Owned,17-05-2014
+SR1397,NexaTel Gurugram Point,CT0009,ST002,RG01,Owned,08-12-2024
+SR1398,NexaTel Imphal Hub,CT0064,ST031,RG04,Franchise,13-06-2024
+SR1399,NexaTel Bhopal Store,CT0014,ST012,RG02,Experience Centre,07-12-2023
+SR1400,NexaTel Hyderabad Point,CT0006,ST019,RG03,Owned,30-01-2023
+SR1401,NexaTel Chennai Point,CT0004,ST016,RG03,Franchise,24-07-2018
+SR1402,NexaTel Lucknow Centre,CT0012,ST004,RG01,Owned,21-11-2020
+SR1403,NexaTel Thiruvananthapuram Store,CT0034,ST017,RG03,Franchise,30-04-2025
+SR1404,NexaTel Kollam Store,CT0046,ST017,RG03,Franchise,09-05-2010
+SR1405,NexaTel New Delhi Express,CT0001,ST001,RG01,Owned,03-04-2010
+SR1406,NexaTel Rourkela Point,CT0055,ST023,RG04,Franchise,24-01-2019
+SR1407,NexaTel Nashik Point,CT0030,ST010,RG02,Owned,21-08-2024
+SR1408,NexaTel Kanpur Store,CT0036,ST004,RG01,Franchise,15-03-2021
+SR1409,NexaTel Durgapur Hub,CT0053,ST022,RG04,Owned,25-04-2014
+SR1410,NexaTel Bikaner Express,CT0051,ST005,RG01,Franchise,28-08-2013
+SR1411,NexaTel Nagpur Hub,CT0015,ST010,RG02,Franchise,21-06-2022
+SR1412,NexaTel Lucknow Store,CT0012,ST004,RG01,Franchise,18-07-2017
+SR1413,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Franchise,22-01-2024
+SR1414,NexaTel Siliguri Store,CT0052,ST022,RG04,Experience Centre,21-06-2016
+SR1415,NexaTel Bhubaneswar Hub,CT0022,ST023,RG04,Owned,20-11-2014
+SR1416,NexaTel Udaipur Centre,CT0060,ST005,RG01,Franchise,12-05-2018
+SR1417,NexaTel Cuttack Point,CT0054,ST023,RG04,Owned,21-03-2023
+SR1418,NexaTel Warangal Centre,CT0043,ST019,RG03,Experience Centre,21-02-2012
+SR1419,NexaTel Aizawl Hub,CT0067,ST032,RG04,Experience Centre,02-02-2022
+SR1420,NexaTel Nagpur Point,CT0015,ST010,RG02,Experience Centre,24-07-2022
+SR1421,NexaTel Aurangabad Point,CT0038,ST010,RG02,Franchise,25-09-2022
+SR1422,NexaTel Imphal Point,CT0064,ST031,RG04,Franchise,04-07-2021
+SR1423,NexaTel Bikaner Centre,CT0051,ST005,RG01,Mini Store,11-12-2023
+SR1424,NexaTel Ranchi Hub,CT0025,ST025,RG04,Experience Centre,21-02-2019
+SR1425,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Experience Centre,14-12-2021
+SR1426,NexaTel Aurangabad Centre,CT0038,ST010,RG02,Owned,26-05-2025
+SR1427,NexaTel Agra Point,CT0039,ST004,RG01,Franchise,13-07-2017
+SR1428,NexaTel Tirupati Hub,CT0042,ST018,RG03,Franchise,07-12-2018
+SR1429,NexaTel New Delhi Centre,CT0001,ST001,RG01,Mini Store,21-07-2013
+SR1430,NexaTel Ludhiana Point,CT0031,ST003,RG01,Owned,18-03-2024
+SR1431,NexaTel Kanpur Hub,CT0036,ST004,RG01,Franchise,07-09-2016
+SR1432,NexaTel Gwalior Centre,CT0048,ST012,RG02,Owned,21-08-2012
+SR1433,NexaTel Durgapur Centre,CT0053,ST022,RG04,Mini Store,19-05-2012
+SR1434,NexaTel Bengaluru Store,CT0003,ST015,RG03,Franchise,29-05-2018
+SR1435,NexaTel Ahmedabad Express,CT0008,ST011,RG02,Owned,09-11-2017
+SR1436,NexaTel Shillong Point,CT0065,ST034,RG04,Franchise,09-10-2021
+SR1437,NexaTel Gurugram Express,CT0009,ST002,RG01,Franchise,27-11-2010
+SR1438,NexaTel Pune Point,CT0007,ST010,RG02,Franchise,10-02-2017
+SR1439,NexaTel Mysuru Centre,CT0027,ST015,RG03,Owned,23-06-2016
+SR1440,NexaTel Jabalpur Centre,CT0049,ST012,RG02,Franchise,13-03-2023
+SR1441,NexaTel Surat Express,CT0019,ST011,RG02,Owned,11-05-2022
+SR1442,NexaTel Nagpur Store,CT0015,ST010,RG02,Franchise,07-10-2023
+SR1443,NexaTel Ludhiana Express,CT0031,ST003,RG01,Owned,27-02-2024
+SR1444,NexaTel Kochi Hub,CT0017,ST017,RG03,Owned,09-02-2022
+SR1445,NexaTel Warangal Express,CT0043,ST019,RG03,Owned,25-04-2018
+SR1446,NexaTel Varanasi Hub,CT0037,ST004,RG01,Franchise,07-10-2018
+SR1447,NexaTel Hubballi Hub,CT0047,ST015,RG03,Owned,22-05-2025
+SR1448,NexaTel Thiruvananthapuram Store,CT0034,ST017,RG03,Franchise,26-10-2011
+SR1449,NexaTel Noida Hub,CT0010,ST004,RG01,Franchise,26-02-2017
+SR1450,NexaTel Kota Store,CT0050,ST005,RG01,Franchise,24-08-2014
+SR1451,NexaTel Ajmer Point,CT0040,ST005,RG01,Franchise,31-05-2015
+SR1452,NexaTel Tiruchirappalli Store,CT0045,ST016,RG03,Franchise,15-09-2018
+SR1453,NexaTel Gangtok Point,CT0068,ST028,RG04,Experience Centre,13-04-2013
+SR1454,NexaTel Visakhapatnam Hub,CT0018,ST018,RG03,Owned,19-05-2015
+SR1455,NexaTel Vadodara Point,CT0020,ST011,RG02,Mini Store,26-02-2016
+SR1456,NexaTel Gurugram Hub,CT0009,ST002,RG01,Owned,03-10-2015
+SR1457,NexaTel Tiruchirappalli Centre,CT0045,ST016,RG03,Mini Store,26-02-2010
+SR1458,NexaTel Durgapur Hub,CT0053,ST022,RG04,Experience Centre,28-09-2014
+SR1459,NexaTel Hyderabad Point,CT0006,ST019,RG03,Owned,27-07-2024
+SR1460,NexaTel Mysuru Store,CT0027,ST015,RG03,Franchise,08-05-2014
+SR1461,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Franchise,15-11-2011
+SR1462,NexaTel Noida Store,CT0010,ST004,RG01,Experience Centre,09-12-2010
+SR1463,NexaTel Mumbai Express,CT0002,ST010,RG02,Mini Store,22-05-2016
+SR1464,NexaTel Bikaner Centre,CT0051,ST005,RG01,Mini Store,12-05-2017
+SR1465,NexaTel Aurangabad Centre,CT0038,ST010,RG02,Franchise,27-11-2024
+SR1466,NexaTel Ludhiana Store,CT0031,ST003,RG01,Franchise,03-06-2022
+SR1467,NexaTel Coimbatore Hub,CT0016,ST016,RG03,Mini Store,17-03-2023
+SR1468,NexaTel Hyderabad Store,CT0006,ST019,RG03,Owned,18-10-2012
+SR1469,NexaTel Bengaluru Express,CT0003,ST015,RG03,Franchise,24-08-2012
+SR1470,NexaTel Pune Centre,CT0007,ST010,RG02,Mini Store,15-01-2010
+SR1471,NexaTel Surat Express,CT0019,ST011,RG02,Owned,16-08-2020
+SR1472,NexaTel Siliguri Hub,CT0052,ST022,RG04,Franchise,24-12-2024
+SR1473,NexaTel Kolkata Express,CT0005,ST022,RG04,Franchise,03-11-2018
+SR1474,NexaTel Visakhapatnam Point,CT0018,ST018,RG03,Franchise,18-01-2017
+SR1475,NexaTel Bilaspur Store,CT0059,ST027,RG04,Franchise,17-12-2023
+SR1476,NexaTel Bikaner Point,CT0051,ST005,RG01,Franchise,23-01-2022
+SR1477,NexaTel Noida Point,CT0010,ST004,RG01,Owned,15-11-2017
+SR1478,NexaTel Ranchi Hub,CT0025,ST025,RG04,Owned,22-07-2019
+SR1479,NexaTel Ludhiana Express,CT0031,ST003,RG01,Franchise,07-12-2015
+SR1480,NexaTel Ahmedabad Express,CT0008,ST011,RG02,Franchise,19-11-2011
+SR1481,NexaTel Gaya Store,CT0057,ST024,RG04,Mini Store,16-10-2010
+SR1482,NexaTel Tirupati Hub,CT0042,ST018,RG03,Mini Store,02-04-2016
+SR1483,NexaTel Coimbatore Point,CT0016,ST016,RG03,Franchise,17-02-2017
+SR1484,NexaTel Shimla Point,CT0061,ST007,RG01,Franchise,25-09-2018
+SR1485,NexaTel Salem Hub,CT0044,ST016,RG03,Experience Centre,28-09-2020
+SR1486,NexaTel Durgapur Express,CT0053,ST022,RG04,Owned,18-07-2013
+SR1487,NexaTel Tirupati Store,CT0042,ST018,RG03,Franchise,24-03-2018
+SR1488,NexaTel Kolkata Point,CT0005,ST022,RG04,Franchise,21-02-2021
+SR1489,NexaTel Vijayawada Store,CT0029,ST018,RG03,Franchise,19-10-2012
+SR1490,NexaTel Amritsar Express,CT0032,ST003,RG01,Franchise,09-06-2021
+SR1491,NexaTel Jabalpur Express,CT0049,ST012,RG02,Owned,30-07-2019
+SR1492,NexaTel Raipur Hub,CT0026,ST027,RG04,Franchise,07-03-2018
+SR1493,NexaTel Durgapur Express,CT0053,ST022,RG04,Franchise,02-01-2024
+SR1494,NexaTel Kochi Point,CT0017,ST017,RG03,Franchise,31-12-2011
+SR1495,NexaTel New Delhi Hub,CT0001,ST001,RG01,Franchise,03-02-2019
+SR1496,NexaTel Bhagalpur Store,CT0056,ST024,RG04,Franchise,05-11-2013
+SR1497,NexaTel Vijayawada Hub,CT0029,ST018,RG03,Franchise,09-02-2018
+SR1498,NexaTel Nashik Centre,CT0030,ST010,RG02,Mini Store,07-06-2020
+SR1499,NexaTel Cuttack Point,CT0054,ST023,RG04,Mini Store,15-10-2013
+SR1500,NexaTel Bikaner Hub,CT0051,ST005,RG01,Franchise,12-02-2019
+SR1501,NexaTel Aurangabad Store,CT0038,ST010,RG02,Franchise,28-05-2024
+SR1502,NexaTel Kota Centre,CT0050,ST005,RG01,Mini Store,21-10-2013
+SR1503,NexaTel Shillong Store,CT0065,ST034,RG04,Owned,01-12-2023
+SR1504,NexaTel Gaya Point,CT0057,ST024,RG04,Franchise,29-12-2010
+SR1505,NexaTel Belagavi Express,CT0041,ST015,RG03,Franchise,02-03-2020
+SR1506,NexaTel Ajmer Centre,CT0040,ST005,RG01,Franchise,04-05-2020
+SR1507,NexaTel Surat Point,CT0019,ST011,RG02,Owned,07-02-2024
+SR1508,NexaTel Siliguri Point,CT0052,ST022,RG04,Mini Store,10-12-2013
+SR1509,NexaTel Gangtok Hub,CT0068,ST028,RG04,Owned,16-10-2017
+SR1510,NexaTel Chennai Express,CT0004,ST016,RG03,Franchise,08-04-2019
+SR1511,NexaTel Dehradun Hub,CT0033,ST006,RG01,Franchise,30-06-2023
+SR1512,NexaTel Nashik Store,CT0030,ST010,RG02,Franchise,21-12-2010
+SR1513,NexaTel Pune Express,CT0007,ST010,RG02,Franchise,08-01-2019
+SR1514,NexaTel Bilaspur Point,CT0059,ST027,RG04,Franchise,22-11-2016
+SR1515,NexaTel Ranchi Express,CT0025,ST025,RG04,Owned,23-01-2014
+SR1516,NexaTel Mumbai Hub,CT0002,ST010,RG02,Mini Store,18-01-2023
+SR1517,NexaTel Nagpur Centre,CT0015,ST010,RG02,Owned,12-08-2011
+SR1518,NexaTel Mysuru Hub,CT0027,ST015,RG03,Mini Store,29-10-2013
+SR1519,NexaTel Ajmer Hub,CT0040,ST005,RG01,Experience Centre,23-04-2015
+SR1520,NexaTel Dehradun Point,CT0033,ST006,RG01,Owned,26-11-2022
+SR1521,NexaTel Cuttack Centre,CT0054,ST023,RG04,Franchise,30-11-2015
+SR1522,NexaTel Hyderabad Store,CT0006,ST019,RG03,Franchise,28-12-2013
+SR1523,NexaTel Aizawl Express,CT0067,ST032,RG04,Franchise,07-05-2025
+SR1524,NexaTel Nagpur Store,CT0015,ST010,RG02,Franchise,03-07-2021
+SR1525,NexaTel Bilaspur Centre,CT0059,ST027,RG04,Franchise,20-08-2011
+SR1526,NexaTel Chandigarh Store,CT0023,ST009,RG01,Franchise,01-05-2017
+SR1527,NexaTel Shimla Store,CT0061,ST007,RG01,Owned,12-11-2011
+SR1528,NexaTel Raipur Express,CT0026,ST027,RG04,Franchise,03-07-2021
+SR1529,NexaTel Belagavi Centre,CT0041,ST015,RG03,Mini Store,23-01-2017
+SR1530,NexaTel Lucknow Hub,CT0012,ST004,RG01,Mini Store,06-02-2023
+SR1531,NexaTel Kochi Express,CT0017,ST017,RG03,Franchise,02-04-2010
+SR1532,NexaTel Gangtok Express,CT0068,ST028,RG04,Experience Centre,17-02-2025
+SR1533,NexaTel Gurugram Store,CT0009,ST002,RG01,Mini Store,28-03-2024
+SR1534,NexaTel Gaya Centre,CT0057,ST024,RG04,Mini Store,14-01-2016
+SR1535,NexaTel Surat Point,CT0019,ST011,RG02,Owned,08-04-2011
+SR1536,NexaTel Kollam Express,CT0046,ST017,RG03,Franchise,13-11-2018
+SR1537,NexaTel Ahmedabad Store,CT0008,ST011,RG02,Franchise,01-02-2013
+SR1538,NexaTel Bhagalpur Express,CT0056,ST024,RG04,Franchise,24-04-2021
+SR1539,NexaTel Bhubaneswar Store,CT0022,ST023,RG04,Franchise,31-10-2017
+SR1540,NexaTel Kota Hub,CT0050,ST005,RG01,Franchise,13-10-2018
+SR1541,NexaTel Surat Hub,CT0019,ST011,RG02,Mini Store,19-07-2016
+SR1542,NexaTel Ajmer Hub,CT0040,ST005,RG01,Franchise,01-04-2014
+SR1543,NexaTel Gwalior Point,CT0048,ST012,RG02,Owned,07-03-2012
+SR1544,NexaTel Imphal Express,CT0064,ST031,RG04,Owned,30-09-2020
+SR1545,NexaTel Indore Express,CT0013,ST012,RG02,Franchise,19-12-2020
+SR1546,NexaTel Belagavi Express,CT0041,ST015,RG03,Franchise,10-07-2018
+SR1547,NexaTel Agartala Hub,CT0066,ST033,RG04,Franchise,16-07-2018
+SR1548,NexaTel Guwahati Express,CT0024,ST026,RG04,Owned,20-11-2017
+SR1549,NexaTel Hyderabad Store,CT0006,ST019,RG03,Franchise,07-01-2024
+SR1550,NexaTel Panaji Store,CT0063,ST013,RG02,Owned,10-08-2021
+SR1551,NexaTel Agra Hub,CT0039,ST004,RG01,Owned,02-11-2011
+SR1552,NexaTel Cuttack Hub,CT0054,ST023,RG04,Franchise,05-11-2013
+SR1553,NexaTel Jammu Hub,CT0062,ST008,RG01,Mini Store,16-04-2023
+SR1554,NexaTel Imphal Store,CT0064,ST031,RG04,Owned,25-06-2020
+SR1555,NexaTel Thiruvananthapuram Centre,CT0034,ST017,RG03,Experience Centre,30-12-2018
+SR1556,NexaTel Madurai Store,CT0028,ST016,RG03,Franchise,06-02-2010
+SR1557,NexaTel Jaipur Store,CT0011,ST005,RG01,Franchise,03-11-2019
+SR1558,NexaTel Patna Store,CT0021,ST024,RG04,Owned,05-12-2022
+SR1559,NexaTel Cuttack Centre,CT0054,ST023,RG04,Mini Store,05-07-2019
+SR1560,NexaTel Bhubaneswar Centre,CT0022,ST023,RG04,Owned,27-07-2024
+SR1561,NexaTel Chennai Hub,CT0004,ST016,RG03,Franchise,20-09-2011
+SR1562,NexaTel Shimla Express,CT0061,ST007,RG01,Owned,22-11-2021
+SR1563,NexaTel Guwahati Point,CT0024,ST026,RG04,Owned,20-03-2010
+SR1564,NexaTel Dehradun Hub,CT0033,ST006,RG01,Owned,02-08-2021
+SR1565,NexaTel Udaipur Hub,CT0060,ST005,RG01,Owned,25-09-2019
+SR1566,NexaTel Ahmedabad Point,CT0008,ST011,RG02,Mini Store,09-09-2012
+SR1567,NexaTel Siliguri Centre,CT0052,ST022,RG04,Franchise,28-03-2020
+SR1568,NexaTel Hubballi Point,CT0047,ST015,RG03,Franchise,22-03-2015
+SR1569,NexaTel Varanasi Hub,CT0037,ST004,RG01,Franchise,28-12-2010
+SR1570,NexaTel Ajmer Point,CT0040,ST005,RG01,Franchise,18-06-2023
+SR1571,NexaTel Bikaner Centre,CT0051,ST005,RG01,Mini Store,28-12-2013
+SR1572,NexaTel Gwalior Point,CT0048,ST012,RG02,Owned,12-04-2017
+SR1573,NexaTel Hubballi Hub,CT0047,ST015,RG03,Franchise,25-09-2019
+SR1574,NexaTel Mysuru Express,CT0027,ST015,RG03,Experience Centre,03-02-2014
+SR1575,NexaTel Madurai Centre,CT0028,ST016,RG03,Experience Centre,17-10-2010
+SR1576,NexaTel Hubballi Hub,CT0047,ST015,RG03,Franchise,04-03-2019
+SR1577,NexaTel Cuttack Hub,CT0054,ST023,RG04,Owned,21-03-2018
+SR1578,NexaTel Jodhpur Hub,CT0035,ST005,RG01,Owned,24-07-2012
+SR1579,NexaTel Warangal Hub,CT0043,ST019,RG03,Franchise,07-05-2017
+SR1580,NexaTel Madurai Express,CT0028,ST016,RG03,Franchise,14-07-2011
+SR1581,NexaTel Amritsar Hub,CT0032,ST003,RG01,Franchise,17-10-2016
+SR1582,NexaTel Cuttack Hub,CT0054,ST023,RG04,Owned,06-11-2016
+SR1583,NexaTel Chennai Store,CT0004,ST016,RG03,Mini Store,09-08-2021
+SR1584,NexaTel Surat Point,CT0019,ST011,RG02,Franchise,06-05-2022
+SR1585,NexaTel Gaya Hub,CT0057,ST024,RG04,Mini Store,09-02-2010
+SR1586,NexaTel Guwahati Express,CT0024,ST026,RG04,Mini Store,26-05-2024
+SR1587,NexaTel Bhagalpur Centre,CT0056,ST024,RG04,Franchise,29-07-2017
+SR1588,NexaTel Lucknow Centre,CT0012,ST004,RG01,Mini Store,11-09-2024
+SR1589,NexaTel Mysuru Hub,CT0027,ST015,RG03,Owned,06-05-2014
+SR1590,NexaTel Durgapur Hub,CT0053,ST022,RG04,Franchise,07-03-2017
+SR1591,NexaTel Chennai Express,CT0004,ST016,RG03,Mini Store,03-01-2014
+SR1592,NexaTel Kochi Hub,CT0017,ST017,RG03,Mini Store,26-01-2015
+SR1593,NexaTel Gwalior Centre,CT0048,ST012,RG02,Franchise,12-12-2014
+SR1594,NexaTel Jammu Express,CT0062,ST008,RG01,Mini Store,23-03-2020
+SR1595,NexaTel Lucknow Centre,CT0012,ST004,RG01,Franchise,10-08-2019
+SR1596,NexaTel Aurangabad Point,CT0038,ST010,RG02,Owned,27-05-2021
+SR1597,NexaTel New Delhi Point,CT0001,ST001,RG01,Mini Store,17-03-2011
+SR1598,NexaTel Ahmedabad Hub,CT0008,ST011,RG02,Mini Store,02-03-2015
+SR1599,NexaTel Mumbai Hub,CT0002,ST010,RG02,Mini Store,04-04-2013
+SR1600,NexaTel Jammu Point,CT0062,ST008,RG01,Mini Store,31-12-2013
+SR1601,NexaTel Bhubaneswar Hub,CT0022,ST023,RG04,Franchise,08-05-2020
+SR1602,NexaTel Thiruvananthapuram Centre,CT0034,ST017,RG03,Owned,06-05-2023
+SR1603,NexaTel Panaji Hub,CT0063,ST013,RG02,Franchise,27-06-2014
+SR1604,NexaTel Tiruchirappalli Centre,CT0045,ST016,RG03,Mini Store,07-10-2023
+SR1605,NexaTel Bikaner Express,CT0051,ST005,RG01,Franchise,09-07-2017
+SR1606,NexaTel Kota Point,CT0050,ST005,RG01,Franchise,20-12-2016
+SR1607,NexaTel Ranchi Store,CT0025,ST025,RG04,Franchise,08-05-2022
+SR1608,NexaTel Visakhapatnam Express,CT0018,ST018,RG03,Mini Store,21-11-2015
+SR1609,NexaTel Hyderabad Express,CT0006,ST019,RG03,Franchise,30-10-2019
+SR1610,NexaTel Ahmedabad Centre,CT0008,ST011,RG02,Franchise,03-02-2013
+SR1611,NexaTel Warangal Hub,CT0043,ST019,RG03,Mini Store,21-08-2010
+SR1612,NexaTel Aurangabad Centre,CT0038,ST010,RG02,Franchise,23-02-2023
+SR1613,NexaTel Warangal Store,CT0043,ST019,RG03,Franchise,20-06-2011
+SR1614,NexaTel Pune Centre,CT0007,ST010,RG02,Owned,29-01-2021
+SR1615,NexaTel Mumbai Express,CT0002,ST010,RG02,Owned,31-08-2020
+SR1616,NexaTel Durgapur Store,CT0053,ST022,RG04,Franchise,14-01-2025
+SR1617,NexaTel Pune Point,CT0007,ST010,RG02,Franchise,01-10-2014
+SR1618,NexaTel Bhagalpur Express,CT0056,ST024,RG04,Franchise,08-12-2021
+SR1619,NexaTel Guwahati Point,CT0024,ST026,RG04,Owned,27-06-2011
+SR1620,NexaTel Gaya Centre,CT0057,ST024,RG04,Franchise,04-09-2021
+SR1621,NexaTel Kollam Store,CT0046,ST017,RG03,Mini Store,12-11-2012
+SR1622,NexaTel Mysuru Centre,CT0027,ST015,RG03,Franchise,28-09-2020
+SR1623,NexaTel Mysuru Express,CT0027,ST015,RG03,Mini Store,01-05-2011
+SR1624,NexaTel Tiruchirappalli Store,CT0045,ST016,RG03,Mini Store,10-03-2011
+SR1625,NexaTel Shimla Express,CT0061,ST007,RG01,Experience Centre,02-05-2022
+SR1626,NexaTel Pune Store,CT0007,ST010,RG02,Mini Store,17-09-2014
+SR1627,NexaTel Kota Hub,CT0050,ST005,RG01,Franchise,20-07-2018
+SR1628,NexaTel Ahmedabad Point,CT0008,ST011,RG02,Mini Store,26-04-2013
+SR1629,NexaTel Bengaluru Centre,CT0003,ST015,RG03,Franchise,23-12-2021
+SR1630,NexaTel Agartala Centre,CT0066,ST033,RG04,Franchise,25-11-2017
+SR1631,NexaTel Agartala Hub,CT0066,ST033,RG04,Franchise,27-07-2011
+SR1632,NexaTel Varanasi Hub,CT0037,ST004,RG01,Experience Centre,08-05-2013
+SR1633,NexaTel Aurangabad Store,CT0038,ST010,RG02,Franchise,05-10-2014
+SR1634,NexaTel Kochi Centre,CT0017,ST017,RG03,Franchise,07-02-2024
+SR1635,NexaTel Mysuru Centre,CT0027,ST015,RG03,Mini Store,19-05-2022
+SR1636,NexaTel Gaya Express,CT0057,ST024,RG04,Franchise,04-01-2016
+SR1637,NexaTel Durgapur Centre,CT0053,ST022,RG04,Franchise,13-04-2015
+SR1638,NexaTel Guwahati Store,CT0024,ST026,RG04,Owned,23-07-2016
+SR1639,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Franchise,03-05-2024
+SR1640,NexaTel Ludhiana Centre,CT0031,ST003,RG01,Franchise,03-07-2017
+SR1641,NexaTel New Delhi Store,CT0001,ST001,RG01,Franchise,25-04-2025
+SR1642,NexaTel Tirupati Store,CT0042,ST018,RG03,Experience Centre,06-06-2018
+SR1643,NexaTel Nagpur Hub,CT0015,ST010,RG02,Experience Centre,29-10-2014
+SR1644,NexaTel Bilaspur Centre,CT0059,ST027,RG04,Franchise,15-08-2020
+SR1645,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,01-02-2013
+SR1646,NexaTel Patna Hub,CT0021,ST024,RG04,Franchise,15-11-2024
+SR1647,NexaTel Visakhapatnam Express,CT0018,ST018,RG03,Experience Centre,15-07-2019
+SR1648,NexaTel Shillong Store,CT0065,ST034,RG04,Experience Centre,11-12-2018
+SR1649,NexaTel Gangtok Express,CT0068,ST028,RG04,Experience Centre,07-01-2025
+SR1650,NexaTel Rourkela Express,CT0055,ST023,RG04,Franchise,22-03-2021
+SR1651,NexaTel Kochi Point,CT0017,ST017,RG03,Franchise,14-04-2017
+SR1652,NexaTel Aurangabad Hub,CT0038,ST010,RG02,Franchise,26-08-2017
+SR1653,NexaTel Indore Point,CT0013,ST012,RG02,Owned,08-08-2020
+SR1654,NexaTel Chandigarh Store,CT0023,ST009,RG01,Franchise,09-11-2019
+SR1655,NexaTel Hubballi Store,CT0047,ST015,RG03,Franchise,27-09-2015
+SR1656,NexaTel Rourkela Centre,CT0055,ST023,RG04,Experience Centre,08-04-2019
+SR1657,NexaTel Vijayawada Store,CT0029,ST018,RG03,Mini Store,25-03-2012
+SR1658,NexaTel Kollam Express,CT0046,ST017,RG03,Mini Store,07-05-2015
+SR1659,NexaTel Jodhpur Store,CT0035,ST005,RG01,Franchise,27-09-2021
+SR1660,NexaTel Jamshedpur Hub,CT0058,ST025,RG04,Mini Store,28-02-2024
+SR1661,NexaTel Siliguri Store,CT0052,ST022,RG04,Franchise,11-10-2024
+SR1662,NexaTel Visakhapatnam Hub,CT0018,ST018,RG03,Owned,27-09-2015
+SR1663,NexaTel Madurai Express,CT0028,ST016,RG03,Mini Store,31-05-2019
+SR1664,NexaTel Kota Centre,CT0050,ST005,RG01,Mini Store,18-11-2022
+SR1665,NexaTel Indore Store,CT0013,ST012,RG02,Franchise,13-10-2023
+SR1666,NexaTel Aurangabad Point,CT0038,ST010,RG02,Franchise,11-07-2010
+SR1667,NexaTel Bhubaneswar Express,CT0022,ST023,RG04,Owned,14-05-2015
+SR1668,NexaTel Bhubaneswar Express,CT0022,ST023,RG04,Owned,09-03-2025
+SR1669,NexaTel Kolkata Express,CT0005,ST022,RG04,Owned,23-01-2016
+SR1670,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,10-04-2019
+SR1671,NexaTel Belagavi Store,CT0041,ST015,RG03,Franchise,24-10-2015
+SR1672,NexaTel Durgapur Store,CT0053,ST022,RG04,Mini Store,03-10-2021
+SR1673,NexaTel Kochi Centre,CT0017,ST017,RG03,Franchise,11-03-2018
+SR1674,NexaTel Bengaluru Point,CT0003,ST015,RG03,Experience Centre,07-11-2013
+SR1675,NexaTel Aizawl Point,CT0067,ST032,RG04,Mini Store,11-01-2022
+SR1676,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Franchise,18-06-2024
+SR1677,NexaTel Vadodara Express,CT0020,ST011,RG02,Owned,09-12-2010
+SR1678,NexaTel Lucknow Store,CT0012,ST004,RG01,Franchise,13-01-2011
+SR1679,NexaTel Kochi Centre,CT0017,ST017,RG03,Owned,08-01-2015
+SR1680,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Franchise,25-11-2024
+SR1681,NexaTel Mysuru Hub,CT0027,ST015,RG03,Mini Store,17-06-2022
+SR1682,NexaTel Belagavi Centre,CT0041,ST015,RG03,Mini Store,25-12-2016
+SR1683,NexaTel Jaipur Centre,CT0011,ST005,RG01,Franchise,15-11-2011
+SR1684,NexaTel Noida Store,CT0010,ST004,RG01,Franchise,01-09-2010
+SR1685,NexaTel Bengaluru Hub,CT0003,ST015,RG03,Franchise,05-10-2012
+SR1686,NexaTel New Delhi Centre,CT0001,ST001,RG01,Franchise,11-07-2017
+SR1687,NexaTel Shimla Express,CT0061,ST007,RG01,Franchise,15-04-2020
+SR1688,NexaTel Patna Centre,CT0021,ST024,RG04,Franchise,17-10-2022
+SR1689,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Owned,26-07-2013
+SR1690,NexaTel Udaipur Hub,CT0060,ST005,RG01,Mini Store,15-09-2014
+SR1691,NexaTel Panaji Hub,CT0063,ST013,RG02,Franchise,07-01-2016
+SR1692,NexaTel Panaji Centre,CT0063,ST013,RG02,Franchise,21-04-2014
+SR1693,NexaTel Warangal Store,CT0043,ST019,RG03,Franchise,20-07-2013
+SR1694,NexaTel Bhopal Point,CT0014,ST012,RG02,Experience Centre,20-10-2015
+SR1695,NexaTel Gurugram Store,CT0009,ST002,RG01,Owned,30-06-2012
+SR1696,NexaTel Amritsar Centre,CT0032,ST003,RG01,Owned,02-05-2020
+SR1697,NexaTel Bhopal Hub,CT0014,ST012,RG02,Owned,19-04-2015
+SR1698,NexaTel Aurangabad Centre,CT0038,ST010,RG02,Owned,13-05-2018
+SR1699,NexaTel Ajmer Hub,CT0040,ST005,RG01,Franchise,22-06-2010
+SR1700,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Owned,07-02-2019
+SR1701,NexaTel Jaipur Store,CT0011,ST005,RG01,Owned,10-09-2022
+SR1702,NexaTel Panaji Express,CT0063,ST013,RG02,Mini Store,01-05-2015
+SR1703,NexaTel Lucknow Store,CT0012,ST004,RG01,Owned,05-05-2012
+SR1704,NexaTel Ludhiana Express,CT0031,ST003,RG01,Owned,03-09-2024
+SR1705,NexaTel Jodhpur Point,CT0035,ST005,RG01,Owned,30-03-2020
+SR1706,NexaTel Siliguri Store,CT0052,ST022,RG04,Owned,30-03-2016
+SR1707,NexaTel Aurangabad Store,CT0038,ST010,RG02,Owned,26-11-2015
+SR1708,NexaTel Jamshedpur Express,CT0058,ST025,RG04,Franchise,08-03-2014
+SR1709,NexaTel Patna Point,CT0021,ST024,RG04,Franchise,01-08-2023
+SR1710,NexaTel Kolkata Store,CT0005,ST022,RG04,Franchise,04-02-2013
+SR1711,NexaTel Hubballi Hub,CT0047,ST015,RG03,Franchise,05-11-2022
+SR1712,NexaTel Durgapur Hub,CT0053,ST022,RG04,Owned,17-01-2013
+SR1713,NexaTel Thiruvananthapuram Hub,CT0034,ST017,RG03,Mini Store,09-01-2014
+SR1714,NexaTel Jaipur Hub,CT0011,ST005,RG01,Franchise,07-06-2010
+SR1715,NexaTel Hyderabad Centre,CT0006,ST019,RG03,Owned,30-05-2025
+SR1716,NexaTel Nashik Point,CT0030,ST010,RG02,Mini Store,10-05-2019
+SR1717,NexaTel Bhopal Point,CT0014,ST012,RG02,Franchise,25-08-2019
+SR1718,NexaTel Jamshedpur Hub,CT0058,ST025,RG04,Franchise,08-07-2022
+SR1719,NexaTel Kanpur Store,CT0036,ST004,RG01,Owned,22-07-2023
+SR1720,NexaTel Jabalpur Centre,CT0049,ST012,RG02,Owned,14-10-2024
+SR1721,NexaTel Kolkata Express,CT0005,ST022,RG04,Owned,18-02-2014
+SR1722,NexaTel Kanpur Express,CT0036,ST004,RG01,Owned,06-01-2024
+SR1723,NexaTel Nagpur Store,CT0015,ST010,RG02,Franchise,05-10-2024
+SR1724,NexaTel Agra Store,CT0039,ST004,RG01,Franchise,16-11-2013
+SR1725,NexaTel Gwalior Centre,CT0048,ST012,RG02,Franchise,10-01-2013
+SR1726,NexaTel Aurangabad Centre,CT0038,ST010,RG02,Franchise,26-05-2025
+SR1727,NexaTel Kollam Hub,CT0046,ST017,RG03,Experience Centre,30-05-2015
+SR1728,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,24-02-2021
+SR1729,NexaTel Imphal Point,CT0064,ST031,RG04,Mini Store,23-11-2015
+SR1730,NexaTel Cuttack Hub,CT0054,ST023,RG04,Franchise,08-04-2010
+SR1731,NexaTel Nashik Point,CT0030,ST010,RG02,Owned,28-12-2022
+SR1732,NexaTel Nashik Centre,CT0030,ST010,RG02,Experience Centre,04-07-2023
+SR1733,NexaTel Vadodara Store,CT0020,ST011,RG02,Franchise,24-12-2022
+SR1734,NexaTel Aurangabad Hub,CT0038,ST010,RG02,Franchise,17-12-2015
+SR1735,NexaTel Ranchi Centre,CT0025,ST025,RG04,Owned,22-07-2022
+SR1736,NexaTel Bhopal Store,CT0014,ST012,RG02,Franchise,02-06-2024
+SR1737,NexaTel Bhagalpur Hub,CT0056,ST024,RG04,Mini Store,07-08-2021
+SR1738,NexaTel Tirupati Express,CT0042,ST018,RG03,Franchise,01-03-2012
+SR1739,NexaTel Vadodara Express,CT0020,ST011,RG02,Mini Store,18-09-2017
+SR1740,NexaTel Durgapur Centre,CT0053,ST022,RG04,Owned,17-11-2022
+SR1741,NexaTel Belagavi Store,CT0041,ST015,RG03,Owned,17-07-2012
+SR1742,NexaTel Siliguri Point,CT0052,ST022,RG04,Owned,29-07-2022
+SR1743,NexaTel Ranchi Point,CT0025,ST025,RG04,Owned,30-10-2019
+SR1744,NexaTel Kota Centre,CT0050,ST005,RG01,Owned,25-03-2010
+SR1745,NexaTel Jodhpur Express,CT0035,ST005,RG01,Franchise,11-01-2010
+SR1746,NexaTel Visakhapatnam Point,CT0018,ST018,RG03,Mini Store,09-05-2023
+SR1747,NexaTel Lucknow Store,CT0012,ST004,RG01,Owned,30-03-2020
+SR1748,NexaTel Shillong Store,CT0065,ST034,RG04,Owned,24-08-2017
+SR1749,NexaTel Aurangabad Express,CT0038,ST010,RG02,Mini Store,13-10-2010
+SR1750,NexaTel Shimla Point,CT0061,ST007,RG01,Franchise,28-06-2016
+SR1751,NexaTel Ranchi Express,CT0025,ST025,RG04,Owned,28-10-2022
+SR1752,NexaTel Bhubaneswar Express,CT0022,ST023,RG04,Owned,06-03-2015
+SR1753,NexaTel Jamshedpur Centre,CT0058,ST025,RG04,Mini Store,20-10-2023
+SR1754,NexaTel Kolkata Point,CT0005,ST022,RG04,Owned,05-03-2016
+SR1755,NexaTel Belagavi Point,CT0041,ST015,RG03,Franchise,19-04-2019
+SR1756,NexaTel Udaipur Express,CT0060,ST005,RG01,Experience Centre,27-01-2020
+SR1757,NexaTel Jammu Centre,CT0062,ST008,RG01,Franchise,17-10-2023
+SR1758,NexaTel Rourkela Hub,CT0055,ST023,RG04,Experience Centre,27-06-2018
+SR1759,NexaTel Pune Hub,CT0007,ST010,RG02,Franchise,03-01-2011
+SR1760,NexaTel Salem Store,CT0044,ST016,RG03,Owned,27-06-2019
+SR1761,NexaTel Chennai Point,CT0004,ST016,RG03,Owned,18-12-2015
+SR1762,NexaTel Kolkata Point,CT0005,ST022,RG04,Owned,29-12-2020
+SR1763,NexaTel Jammu Store,CT0062,ST008,RG01,Franchise,02-10-2011
+SR1764,NexaTel Visakhapatnam Store,CT0018,ST018,RG03,Experience Centre,30-07-2010
+SR1765,NexaTel Agra Point,CT0039,ST004,RG01,Franchise,01-02-2013
+SR1766,NexaTel Ranchi Express,CT0025,ST025,RG04,Mini Store,13-10-2016
+SR1767,NexaTel Chandigarh Point,CT0023,ST009,RG01,Owned,29-02-2012
+SR1768,NexaTel Gangtok Centre,CT0068,ST028,RG04,Owned,01-08-2024
+SR1769,NexaTel Varanasi Express,CT0037,ST004,RG01,Franchise,28-07-2013
+SR1770,NexaTel Gangtok Centre,CT0068,ST028,RG04,Franchise,09-09-2012
+SR1771,NexaTel Noida Point,CT0010,ST004,RG01,Franchise,05-06-2019
+SR1772,NexaTel Agartala Store,CT0066,ST033,RG04,Franchise,10-11-2012
+SR1773,NexaTel Cuttack Express,CT0054,ST023,RG04,Franchise,30-04-2020
+SR1774,NexaTel Durgapur Point,CT0053,ST022,RG04,Franchise,14-01-2016
+SR1775,NexaTel Rourkela Express,CT0055,ST023,RG04,Owned,29-04-2015
+SR1776,NexaTel Jamshedpur Store,CT0058,ST025,RG04,Mini Store,05-05-2014
+SR1777,NexaTel Indore Hub,CT0013,ST012,RG02,Mini Store,16-07-2016
+SR1778,NexaTel Noida Hub,CT0010,ST004,RG01,Experience Centre,12-09-2020
+SR1779,NexaTel Varanasi Express,CT0037,ST004,RG01,Owned,06-01-2011
+SR1780,NexaTel Visakhapatnam Store,CT0018,ST018,RG03,Owned,09-02-2017
+SR1781,NexaTel Panaji Store,CT0063,ST013,RG02,Experience Centre,16-11-2013
+SR1782,NexaTel Aurangabad Hub,CT0038,ST010,RG02,Franchise,10-02-2016
+SR1783,NexaTel Cuttack Hub,CT0054,ST023,RG04,Franchise,01-02-2024
+SR1784,NexaTel Gwalior Store,CT0048,ST012,RG02,Franchise,28-12-2010
+SR1785,NexaTel Jodhpur Centre,CT0035,ST005,RG01,Franchise,16-02-2010
+SR1786,NexaTel Noida Hub,CT0010,ST004,RG01,Franchise,22-02-2019
+SR1787,NexaTel Belagavi Express,CT0041,ST015,RG03,Owned,31-03-2022
+SR1788,NexaTel Tiruchirappalli Centre,CT0045,ST016,RG03,Franchise,27-10-2016
+SR1789,NexaTel New Delhi Point,CT0001,ST001,RG01,Mini Store,03-06-2011
+SR1790,NexaTel Kochi Centre,CT0017,ST017,RG03,Franchise,27-05-2012
+SR1791,NexaTel Gwalior Express,CT0048,ST012,RG02,Franchise,17-08-2012
+SR1792,NexaTel Bhopal Store,CT0014,ST012,RG02,Franchise,02-06-2023
+SR1793,NexaTel Aurangabad Point,CT0038,ST010,RG02,Franchise,25-02-2018
+SR1794,NexaTel Pune Hub,CT0007,ST010,RG02,Franchise,21-10-2013
+SR1795,NexaTel Jamshedpur Express,CT0058,ST025,RG04,Mini Store,04-04-2019
+SR1796,NexaTel Chandigarh Point,CT0023,ST009,RG01,Owned,13-02-2019
+SR1797,NexaTel Bhopal Express,CT0014,ST012,RG02,Franchise,07-04-2011
+SR1798,NexaTel Noida Hub,CT0010,ST004,RG01,Franchise,25-06-2015
+SR1799,NexaTel Nagpur Store,CT0015,ST010,RG02,Owned,13-08-2015
+SR1800,NexaTel Lucknow Centre,CT0012,ST004,RG01,Owned,22-10-2012
+SR1801,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,24-04-2014
+SR1802,NexaTel Hubballi Store,CT0047,ST015,RG03,Franchise,28-03-2020
+SR1803,NexaTel Kochi Store,CT0017,ST017,RG03,Franchise,08-04-2010
+SR1804,NexaTel Shillong Express,CT0065,ST034,RG04,Franchise,24-02-2010
+SR1805,NexaTel Madurai Express,CT0028,ST016,RG03,Franchise,07-05-2014
+SR1806,NexaTel Ajmer Express,CT0040,ST005,RG01,Experience Centre,17-09-2015
+SR1807,NexaTel Kollam Hub,CT0046,ST017,RG03,Owned,15-01-2023
+SR1808,NexaTel Patna Point,CT0021,ST024,RG04,Franchise,07-12-2024
+SR1809,NexaTel Panaji Store,CT0063,ST013,RG02,Franchise,01-11-2021
+SR1810,NexaTel Kolkata Point,CT0005,ST022,RG04,Franchise,09-02-2023
+SR1811,NexaTel Kota Hub,CT0050,ST005,RG01,Owned,04-11-2017
+SR1812,NexaTel Coimbatore Store,CT0016,ST016,RG03,Owned,20-09-2010
+SR1813,NexaTel Visakhapatnam Express,CT0018,ST018,RG03,Owned,05-06-2013
+SR1814,NexaTel Varanasi Point,CT0037,ST004,RG01,Owned,24-11-2024
+SR1815,NexaTel Kolkata Centre,CT0005,ST022,RG04,Franchise,25-06-2019
+SR1816,NexaTel Coimbatore Store,CT0016,ST016,RG03,Franchise,25-02-2020
+SR1817,NexaTel Agra Express,CT0039,ST004,RG01,Franchise,15-09-2015
+SR1818,NexaTel Bhubaneswar Store,CT0022,ST023,RG04,Mini Store,20-06-2024
+SR1819,NexaTel Noida Point,CT0010,ST004,RG01,Franchise,17-06-2017
+SR1820,NexaTel Hubballi Point,CT0047,ST015,RG03,Franchise,15-07-2010
+SR1821,NexaTel Ludhiana Hub,CT0031,ST003,RG01,Mini Store,02-10-2015
+SR1822,NexaTel Gangtok Centre,CT0068,ST028,RG04,Franchise,25-04-2016
+SR1823,NexaTel Gwalior Point,CT0048,ST012,RG02,Franchise,21-05-2015
+SR1824,NexaTel Mumbai Centre,CT0002,ST010,RG02,Owned,30-04-2013
+SR1825,NexaTel Jammu Express,CT0062,ST008,RG01,Franchise,25-03-2018
+SR1826,NexaTel Surat Hub,CT0019,ST011,RG02,Franchise,28-05-2020
+SR1827,NexaTel Bikaner Centre,CT0051,ST005,RG01,Franchise,24-12-2013
+SR1828,NexaTel Thiruvananthapuram Point,CT0034,ST017,RG03,Mini Store,04-11-2019
+SR1829,NexaTel Guwahati Store,CT0024,ST026,RG04,Mini Store,23-02-2010
+SR1830,NexaTel Vadodara Store,CT0020,ST011,RG02,Franchise,09-09-2024
+SR1831,NexaTel Durgapur Store,CT0053,ST022,RG04,Franchise,15-02-2012
+SR1832,NexaTel Gangtok Hub,CT0068,ST028,RG04,Owned,03-06-2014
+SR1833,NexaTel Gwalior Express,CT0048,ST012,RG02,Franchise,14-03-2024
+SR1834,NexaTel Gurugram Centre,CT0009,ST002,RG01,Experience Centre,22-02-2013
+SR1835,NexaTel Kota Centre,CT0050,ST005,RG01,Mini Store,28-09-2022
+SR1836,NexaTel Gaya Express,CT0057,ST024,RG04,Franchise,20-07-2018
+SR1837,NexaTel Ahmedabad Store,CT0008,ST011,RG02,Franchise,14-01-2024
+SR1838,NexaTel Hyderabad Centre,CT0006,ST019,RG03,Experience Centre,06-10-2020
+SR1839,NexaTel Amritsar Point,CT0032,ST003,RG01,Owned,07-06-2016
+SR1840,NexaTel Gurugram Hub,CT0009,ST002,RG01,Franchise,29-05-2022
+SR1841,NexaTel Agartala Express,CT0066,ST033,RG04,Owned,05-02-2018
+SR1842,NexaTel Coimbatore Express,CT0016,ST016,RG03,Franchise,30-09-2020
+SR1843,NexaTel Rourkela Centre,CT0055,ST023,RG04,Owned,11-10-2013
+SR1844,NexaTel Imphal Hub,CT0064,ST031,RG04,Owned,03-06-2024
+SR1845,NexaTel Raipur Express,CT0026,ST027,RG04,Owned,09-09-2018
+SR1846,NexaTel Rourkela Express,CT0055,ST023,RG04,Franchise,17-05-2010
+SR1847,NexaTel Kanpur Express,CT0036,ST004,RG01,Owned,07-10-2023
+SR1848,NexaTel Bhagalpur Centre,CT0056,ST024,RG04,Owned,06-06-2016
+SR1849,NexaTel Kanpur Centre,CT0036,ST004,RG01,Franchise,13-08-2015
+SR1850,NexaTel Tiruchirappalli Centre,CT0045,ST016,RG03,Owned,20-04-2010
+SR1851,NexaTel Aizawl Express,CT0067,ST032,RG04,Franchise,02-11-2012
+SR1852,NexaTel Aizawl Express,CT0067,ST032,RG04,Franchise,03-10-2022
+SR1853,NexaTel Gangtok Hub,CT0068,ST028,RG04,Franchise,20-03-2011
+SR1854,NexaTel Durgapur Express,CT0053,ST022,RG04,Owned,30-12-2021
+SR1855,NexaTel Lucknow Store,CT0012,ST004,RG01,Mini Store,14-01-2012
+SR1856,NexaTel Ludhiana Centre,CT0031,ST003,RG01,Owned,30-11-2014
+SR1857,NexaTel Chennai Hub,CT0004,ST016,RG03,Franchise,24-07-2016
+SR1858,NexaTel Kolkata Hub,CT0005,ST022,RG04,Mini Store,22-01-2020
+SR1859,NexaTel Chandigarh Express,CT0023,ST009,RG01,Franchise,03-05-2016
+SR1860,NexaTel Udaipur Point,CT0060,ST005,RG01,Mini Store,08-03-2010
+SR1861,NexaTel New Delhi Centre,CT0001,ST001,RG01,Mini Store,09-04-2021
+SR1862,NexaTel New Delhi Express,CT0001,ST001,RG01,Owned,17-12-2013
+SR1863,NexaTel Shimla Store,CT0061,ST007,RG01,Owned,24-08-2013
+SR1864,NexaTel Panaji Hub,CT0063,ST013,RG02,Mini Store,20-12-2014
+SR1865,NexaTel Ludhiana Point,CT0031,ST003,RG01,Franchise,06-09-2019
+SR1866,NexaTel Kanpur Store,CT0036,ST004,RG01,Franchise,09-12-2024
+SR1867,NexaTel Jammu Express,CT0062,ST008,RG01,Franchise,13-08-2012
+SR1868,NexaTel Bhopal Point,CT0014,ST012,RG02,Owned,22-04-2016
+SR1869,NexaTel Jodhpur Express,CT0035,ST005,RG01,Owned,20-07-2013
+SR1870,NexaTel Warangal Point,CT0043,ST019,RG03,Franchise,09-07-2010
+SR1871,NexaTel Bilaspur Hub,CT0059,ST027,RG04,Owned,28-12-2016
+SR1872,NexaTel Madurai Centre,CT0028,ST016,RG03,Mini Store,09-06-2014
+SR1873,NexaTel Agartala Store,CT0066,ST033,RG04,Owned,22-10-2023
+SR1874,NexaTel Agartala Hub,CT0066,ST033,RG04,Franchise,29-09-2023
+SR1875,NexaTel Gaya Hub,CT0057,ST024,RG04,Owned,25-10-2012
+SR1876,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Owned,13-04-2011
+SR1877,NexaTel Thiruvananthapuram Centre,CT0034,ST017,RG03,Owned,30-11-2017
+SR1878,NexaTel Durgapur Express,CT0053,ST022,RG04,Franchise,12-05-2024
+SR1879,NexaTel Dehradun Point,CT0033,ST006,RG01,Owned,14-10-2019
+SR1880,NexaTel Varanasi Express,CT0037,ST004,RG01,Franchise,24-05-2011
+SR1881,NexaTel Ranchi Express,CT0025,ST025,RG04,Mini Store,19-10-2017
+SR1882,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Franchise,03-06-2022
+SR1883,NexaTel Bhubaneswar Point,CT0022,ST023,RG04,Experience Centre,23-08-2016
+SR1884,NexaTel Gaya Centre,CT0057,ST024,RG04,Owned,28-09-2016
+SR1885,NexaTel Tirupati Point,CT0042,ST018,RG03,Mini Store,18-07-2022
+SR1886,NexaTel Shillong Centre,CT0065,ST034,RG04,Owned,05-05-2014
+SR1887,NexaTel Pune Point,CT0007,ST010,RG02,Franchise,14-10-2018
+SR1888,NexaTel Kota Centre,CT0050,ST005,RG01,Franchise,17-12-2020
+SR1889,NexaTel Amritsar Centre,CT0032,ST003,RG01,Owned,10-06-2015
+SR1890,NexaTel Bikaner Centre,CT0051,ST005,RG01,Mini Store,27-12-2011
+SR1891,NexaTel Lucknow Express,CT0012,ST004,RG01,Owned,04-07-2010
+SR1892,NexaTel Siliguri Hub,CT0052,ST022,RG04,Owned,23-12-2013
+SR1893,NexaTel Varanasi Express,CT0037,ST004,RG01,Franchise,31-03-2022
+SR1894,NexaTel Gaya Centre,CT0057,ST024,RG04,Mini Store,13-12-2017
+SR1895,NexaTel Gurugram Point,CT0009,ST002,RG01,Franchise,21-11-2015
+SR1896,NexaTel Noida Express,CT0010,ST004,RG01,Mini Store,09-06-2014
+SR1897,NexaTel Surat Hub,CT0019,ST011,RG02,Mini Store,10-02-2020
+SR1898,NexaTel Mysuru Point,CT0027,ST015,RG03,Owned,10-12-2017
+SR1899,NexaTel Bhubaneswar Point,CT0022,ST023,RG04,Owned,06-10-2010
+SR1900,NexaTel Jaipur Express,CT0011,ST005,RG01,Mini Store,16-05-2010
+SR1901,NexaTel Chennai Centre,CT0004,ST016,RG03,Franchise,22-04-2025
+SR1902,NexaTel Jabalpur Point,CT0049,ST012,RG02,Franchise,23-11-2014
+SR1903,NexaTel Gurugram Hub,CT0009,ST002,RG01,Owned,27-07-2022
+SR1904,NexaTel Kota Store,CT0050,ST005,RG01,Owned,27-11-2023
+SR1905,NexaTel Gwalior Hub,CT0048,ST012,RG02,Experience Centre,11-04-2024
+SR1906,NexaTel Ludhiana Centre,CT0031,ST003,RG01,Owned,20-12-2024
+SR1907,NexaTel Durgapur Point,CT0053,ST022,RG04,Franchise,27-02-2020
+SR1908,NexaTel Visakhapatnam Express,CT0018,ST018,RG03,Owned,29-09-2022
+SR1909,NexaTel Aurangabad Hub,CT0038,ST010,RG02,Franchise,10-10-2017
+SR1910,NexaTel Hyderabad Express,CT0006,ST019,RG03,Mini Store,27-06-2022
+SR1911,NexaTel Ajmer Centre,CT0040,ST005,RG01,Mini Store,08-12-2010
+SR1912,NexaTel Gwalior Express,CT0048,ST012,RG02,Owned,01-03-2019
+SR1913,NexaTel Imphal Express,CT0064,ST031,RG04,Franchise,25-12-2016
+SR1914,NexaTel New Delhi Store,CT0001,ST001,RG01,Owned,17-08-2013
+SR1915,NexaTel Jamshedpur Point,CT0058,ST025,RG04,Franchise,01-05-2012
+SR1916,NexaTel Pune Express,CT0007,ST010,RG02,Franchise,02-05-2021
+SR1917,NexaTel Aizawl Express,CT0067,ST032,RG04,Owned,03-03-2021
+SR1918,NexaTel Bhopal Point,CT0014,ST012,RG02,Owned,03-01-2010
+SR1919,NexaTel Kanpur Store,CT0036,ST004,RG01,Experience Centre,09-02-2014
+SR1920,NexaTel Bengaluru Centre,CT0003,ST015,RG03,Owned,19-05-2010
+SR1921,NexaTel Vijayawada Express,CT0029,ST018,RG03,Franchise,14-01-2025
+SR1922,NexaTel Udaipur Centre,CT0060,ST005,RG01,Franchise,03-12-2018
+SR1923,NexaTel Gaya Express,CT0057,ST024,RG04,Owned,09-11-2013
+SR1924,NexaTel Hyderabad Express,CT0006,ST019,RG03,Owned,03-06-2021
+SR1925,NexaTel Imphal Hub,CT0064,ST031,RG04,Mini Store,17-01-2014
+SR1926,NexaTel Kochi Point,CT0017,ST017,RG03,Franchise,21-07-2023
+SR1927,NexaTel Nashik Store,CT0030,ST010,RG02,Owned,02-01-2018
+SR1928,NexaTel New Delhi Centre,CT0001,ST001,RG01,Mini Store,29-09-2012
+SR1929,NexaTel Agra Store,CT0039,ST004,RG01,Mini Store,06-06-2016
+SR1930,NexaTel Belagavi Point,CT0041,ST015,RG03,Franchise,03-02-2014
+SR1931,NexaTel Mumbai Store,CT0002,ST010,RG02,Owned,14-01-2010
+SR1932,NexaTel Jaipur Point,CT0011,ST005,RG01,Mini Store,11-10-2013
+SR1933,NexaTel Surat Point,CT0019,ST011,RG02,Franchise,30-10-2015
+SR1934,NexaTel Kanpur Point,CT0036,ST004,RG01,Franchise,12-10-2014
+SR1935,NexaTel Nagpur Centre,CT0015,ST010,RG02,Franchise,24-04-2023
+SR1936,NexaTel Vijayawada Point,CT0029,ST018,RG03,Mini Store,12-04-2021
+SR1937,NexaTel Thiruvananthapuram Centre,CT0034,ST017,RG03,Franchise,01-11-2020
+SR1938,NexaTel Nashik Store,CT0030,ST010,RG02,Mini Store,20-08-2023
+SR1939,NexaTel Aizawl Hub,CT0067,ST032,RG04,Mini Store,30-11-2012
+SR1940,NexaTel Mysuru Point,CT0027,ST015,RG03,Owned,15-11-2014
+SR1941,NexaTel Noida Store,CT0010,ST004,RG01,Franchise,04-01-2012
+SR1942,NexaTel Panaji Store,CT0063,ST013,RG02,Franchise,23-07-2011
+SR1943,NexaTel Kollam Centre,CT0046,ST017,RG03,Owned,02-11-2022
+SR1944,NexaTel Vijayawada Hub,CT0029,ST018,RG03,Franchise,22-11-2024
+SR1945,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Owned,04-12-2012
+SR1946,NexaTel Jamshedpur Store,CT0058,ST025,RG04,Franchise,22-08-2014
+SR1947,NexaTel Bhagalpur Centre,CT0056,ST024,RG04,Franchise,08-06-2019
+SR1948,NexaTel Bhubaneswar Hub,CT0022,ST023,RG04,Franchise,30-04-2018
+SR1949,NexaTel Kollam Centre,CT0046,ST017,RG03,Franchise,04-09-2017
+SR1950,NexaTel Bikaner Store,CT0051,ST005,RG01,Owned,16-11-2010
+SR1951,NexaTel Agra Express,CT0039,ST004,RG01,Franchise,14-09-2010
+SR1952,NexaTel Madurai Centre,CT0028,ST016,RG03,Franchise,03-03-2018
+SR1953,NexaTel Udaipur Store,CT0060,ST005,RG01,Owned,09-09-2020
+SR1954,NexaTel Panaji Hub,CT0063,ST013,RG02,Experience Centre,30-01-2012
+SR1955,NexaTel Warangal Point,CT0043,ST019,RG03,Mini Store,25-03-2014
+SR1956,NexaTel Vadodara Point,CT0020,ST011,RG02,Franchise,24-12-2018
+SR1957,NexaTel Surat Store,CT0019,ST011,RG02,Franchise,09-11-2010
+SR1958,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Franchise,03-05-2021
+SR1959,NexaTel Jamshedpur Point,CT0058,ST025,RG04,Franchise,07-02-2021
+SR1960,NexaTel Indore Express,CT0013,ST012,RG02,Mini Store,04-06-2018
+SR1961,NexaTel Indore Hub,CT0013,ST012,RG02,Franchise,26-01-2011
+SR1962,NexaTel Aurangabad Express,CT0038,ST010,RG02,Franchise,28-11-2020
+SR1963,NexaTel Ahmedabad Point,CT0008,ST011,RG02,Experience Centre,20-06-2011
+SR1964,NexaTel Mumbai Store,CT0002,ST010,RG02,Mini Store,08-09-2013
+SR1965,NexaTel Imphal Store,CT0064,ST031,RG04,Franchise,25-02-2019
+SR1966,NexaTel Indore Centre,CT0013,ST012,RG02,Owned,25-05-2013
+SR1967,NexaTel Imphal Hub,CT0064,ST031,RG04,Owned,17-07-2018
+SR1968,NexaTel Madurai Point,CT0028,ST016,RG03,Mini Store,04-03-2025
+SR1969,NexaTel Amritsar Express,CT0032,ST003,RG01,Owned,14-09-2023
+SR1970,NexaTel Gaya Express,CT0057,ST024,RG04,Franchise,24-05-2024
+SR1971,NexaTel Kochi Express,CT0017,ST017,RG03,Mini Store,21-09-2012
+SR1972,NexaTel Jammu Point,CT0062,ST008,RG01,Owned,05-02-2013
+SR1973,NexaTel Bengaluru Hub,CT0003,ST015,RG03,Owned,08-06-2021
+SR1974,NexaTel Warangal Point,CT0043,ST019,RG03,Owned,30-10-2018
+SR1975,NexaTel Bengaluru Store,CT0003,ST015,RG03,Experience Centre,18-01-2022
+SR1976,NexaTel Agartala Express,CT0066,ST033,RG04,Owned,25-03-2010
+SR1977,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,20-12-2023
+SR1978,NexaTel Indore Express,CT0013,ST012,RG02,Franchise,28-11-2019
+SR1979,NexaTel Chennai Store,CT0004,ST016,RG03,Franchise,30-01-2021
+SR1980,NexaTel Belagavi Point,CT0041,ST015,RG03,Owned,08-07-2012
+SR1981,NexaTel Rourkela Centre,CT0055,ST023,RG04,Franchise,07-03-2013
+SR1982,NexaTel Pune Hub,CT0007,ST010,RG02,Franchise,18-09-2014
+SR1983,NexaTel Jodhpur Hub,CT0035,ST005,RG01,Owned,16-12-2019
+SR1984,NexaTel Mysuru Centre,CT0027,ST015,RG03,Experience Centre,14-08-2017
+SR1985,NexaTel Agartala Express,CT0066,ST033,RG04,Experience Centre,02-10-2017
+SR1986,NexaTel Coimbatore Hub,CT0016,ST016,RG03,Mini Store,16-08-2012
+SR1987,NexaTel Mumbai Point,CT0002,ST010,RG02,Owned,01-02-2010
+SR1988,NexaTel Bhagalpur Hub,CT0056,ST024,RG04,Franchise,05-05-2013
+SR1989,NexaTel Kochi Hub,CT0017,ST017,RG03,Franchise,19-10-2013
+SR1990,NexaTel Agartala Express,CT0066,ST033,RG04,Experience Centre,14-07-2010
+SR1991,NexaTel Bengaluru Express,CT0003,ST015,RG03,Owned,30-11-2010
+SR1992,NexaTel Varanasi Hub,CT0037,ST004,RG01,Mini Store,09-03-2021
+SR1993,NexaTel Bhopal Express,CT0014,ST012,RG02,Owned,01-04-2021
+SR1994,NexaTel Patna Point,CT0021,ST024,RG04,Owned,30-03-2012
+SR1995,NexaTel Gurugram Hub,CT0009,ST002,RG01,Franchise,16-10-2010
+SR1996,NexaTel Gaya Hub,CT0057,ST024,RG04,Owned,04-01-2012
+SR1997,NexaTel Jamshedpur Express,CT0058,ST025,RG04,Franchise,23-10-2013
+SR1998,NexaTel Bhopal Centre,CT0014,ST012,RG02,Mini Store,18-01-2018
+SR1999,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Owned,27-11-2010
+SR2000,NexaTel Rourkela Point,CT0055,ST023,RG04,Franchise,26-11-2022
+SR2001,NexaTel Visakhapatnam Express,CT0018,ST018,RG03,Franchise,14-05-2025
+SR2002,NexaTel Imphal Store,CT0064,ST031,RG04,Owned,23-07-2024
+SR2003,NexaTel Indore Centre,CT0013,ST012,RG02,Franchise,09-02-2011
+SR2004,NexaTel Ludhiana Point,CT0031,ST003,RG01,Franchise,16-05-2023
+SR2005,NexaTel Dehradun Express,CT0033,ST006,RG01,Franchise,27-09-2014
+SR2006,NexaTel Nashik Store,CT0030,ST010,RG02,Owned,17-03-2022
+SR2007,NexaTel Shillong Hub,CT0065,ST034,RG04,Franchise,27-06-2016
+SR2008,NexaTel Ahmedabad Store,CT0008,ST011,RG02,Owned,09-07-2012
+SR2009,NexaTel Bhopal Centre,CT0014,ST012,RG02,Franchise,11-07-2012
+SR2010,NexaTel Panaji Point,CT0063,ST013,RG02,Franchise,17-04-2021
+SR2011,NexaTel Surat Express,CT0019,ST011,RG02,Mini Store,23-02-2014
+SR2012,NexaTel Patna Store,CT0021,ST024,RG04,Owned,12-03-2025
+SR2013,NexaTel Salem Store,CT0044,ST016,RG03,Mini Store,16-04-2010
+SR2014,NexaTel Gangtok Store,CT0068,ST028,RG04,Franchise,11-03-2016
+SR2015,NexaTel Shimla Hub,CT0061,ST007,RG01,Owned,23-10-2022
+SR2016,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,28-02-2021
+SR2017,NexaTel Ahmedabad Point,CT0008,ST011,RG02,Franchise,08-12-2012
+SR2018,NexaTel Madurai Hub,CT0028,ST016,RG03,Franchise,09-02-2013
+SR2019,NexaTel Visakhapatnam Point,CT0018,ST018,RG03,Mini Store,18-10-2012
+SR2020,NexaTel Jodhpur Express,CT0035,ST005,RG01,Mini Store,13-04-2024
+SR2021,NexaTel Visakhapatnam Hub,CT0018,ST018,RG03,Franchise,06-08-2020
+SR2022,NexaTel Raipur Hub,CT0026,ST027,RG04,Franchise,19-06-2013
+SR2023,NexaTel Ludhiana Store,CT0031,ST003,RG01,Mini Store,30-08-2022
+SR2024,NexaTel Surat Store,CT0019,ST011,RG02,Franchise,15-08-2018
+SR2025,NexaTel Dehradun Point,CT0033,ST006,RG01,Franchise,25-08-2010
+SR2026,NexaTel Lucknow Point,CT0012,ST004,RG01,Franchise,19-05-2012
+SR2027,NexaTel Jammu Point,CT0062,ST008,RG01,Owned,15-12-2022
+SR2028,NexaTel Ranchi Point,CT0025,ST025,RG04,Owned,15-06-2015
+SR2029,NexaTel Kolkata Store,CT0005,ST022,RG04,Owned,21-11-2017
+SR2030,NexaTel Siliguri Store,CT0052,ST022,RG04,Mini Store,25-08-2013
+SR2031,NexaTel Cuttack Point,CT0054,ST023,RG04,Franchise,20-06-2017
+SR2032,NexaTel Udaipur Hub,CT0060,ST005,RG01,Experience Centre,15-12-2015
+SR2033,NexaTel Amritsar Centre,CT0032,ST003,RG01,Mini Store,30-10-2016
+SR2034,NexaTel Patna Point,CT0021,ST024,RG04,Mini Store,11-10-2016
+SR2035,NexaTel Bilaspur Point,CT0059,ST027,RG04,Owned,28-12-2021
+SR2036,NexaTel Ludhiana Express,CT0031,ST003,RG01,Franchise,28-10-2011
+SR2037,NexaTel Durgapur Centre,CT0053,ST022,RG04,Owned,18-01-2021
+SR2038,NexaTel Gaya Store,CT0057,ST024,RG04,Franchise,13-09-2021
+SR2039,NexaTel Chandigarh Store,CT0023,ST009,RG01,Franchise,24-11-2020
+SR2040,NexaTel Chandigarh Centre,CT0023,ST009,RG01,Owned,02-07-2019
+SR2041,NexaTel Patna Express,CT0021,ST024,RG04,Franchise,07-04-2013
+SR2042,NexaTel Lucknow Store,CT0012,ST004,RG01,Experience Centre,09-05-2016
+SR2043,NexaTel Hyderabad Store,CT0006,ST019,RG03,Franchise,12-06-2020
+SR2044,NexaTel Bhopal Hub,CT0014,ST012,RG02,Owned,19-10-2014
+SR2045,NexaTel Shillong Hub,CT0065,ST034,RG04,Owned,17-08-2012
+SR2046,NexaTel Salem Point,CT0044,ST016,RG03,Owned,06-01-2019
+SR2047,NexaTel Gurugram Centre,CT0009,ST002,RG01,Mini Store,25-02-2013
+SR2048,NexaTel Kollam Centre,CT0046,ST017,RG03,Franchise,31-10-2018
+SR2049,NexaTel Bhagalpur Store,CT0056,ST024,RG04,Owned,02-05-2015
+SR2050,NexaTel Raipur Point,CT0026,ST027,RG04,Franchise,01-05-2022
+SR2051,NexaTel Varanasi Point,CT0037,ST004,RG01,Owned,06-06-2020
+SR2052,NexaTel Ludhiana Centre,CT0031,ST003,RG01,Owned,14-09-2015
+SR2053,NexaTel Bilaspur Express,CT0059,ST027,RG04,Mini Store,31-03-2012
+SR2054,NexaTel Shimla Hub,CT0061,ST007,RG01,Franchise,14-10-2023
+SR2055,NexaTel Surat Point,CT0019,ST011,RG02,Franchise,01-04-2014
+SR2056,NexaTel Patna Express,CT0021,ST024,RG04,Experience Centre,03-01-2012
+SR2057,NexaTel Kota Hub,CT0050,ST005,RG01,Franchise,09-08-2015
+SR2058,NexaTel Shillong Point,CT0065,ST034,RG04,Owned,04-10-2016
+SR2059,NexaTel Bilaspur Express,CT0059,ST027,RG04,Mini Store,30-04-2022
+SR2060,NexaTel Varanasi Express,CT0037,ST004,RG01,Experience Centre,07-10-2013
+SR2061,NexaTel Aizawl Point,CT0067,ST032,RG04,Mini Store,09-01-2012
+SR2062,NexaTel Ahmedabad Point,CT0008,ST011,RG02,Franchise,03-07-2014
+SR2063,NexaTel Indore Centre,CT0013,ST012,RG02,Franchise,04-12-2015
+SR2064,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,15-12-2022
+SR2065,NexaTel Tirupati Point,CT0042,ST018,RG03,Owned,31-05-2017
+SR2066,NexaTel Mysuru Centre,CT0027,ST015,RG03,Franchise,22-03-2013
+SR2067,NexaTel Panaji Centre,CT0063,ST013,RG02,Owned,21-08-2017
+SR2068,NexaTel Bhubaneswar Store,CT0022,ST023,RG04,Owned,10-08-2022
+SR2069,NexaTel Agartala Point,CT0066,ST033,RG04,Owned,16-06-2013
+SR2070,NexaTel Patna Point,CT0021,ST024,RG04,Franchise,11-11-2010
+SR2071,NexaTel Tiruchirappalli Express,CT0045,ST016,RG03,Mini Store,11-04-2017
+SR2072,NexaTel Warangal Centre,CT0043,ST019,RG03,Mini Store,26-12-2011
+SR2073,NexaTel Jaipur Point,CT0011,ST005,RG01,Owned,13-04-2012
+SR2074,NexaTel Bikaner Point,CT0051,ST005,RG01,Franchise,30-03-2023
+SR2075,NexaTel Agartala Store,CT0066,ST033,RG04,Franchise,17-07-2015
+SR2076,NexaTel Hyderabad Hub,CT0006,ST019,RG03,Franchise,03-06-2021
+SR2077,NexaTel Chennai Store,CT0004,ST016,RG03,Experience Centre,04-10-2015
+SR2078,NexaTel Gaya Hub,CT0057,ST024,RG04,Franchise,29-06-2020
+SR2079,NexaTel Noida Express,CT0010,ST004,RG01,Franchise,16-01-2011
+SR2080,NexaTel Vadodara Centre,CT0020,ST011,RG02,Franchise,22-04-2022
+SR2081,NexaTel Cuttack Hub,CT0054,ST023,RG04,Owned,20-03-2024
+SR2082,NexaTel Gwalior Store,CT0048,ST012,RG02,Owned,04-08-2024
+SR2083,NexaTel Ajmer Express,CT0040,ST005,RG01,Franchise,09-09-2018
+SR2084,NexaTel Ajmer Express,CT0040,ST005,RG01,Franchise,19-06-2011
+SR2085,NexaTel Nagpur Centre,CT0015,ST010,RG02,Experience Centre,08-06-2011
+SR2086,NexaTel Nashik Centre,CT0030,ST010,RG02,Franchise,03-02-2019
+SR2087,NexaTel Gaya Point,CT0057,ST024,RG04,Owned,23-05-2013
+SR2088,NexaTel Ludhiana Express,CT0031,ST003,RG01,Owned,05-02-2022
+SR2089,NexaTel Vijayawada Hub,CT0029,ST018,RG03,Experience Centre,14-05-2025
+SR2090,NexaTel Ranchi Hub,CT0025,ST025,RG04,Franchise,23-08-2015
+SR2091,NexaTel Durgapur Express,CT0053,ST022,RG04,Franchise,09-04-2015
+SR2092,NexaTel Tirupati Store,CT0042,ST018,RG03,Mini Store,09-03-2015
+SR2093,NexaTel Jaipur Express,CT0011,ST005,RG01,Franchise,31-03-2023
+SR2094,NexaTel Panaji Express,CT0063,ST013,RG02,Franchise,19-10-2013
+SR2095,NexaTel Agartala Store,CT0066,ST033,RG04,Franchise,02-03-2014
+SR2096,NexaTel Belagavi Express,CT0041,ST015,RG03,Owned,25-10-2024
+SR2097,NexaTel Kochi Hub,CT0017,ST017,RG03,Owned,24-05-2011
+SR2098,NexaTel Tiruchirappalli Point,CT0045,ST016,RG03,Mini Store,27-09-2020
+SR2099,NexaTel Ahmedabad Point,CT0008,ST011,RG02,Franchise,30-12-2016
+SR2100,NexaTel Bhubaneswar Centre,CT0022,ST023,RG04,Mini Store,23-09-2022
+SR2101,NexaTel Bhubaneswar Store,CT0022,ST023,RG04,Franchise,15-11-2022
+SR2102,NexaTel Surat Hub,CT0019,ST011,RG02,Franchise,16-12-2012
+SR2103,NexaTel Vadodara Centre,CT0020,ST011,RG02,Owned,26-11-2012
+SR2104,NexaTel Ranchi Store,CT0025,ST025,RG04,Owned,23-11-2012
+SR2105,NexaTel Ajmer Point,CT0040,ST005,RG01,Franchise,30-01-2016
+SR2106,NexaTel Siliguri Point,CT0052,ST022,RG04,Mini Store,24-01-2011
+SR2107,NexaTel Surat Store,CT0019,ST011,RG02,Franchise,05-06-2020
+SR2108,NexaTel Varanasi Centre,CT0037,ST004,RG01,Owned,17-05-2024
+SR2109,NexaTel Salem Point,CT0044,ST016,RG03,Owned,03-06-2023
+SR2110,NexaTel Gwalior Express,CT0048,ST012,RG02,Franchise,01-01-2020
+SR2111,NexaTel Raipur Centre,CT0026,ST027,RG04,Owned,02-03-2016
+SR2112,NexaTel Bengaluru Centre,CT0003,ST015,RG03,Franchise,27-11-2010
+SR2113,NexaTel Chandigarh Centre,CT0023,ST009,RG01,Franchise,31-01-2021
+SR2114,NexaTel Durgapur Express,CT0053,ST022,RG04,Franchise,07-04-2025
+SR2115,NexaTel Belagavi Express,CT0041,ST015,RG03,Owned,28-05-2011
+SR2116,NexaTel Gaya Express,CT0057,ST024,RG04,Owned,29-12-2010
+SR2117,NexaTel Shimla Centre,CT0061,ST007,RG01,Experience Centre,21-09-2024
+SR2118,NexaTel Bhopal Point,CT0014,ST012,RG02,Franchise,30-11-2024
+SR2119,NexaTel Gwalior Express,CT0048,ST012,RG02,Mini Store,18-09-2019
+SR2120,NexaTel Nashik Express,CT0030,ST010,RG02,Franchise,17-04-2022
+SR2121,NexaTel Thiruvananthapuram Hub,CT0034,ST017,RG03,Franchise,14-03-2018
+SR2122,NexaTel Jabalpur Point,CT0049,ST012,RG02,Owned,01-07-2024
+SR2123,NexaTel Kochi Centre,CT0017,ST017,RG03,Franchise,16-01-2018
+SR2124,NexaTel Bilaspur Centre,CT0059,ST027,RG04,Mini Store,16-04-2010
+SR2125,NexaTel Shimla Hub,CT0061,ST007,RG01,Mini Store,26-09-2016
+SR2126,NexaTel Ludhiana Hub,CT0031,ST003,RG01,Franchise,08-10-2024
+SR2127,NexaTel Tirupati Hub,CT0042,ST018,RG03,Mini Store,05-01-2025
+SR2128,NexaTel Amritsar Centre,CT0032,ST003,RG01,Franchise,28-12-2010
+SR2129,NexaTel Chennai Express,CT0004,ST016,RG03,Owned,08-05-2020
+SR2130,NexaTel Mysuru Express,CT0027,ST015,RG03,Franchise,02-01-2024
+SR2131,NexaTel Jammu Centre,CT0062,ST008,RG01,Owned,21-03-2021
+SR2132,NexaTel Siliguri Point,CT0052,ST022,RG04,Owned,13-12-2014
+SR2133,NexaTel Vijayawada Centre,CT0029,ST018,RG03,Mini Store,06-03-2022
+SR2134,NexaTel Bhopal Express,CT0014,ST012,RG02,Mini Store,01-05-2017
+SR2135,NexaTel Aurangabad Point,CT0038,ST010,RG02,Franchise,24-06-2018
+SR2136,NexaTel Kolkata Express,CT0005,ST022,RG04,Owned,02-12-2017
+SR2137,NexaTel Durgapur Express,CT0053,ST022,RG04,Owned,22-05-2013
+SR2138,NexaTel Chandigarh Point,CT0023,ST009,RG01,Owned,15-03-2014
+SR2139,NexaTel Bikaner Express,CT0051,ST005,RG01,Franchise,02-11-2017
+SR2140,NexaTel Aizawl Point,CT0067,ST032,RG04,Mini Store,23-09-2018
+SR2141,NexaTel Aurangabad Store,CT0038,ST010,RG02,Franchise,17-04-2011
+SR2142,NexaTel Guwahati Point,CT0024,ST026,RG04,Experience Centre,17-04-2014
+SR2143,NexaTel Bilaspur Centre,CT0059,ST027,RG04,Mini Store,04-02-2010
+SR2144,NexaTel Durgapur Express,CT0053,ST022,RG04,Franchise,14-07-2012
+SR2145,NexaTel Aizawl Point,CT0067,ST032,RG04,Owned,17-11-2010
+SR2146,NexaTel Kolkata Store,CT0005,ST022,RG04,Experience Centre,23-03-2020
+SR2147,NexaTel Jamshedpur Express,CT0058,ST025,RG04,Franchise,15-01-2016
+SR2148,NexaTel Agartala Express,CT0066,ST033,RG04,Owned,09-11-2014
+SR2149,NexaTel Hyderabad Centre,CT0006,ST019,RG03,Franchise,21-12-2014
+SR2150,NexaTel Aizawl Centre,CT0067,ST032,RG04,Mini Store,01-05-2020
+SR2151,NexaTel Kanpur Store,CT0036,ST004,RG01,Owned,23-11-2022
+SR2152,NexaTel Jamshedpur Express,CT0058,ST025,RG04,Owned,01-05-2011
+SR2153,NexaTel Chandigarh Point,CT0023,ST009,RG01,Owned,18-04-2011
+SR2154,NexaTel Gaya Point,CT0057,ST024,RG04,Experience Centre,09-06-2017
+SR2155,NexaTel Kolkata Hub,CT0005,ST022,RG04,Owned,10-07-2020
+SR2156,NexaTel Shimla Point,CT0061,ST007,RG01,Franchise,16-05-2020
+SR2157,NexaTel Jammu Store,CT0062,ST008,RG01,Owned,14-08-2014
+SR2158,NexaTel Bhagalpur Point,CT0056,ST024,RG04,Owned,25-10-2010
+SR2159,NexaTel Panaji Point,CT0063,ST013,RG02,Mini Store,27-01-2012
+SR2160,NexaTel Chandigarh Hub,CT0023,ST009,RG01,Franchise,16-12-2016
+SR2161,NexaTel Pune Express,CT0007,ST010,RG02,Franchise,19-03-2012
+SR2162,NexaTel Shimla Store,CT0061,ST007,RG01,Mini Store,28-07-2011
+SR2163,NexaTel Nashik Express,CT0030,ST010,RG02,Owned,02-04-2025
+SR2164,NexaTel Bhagalpur Hub,CT0056,ST024,RG04,Owned,04-06-2020
+SR2165,NexaTel Kota Centre,CT0050,ST005,RG01,Franchise,14-06-2014
+SR2166,NexaTel Siliguri Point,CT0052,ST022,RG04,Franchise,23-03-2022
+SR2167,NexaTel Jodhpur Hub,CT0035,ST005,RG01,Mini Store,04-12-2017
+SR2168,NexaTel Jammu Store,CT0062,ST008,RG01,Owned,16-12-2013
+SR2169,NexaTel Hubballi Centre,CT0047,ST015,RG03,Franchise,06-10-2019
+SR2170,NexaTel Hyderabad Store,CT0006,ST019,RG03,Owned,04-03-2013
+SR2171,NexaTel Cuttack Point,CT0054,ST023,RG04,Owned,23-10-2010
+SR2172,NexaTel Durgapur Hub,CT0053,ST022,RG04,Franchise,09-05-2012
+SR2173,NexaTel Cuttack Hub,CT0054,ST023,RG04,Owned,14-07-2023
+SR2174,NexaTel Hyderabad Store,CT0006,ST019,RG03,Franchise,15-02-2013
+SR2175,NexaTel Hubballi Store,CT0047,ST015,RG03,Mini Store,02-08-2022
+SR2176,NexaTel Gaya Point,CT0057,ST024,RG04,Owned,11-05-2020
+SR2177,NexaTel Ajmer Store,CT0040,ST005,RG01,Owned,26-01-2016
+SR2178,NexaTel Amritsar Centre,CT0032,ST003,RG01,Experience Centre,28-12-2022
+SR2179,NexaTel Jaipur Centre,CT0011,ST005,RG01,Owned,28-04-2012
+SR2180,NexaTel Vadodara Point,CT0020,ST011,RG02,Franchise,01-10-2012

@@ -1,0 +1,5 @@
+region_id,region_name,zone_hq_city
+RG01,North,Gurugram
+RG02,West,Mumbai
+RG03,South,Bengaluru
+RG04,East,Kolkata

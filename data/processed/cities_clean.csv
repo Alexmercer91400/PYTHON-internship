@@ -1,0 +1,69 @@
+city_id,city_name,state_id,state_name,zone,region_id,tier,pin_prefix
+CT0001,New Delhi,ST001,Delhi,North,RG01,Metro,110
+CT0002,Mumbai,ST010,Maharashtra,West,RG02,Metro,400
+CT0003,Bengaluru,ST015,Karnataka,South,RG03,Metro,560
+CT0004,Chennai,ST016,Tamil Nadu,South,RG03,Metro,600
+CT0005,Kolkata,ST022,West Bengal,East,RG04,Metro,700
+CT0006,Hyderabad,ST019,Telangana,South,RG03,Metro,500
+CT0007,Pune,ST010,Maharashtra,West,RG02,Metro,411
+CT0008,Ahmedabad,ST011,Gujarat,West,RG02,Metro,380
+CT0009,Gurugram,ST002,Haryana,North,RG01,Metro,122
+CT0010,Noida,ST004,Uttar Pradesh,North,RG01,Metro,201
+CT0011,Jaipur,ST005,Rajasthan,North,RG01,Tier-2,302
+CT0012,Lucknow,ST004,Uttar Pradesh,North,RG01,Tier-2,226
+CT0013,Indore,ST012,Madhya Pradesh,West,RG02,Tier-2,452
+CT0014,Bhopal,ST012,Madhya Pradesh,West,RG02,Tier-2,462
+CT0015,Nagpur,ST010,Maharashtra,West,RG02,Tier-2,440
+CT0016,Coimbatore,ST016,Tamil Nadu,South,RG03,Tier-2,641
+CT0017,Kochi,ST017,Kerala,South,RG03,Tier-2,682
+CT0018,Visakhapatnam,ST018,Andhra Pradesh,South,RG03,Tier-2,530
+CT0019,Surat,ST011,Gujarat,West,RG02,Tier-2,395
+CT0020,Vadodara,ST011,Gujarat,West,RG02,Tier-2,390
+CT0021,Patna,ST024,Bihar,East,RG04,Tier-2,800
+CT0022,Bhubaneswar,ST023,Odisha,East,RG04,Tier-2,751
+CT0023,Chandigarh,ST009,Chandigarh,North,RG01,Tier-2,160
+CT0024,Guwahati,ST026,Assam,East,RG04,Tier-2,781
+CT0025,Ranchi,ST025,Jharkhand,East,RG04,Tier-2,834
+CT0026,Raipur,ST027,Chhattisgarh,East,RG04,Tier-2,492
+CT0027,Mysuru,ST015,Karnataka,South,RG03,Tier-2,570
+CT0028,Madurai,ST016,Tamil Nadu,South,RG03,Tier-2,625
+CT0029,Vijayawada,ST018,Andhra Pradesh,South,RG03,Tier-2,520
+CT0030,Nashik,ST010,Maharashtra,West,RG02,Tier-2,422
+CT0031,Ludhiana,ST003,Punjab,North,RG01,Tier-2,141
+CT0032,Amritsar,ST003,Punjab,North,RG01,Tier-2,143
+CT0033,Dehradun,ST006,Uttarakhand,North,RG01,Tier-2,248
+CT0034,Thiruvananthapuram,ST017,Kerala,South,RG03,Tier-2,695
+CT0035,Jodhpur,ST005,Rajasthan,North,RG01,Tier-2,342
+CT0036,Kanpur,ST004,Uttar Pradesh,North,RG01,Tier-2,208
+CT0037,Varanasi,ST004,Uttar Pradesh,North,RG01,Tier-2,221
+CT0038,Aurangabad,ST010,Maharashtra,West,RG02,Tier-2,431
+CT0039,Agra,ST004,Uttar Pradesh,North,RG01,Tier-3,282
+CT0040,Ajmer,ST005,Rajasthan,North,RG01,Tier-3,305
+CT0041,Belagavi,ST015,Karnataka,South,RG03,Tier-3,590
+CT0042,Tirupati,ST018,Andhra Pradesh,South,RG03,Tier-3,517
+CT0043,Warangal,ST019,Telangana,South,RG03,Tier-3,506
+CT0044,Salem,ST016,Tamil Nadu,South,RG03,Tier-3,636
+CT0045,Tiruchirappalli,ST016,Tamil Nadu,South,RG03,Tier-3,620
+CT0046,Kollam,ST017,Kerala,South,RG03,Tier-3,691
+CT0047,Hubballi,ST015,Karnataka,South,RG03,Tier-3,580
+CT0048,Gwalior,ST012,Madhya Pradesh,West,RG02,Tier-3,474
+CT0049,Jabalpur,ST012,Madhya Pradesh,West,RG02,Tier-3,482
+CT0050,Kota,ST005,Rajasthan,North,RG01,Tier-3,324
+CT0051,Bikaner,ST005,Rajasthan,North,RG01,Tier-3,334
+CT0052,Siliguri,ST022,West Bengal,East,RG04,Tier-3,734
+CT0053,Durgapur,ST022,West Bengal,East,RG04,Tier-3,713
+CT0054,Cuttack,ST023,Odisha,East,RG04,Tier-3,753
+CT0055,Rourkela,ST023,Odisha,East,RG04,Tier-3,769
+CT0056,Bhagalpur,ST024,Bihar,East,RG04,Tier-3,812
+CT0057,Gaya,ST024,Bihar,East,RG04,Tier-3,823
+CT0058,Jamshedpur,ST025,Jharkhand,East,RG04,Tier-3,831
+CT0059,Bilaspur,ST027,Chhattisgarh,East,RG04,Tier-3,495
+CT0060,Udaipur,ST005,Rajasthan,North,RG01,Tier-3,313
+CT0061,Shimla,ST007,Himachal Pradesh,North,RG01,Tier-3,171
+CT0062,Jammu,ST008,Jammu and Kashmir,North,RG01,Tier-3,180
+CT0063,Panaji,ST013,Goa,West,RG02,Tier-3,403
+CT0064,Imphal,ST031,Manipur,East,RG04,Tier-3,795
+CT0065,Shillong,ST034,Meghalaya,East,RG04,Tier-3,793
+CT0066,Agartala,ST033,Tripura,East,RG04,Tier-3,799
+CT0067,Aizawl,ST032,Mizoram,East,RG04,Tier-3,796
+CT0068,Gangtok,ST028,Sikkim,East,RG04,Tier-3,737
